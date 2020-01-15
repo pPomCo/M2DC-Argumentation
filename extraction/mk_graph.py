@@ -4,7 +4,7 @@ Build the graph from the collection of csv files produced by an extraction
 
 import os
 
-def main(csvdir): 
+def main(csvdir, hashmap=None):
 
     # Init
     edges = []
@@ -15,6 +15,8 @@ def main(csvdir):
     
     def get_num(arg_id):
         """Numerical id (auto-increment)"""
+        if arg_id is None:
+            print("arg_id is None !")
         if not arg_id in arg_nums.keys():
             arg_nums[arg_id] = len(arg_nums)
         return arg_nums[arg_id]
@@ -29,14 +31,23 @@ def main(csvdir):
 
     # Read each csv file        
     filenames = os.listdir(csvdir)
-    for filename in filenames:
+    for filename in [f for f in filenames if f.endswith('.csv')]:
 
         # arg_id of the page (slashes was changed into tildes)
-        child_id = filename.replace('.csv', '').replace('~','/')
+        if hashmap is None:
+            child_id = filename.replace('.csv', '').replace('~','/')
+        else:
+            child_id = id2url(filename.replace('.csv', ''), hashmap)
 
         with open(os.path.join(csvdir, filename), 'r') as f:
             for line in f:
-                parent_id, parent_label, weight = line[:-1].split(';')
+                line = line[:-1].split(';')
+                if len(line) > 3:
+                    parent_id = line[0]
+                    parent_label = ";".join(line[1:-1])
+                    weight = line[-1]
+                else:
+                    parent_id, parent_label, weight = line
 
                 # Leaves do not have ids (i.e. does not have urls)
                 if parent_id == '':
@@ -61,14 +72,26 @@ def main(csvdir):
             print(u, v, w, sep=',', file=f)
 
 
-    
+
+def id2url(file_id, hashmap):
+    """Get back original url from the csv's filename"""
+    with open(hashmap, 'r') as f:
+        for line in f:
+            line = line.split(';')
+            if line[1] == file_id+'\n':
+                return line[0]
+    return "None"
+
+
+
 if __name__ == "__main__":
 
     # Parse command-line arguments
     import argparse
     parser = argparse.ArgumentParser(description="Parse the CSV files produced by an extraction and build the 'nodes' and 'edges' CSVs")
     parser.add_argument('directory')
+    parser.add_argument('--hashmap', default=None)
     args = parser.parse_args()
 
     # Let's-a-go !
-    main(args.directory)
+    main(args.directory, hashmap=args.hashmap)
