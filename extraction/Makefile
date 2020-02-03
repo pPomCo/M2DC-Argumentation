@@ -17,11 +17,12 @@ download:  $(foreach o, $(ORIGINS), $(N4J_DB_PATH)/import/$(o)_nodes.csv $(N4J_D
 	$(CYPHER_SHELL) 'MATCH (x) RETURN count(x) as inserted'
 	date > $@
 
-$(N4J_DB_PATH)/import/%.csv: ./%.csv
+$(N4J_DB_PATH)/import/%.csv: data/%.csv
 	cp $< $(N4J_DB_PATH)/import
 
-%_nodes.csv %_edges.csv:
+data/%_nodes.csv data/%_edges.csv:
 	./extract.sh $(subst -, ,$*) --n_threads $(N_THREADS)
+	cp $(not-dir $@) $(dir $@)
 
 
 all_insertion.cql: $(foreach o, $(ORIGINS), $(o)_insertion.cql)
