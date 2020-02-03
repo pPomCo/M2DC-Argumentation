@@ -1,0 +1,195 @@
+premise, conclusion, weight
+" On dit depuis 40 ans que les religions sont en recul", " On assisie au chant du cygne de la religion", -1.0
+" Le Front populaire a soutenu le renforcement du contrôle et de la répression contre les étrangers", " La gauche au pouvoir a toujours été complice des lois anti-immigration", 1.0
+" François Hollande au pouvoir n'a abrogé aucune des lois anti-immigrés adoptées sous le quinquennat de Nicolas Sarkozy", " La gauche au pouvoir a toujours été complice des lois anti-immigration", 1.0
+" C'est le socialiste Michel Rocard qui a affirmé le premier que la France ne peut pas accueillir toute la misère du monde", " La gauche au pouvoir a toujours été complice des lois anti-immigration", 1.0
+" François Hollande a renoncé à sa promesse électorale du droit de vote des étrangers aux municipales", " La gauche au pouvoir a toujours été complice des lois anti-immigration", 1.0
+" Le gouvernement du Front populaire n'a abrogé aucune des lois anti-immigration adoptées par le gouvernement précédent", " La gauche au pouvoir a toujours été complice des lois anti-immigration", 1.0
+" Manuel Valls a alimenté la xénophobie", " La gauche au pouvoir a toujours été complice des lois anti-immigration", 1.0
+" C'est quand la socialiste Edith Cresson était Première ministre que les demandeurs d'asile ont perdu le droit de travailler", " La gauche au pouvoir a toujours été complice des lois anti-immigration", 1.0
+"Cet argument ne vaut que pour les chrétiens et yézidis, ou pour les opposants persécutés, pas pour tous les migrants", " Refuser d'accueillir les migrants, c'est comme refuser d'accueillir les juifs en 1940", -1.0
+" Les migrants occupent les travaux les plus durs et les moins bien payés", " Les migrants prennent le travail des Français", -1.0
+"Il y a 18% de nouveaux-nés avec un prénom musulman en France", " Le nombre d'étrangers en France est stable depuis 20 ans", -1.0
+"Les valeurs des migrants viennent des sociétés patriarcales et non du progressisme", " Les migrants véhiculent des valeurs progressistes de solidarité", -1.0
+" On n'a pas les moyens d'accueillir les migrants", " On accueille très peu de migrants étant donné les moyens de l’Europe", -1.0
+" Il n'y a pas d'identité française ou européenne", " Les migrants mettent en cause notre identité", -1.0
+"Si ils respectent les normes juridiques des pays européens, les migrants y ont toute leur place", " Les migrants mettent en cause notre identité", -1.0
+"Les migrants s'adaptent à nos façons de vivre et se sécularisent", " Choc des cultures et risque de guerre civile", -1.0
+" Différence entre stock et flux", " On accueille très peu de migrants étant donné les moyens de l’Europe", -1.0
+"Les migrants vont peser sur les retraites", " Les migrants vont payer les retraites", -1.0
+"L'envoi d'argent dans les pays du Sud ne permet pas de réel développement", " Les migrants font vivre des milliers de familles dans les pays pauvres", -1.0
+" La colonisation n'a pas ruiné l'Afrique", " Les pays occidentaux ont colonisé et pillé les pays africains", -1.0
+"Les pays du Sud sont sous le joug des multinationales et des anciens colonisateurs", " Les pays du Sud ont voulu l'indépendance, il n'y a pas de raison que leurs populations viennent chez les anciens colonisateurs", -1.0
+" Le solde migratoire de l'Europe est nul", " On accueille très peu de migrants étant donné les moyens de l’Europe", 1.0
+"On doit préserver la diversité des cultures", " Les migrants empêchent la formation d’identités figées", -1.0
+" Il est faux qu'on accueille très peu de migrants étant donné les moyens de l’Europe", " On accueille très peu de migrants étant donné les moyens de l’Europe", -1.0
+"Les pays asiatiques subissent aussi l'impérialisme et pourtant ils ne produisent pas des millions de migrants", " Les pays occidentaux continuent de piller les pays africains", -1.0
+"Il est tout à fait possible de négocier avec les pays d'émigration", " On ne peut pas les renvoyer dans leurs pays (pour des raisons juridiques)", -1.0
+" Les migrants ne sont pas plus délinquants que les nationaux", " L'insécurité augmente, car harcèlements, viols, agressions sexistes, antisémites, etc., sont commis par certains migrants", -1.0
+" Le regroupement familial permettra leur intégration", " On fait venir des millions d'hommes déracinés qui s'intégreront difficilement", -1.0
+" La gauche au pouvoir a toujours été complice des lois anti-immigration", " Seule l'extrême droite rejette les migrants", -1.0
+"On doit accueillir l'étranger mais pas l'installer à demeure", " Une des bases de l'éthique c'est d'accueillir l'étranger", -1.0
+"Peu de migrants ont des préoccupations écologiques", " Les migrants véhiculent des valeurs progressistes de solidarité", -1.0
+" Le nombre d'étrangers et de leurs descendants est en constante augmentation selon l'Insee", " Le nombre d'étrangers en France est stable depuis 20 ans", -1.0
+"Beaucoup de migrants rêvent du capitalisme et vont le renforcer", " Les migrants véhiculent des valeurs progressistes de solidarité", -1.0
+"On peut relancer la démographie par des mesures natalistes, sans migrants", " Les migrants relanceront la démographie en Europe", -1.0
+" On créera des stages pour adapter leur comportement avec les femmes", " On augmente le sexisme ambiant en faisant venir ces migrants", -1.0
+"On ne doit accueillir l'étranger que s'il respecte nos moeurs, pas si il importe les siennes", " Une des bases de l'éthique c'est d'accueillir l'étranger", -1.0
+" L'Europe ne peut pas fermer ses frontières", " C'est une question de volonté politique (Australie, Japon)", -1.0
+" Il existe des raisons économiques ou politiques pour refuser les migrants", " Refuser les migrants, c'est être raciste", -1.0
+"Ils se séculariseront", " Certains migrants véhiculent de l'intolérance religieuse", -1.0
+"On est pas obligé d'adopter l'éthique chrétienne", " Une des bases de l'éthique c'est d'accueillir l'étranger", -1.0
+" On a déjà un taux d'immigrés élevés, on ne peut pas accueillir encore plus de migrants", " On accueille très peu de migrants étant donné les moyens de l’Europe", -1.0
+"Nous n'avons d'obligation juridique qu'envers les réfugiés de guerre, pas envers les réfugiés économiques", " On ne peut pas les renvoyer dans leurs pays (pour des raisons juridiques)", -1.0
+" Réserver les emplois aux seuls nationaux représente un danger pour tous", " Les migrants prennent le travail des Français", -1.0
+" Seuls les pays riches sont multiculturels", " Le sens de l'Histoire est à la mondialisation", -1.0
+" La situation actuelle n'est pas celle des Trente Glorieuses", " Il y a toujours des peurs autour de l'immigré, qui in fine s'intègre normalement", -1.0
+" Il y a déjà beaucoup de chômeurs à employer au lieu d'appeler des migrants", " Les migrants travaillent à des postes que les Européens ne veulent pas occuper", -1.0
+"On ne peut pas créer une Europe policière pour ficher chaque migrant", " On ne connaît pas l'identité précise de beaucoup des personnes que l'on accueille", -1.0
+" Ce sont les patrons qui profitent des migrants pour augmenter l'exploitation", " L'afflux de migrants tire les salaires vers le bas", -1.0
+" Les travailleurs sans-papiers sont capables d'améliorer le rapport de force en faveur de l'ensemble des travailleurs", " L'afflux de migrants tire les salaires vers le bas", -1.0
+" Les enfants des migrants s'intégreront bien", " Il y a des problèmes avec les enfants des immigrés, cela incite à ne pas accueillir de nouveaux migrants", -1.0
+" C'est nous qui les avons fait venir", " Les pays du Sud ont voulu l'indépendance, il n'y a pas de raison que leurs populations viennent chez les anciens colonisateurs", -1.0
+" Des pays non colonisateurs comme la Suède subissent de fortes migrations", " Les pays occidentaux ont colonisé et pillé les pays africains", -1.0
+"L'esclavage a été pratiqué à aussi grande échelle par le monde arabe", " Les pays occidentaux ont pratiqué l'esclavage, ils doivent réparation", -1.0
+"Si on en accueille si peu, pourquoi sont-ils dans les rues ?", " On accueille très peu de migrants étant donné les moyens de l’Europe", -1.0
+" Beaucoup de sans-papiers travaillent", " Les migrants bénéficient d'aides sociales sans rien faire", -1.0
+" Les peuples africains sont pillés par leurs propres régimes et non par le Nord", " Les pays occidentaux continuent de piller les pays africains", -1.0
+"Beaucoup ne sont que des migrants économiques", " Refuser d'accueillir les migrants, c'est comme refuser d'accueillir les juifs en 1940", -1.0
+" L'argent envoyé 'au pays' permet de maintenir le statu quo et les régimes corrompus", " Les migrants font vivre des milliers de familles dans les pays pauvres", -1.0
+" Beaucoup de conflits viennent des pays du Sud eux-mêmes", " On a déstabilisé par des guerres leurs pays, on doit les accueillir", -1.0
+"Ceux qui refusent les migrants, refusent en général aussi les migrants d'autres pays européens", " Refuser les migrants, c'est être raciste", -1.0
+" Les migrations appauvrissent les pays du Sud", " Les migrants font vivre des milliers de familles dans les pays pauvres", -1.0
+"En n'accueillant pas les migrants, l'Europe perd son âme et trahit ses valeurs", " Les migrants mettent en cause notre identité", -1.0
+"Les gens sont le jouet de peurs irrationnelles", " Les Européens sont majoritairement défavorables à l’accueil des migrants", -1.0
+" Les migrants sont peu employables dans nos pays", " Les migrants bénéficient d'aides sociales sans rien faire", 1.0
+"Les lois dépendent de la volonté des citoyens et doivent être soumises au politique", " On ne peut pas les renvoyer dans leurs pays (pour des raisons juridiques)", -1.0
+"L'identité concrète de la France, c'est déjà le métissage", " Les migrants mettent en cause notre identité", -1.0
+"Il n'y a pas de sens de l'histoire", " Le sens de l'Histoire est à la mondialisation", -1.0
+" Les migrants sont minoritaires, ils ne peuvent pas être intolérants", " Certains migrants véhiculent de l'intolérance religieuse", -1.0
+"C'est en accueillant des musulmans que l'on évite le soi-disant 'choc des civilisations'", " Choc des cultures et risque de guerre civile", -1.0
+"On créera des stages pour leur apprendre les codes de la séduction", " On fait venir des millions d'hommes déracinés qui s'intégreront difficilement", -1.0
+"Il n'y a pas de 'contentieux' avec l'islam", " Choc des cultures et risque de guerre civile", -1.0
+" La France est passée de 50 millions à 66 millions d'habitants en quelques décennies du fait de l'immigration", " Le nombre d'étrangers en France est stable depuis 20 ans", -1.0
+"Tout dépend de la définition d' 'étranger'", " Le nombre d'étrangers en France est stable depuis 20 ans", -1.0
+" On assisie au chant du cygne de la religion", " Choc des cultures et risque de guerre civile", -1.0
+" Il n'existe pas de lien entre chômage et immigration", " Les migrants prennent le travail des Français", -1.0
+" Le coût de l'immigration est largement controversé", " Les migrants représentent de la croissance", -1.0
+" Pour des raisons humanistes, on peut déplorer les migrations", " Il est inhumain de rester indifférent au sort des migrants", -1.0
+" Pour des raisons humanistes, on peut déplorer les migrations", " Refuser les migrants, c'est être raciste", -1.0
+" Le métissage est important", " L'arrivée des migrants favorise le communautarisme", -1.0
+" Quand ils connaissent personnellement des migrants, les français sont contents de les accueillir", " Les Européens sont majoritairement défavorables à l’accueil des migrants", -1.0
+"L'histoire est une série de colonisations successives", " Les pays occidentaux ont colonisé et pillé les pays africains", -1.0
+" Les frontières protégent les différences culturelles", " Il faut à terme abolir les frontières", -1.0
+"Le sens de l'histoire est au retour des identités", " Le sens de l'Histoire est à la mondialisation", -1.0
+"Nous n'avons d'obligation morale qu'envers les réfugiés de guerre, pas envers les réfugiés économiques", " Une des bases de l'éthique c'est d'accueillir l'étranger", -1.0
+"La France est le pays le moins raciste du monde", " Refuser les migrants, c'est être raciste", -1.0
+"Les migrants représentent un coût important", " Grâce aux migrants, l'activité repart", -1.0
+" Il existe des partis de gauche qui sont rétifs aux vagues de migrants", " Seule l'extrême droite rejette les migrants", -1.0
+"Ils vont adopter nos moeurs", " On augmente le sexisme ambiant en faisant venir ces migrants", -1.0
+" Les migrants devraient être exemplaires car ils sont en situation d'invités", " Les migrants sont des hommes jeunes, il est normal qu'il y ait parmi eux une part de délinquant", -1.0
+" La course à toujours plus de population est une erreur", " Les migrants relanceront la démographie en Europe", -1.0
+"C'est une question de volonté politique (Australie, Japon)", " On ne peut pas fermer les frontières", -1.0
+"Les migrants représentent des inconvénients autres qu'économiques", " Les migrants représentent de la croissance", -1.0
+"On ne peut pas accueillir tous les gens en danger de mort de la planète", " Refuser d'accueillir les migrants, c'est comme refuser d'accueillir les juifs en 1940", -1.0
+"Les gens n'ont pas voté pour des partis antimigrants", " Les Européens sont majoritairement défavorables à l’accueil des migrants", -1.0
+" Ce n'est pas la connaissance de l'autre qui abolira les conflits", " Les migrants empêchent la formation d’identités figées", -1.0
+" Grâce aux migrants, l'activité repart", " Accueillir les migrants est un plus pour l'économie des pays européens", 1.0
+"Demander réparation pour tous les crimes passés est un processus aberrant", " On doit réparation aux populations des pays du Sud", -1.0
+" Les pays occidentaux continuent de piller les pays africains", " On doit réparation aux populations des pays du Sud", 1.0
+" Les migrants ne sont pas réellement employables", " Accueillir les migrants est un plus pour l'économie des pays européens", -1.0
+" Les migrants ne sont pas réellement employables", " Les migrants vont payer les retraites", -1.0
+" On fait monter le populisme en accueillant des migrants", " Les migrants risquent de déstabiliser le vivre-ensemble", 1.0
+" On vide l'Afrique de ses forces vives", " La migration est un problème pour les pays dont les migrants proviennent", 1.0
+" Les migrants bénéficient d'aides sociales sans rien faire", " On ne peut pas accueillir toute la misère du monde", 1.0
+" Les migrants favorisent la diversité de nos sociétés ouvertes", " Accueillir les migrants est un atout culturel et social", 1.0
+" Il y a toujours des peurs autour de l'immigré, qui in fine s'intègre normalement", " On ne peut pas contrôler l'immigration", -1.0
+" On accueille très peu de migrants étant donné les moyens de l’Europe", " On ne peut pas accueillir toute la misère du monde", -1.0
+" On accueille très peu de migrants étant donné les moyens de l’Europe", " Accueillir les migrants est un devoir humaniste", 1.0
+" Les migrants vont payer les retraites", " Accueillir les migrants est un plus pour l'économie des pays européens", 1.0
+" Le nombre d'étrangers en France est stable depuis 20 ans", " On ne peut pas accueillir toute la misère du monde", -1.0
+" Le nombre d'étrangers en France est stable depuis 20 ans", " L'afflux de migrants fait baisser la qualité de vie et monter les violences", -1.0
+" On a suffisamment réparé nos crimes passés", " On doit réparation aux populations des pays du Sud", -1.0
+" On crée une nouvelle traite d'êtres humains avec les passeurs et trafiquants", " La migration est un problème pour les pays dont les migrants proviennent", 1.0
+" C'est une question de volonté politique (Australie, Japon)", " On ne peut pas empêcher l'immigration", -1.0
+" On ne peut pas les renvoyer dans leurs pays (pour des raisons juridiques)", " On ne peut pas empêcher l'immigration", 1.0
+" La France comme l'Europe se sont constituées par des vagues perpétuelles d'immigration", " On ne peut pas empêcher l'immigration", 1.0
+" On ne peut pas fermer les frontières", " On ne peut pas empêcher l'immigration", 1.0
+" L'afflux de migrants tire les salaires vers le bas", " L'afflux de migrants fait baisser la qualité de vie et monter les violences", 1.0
+" On ne peut pas attribuer aux migrants les agressions commises par les descendants d'immigrés", " L'afflux de migrants fait baisser la qualité de vie et monter les violences", -1.0
+" Les migrants prennent le travail des Français", " On ne peut pas accueillir toute la misère du monde", 1.0
+"Le réchauffement climatique va entrainer de grandes migrations", " On ne peut pas empêcher l'immigration", 1.0
+" On a déstabilisé par des guerres leurs pays, on doit les accueillir", " On doit réparation aux populations des pays du Sud", 1.0
+"On ne peut pas tolérer les morts en Méditerranée", " Les solutions visant à limiter l'immigration sont inhumaines et barbares", 1.0
+" Certains migrants véhiculent un nouvel antisémitisme", " L'afflux de migrants fait baisser la qualité de vie et monter les violences", 1.0
+" Choc des cultures et risque de guerre civile", " Les migrants risquent de déstabiliser le vivre-ensemble", 1.0
+"On ne peut pas tolérer les traques aux frontières", " Les solutions visant à limiter l'immigration sont inhumaines et barbares", 1.0
+" On ne peut pas tolérer les camps de rétention pour les migrants", " Les solutions visant à limiter l'immigration sont inhumaines et barbares", 1.0
+" Il faut à terme abolir les frontières", " Accueillir les migrants est un devoir humaniste", 1.0
+" L'immense majorité des réfugiés sont accueillis et restent dans les pays pauvres voisins", " On ne peut pas accueillir toute la misère du monde", -1.0
+" En accueillant les migrants, on encourage une nouvelle traite d'êtres humains", " Accueillir les migrants est un devoir humaniste", -1.0
+" Il est inhumain de rester indifférent au sort des migrants", " Accueillir les migrants est un devoir humaniste", 1.0
+" Il y a des problèmes avec les enfants des immigrés, cela incite à ne pas accueillir de nouveaux migrants", " Il ne faut pas confondre 'migrants récents' et 'immigrés de longue date'", -1.0
+" Il y a des problèmes avec les enfants des immigrés, cela incite à ne pas accueillir de nouveaux migrants", " On ne peut pas accueillir toute la misère du monde", 1.0
+" Les pays occidentaux ont colonisé et pillé les pays africains", " On doit réparation aux populations des pays du Sud", 1.0
+" Les lois limitant le droit au séjour des étrangers ne font que rendre plus difficile la vie des migrants", " Les solutions visant à limiter l'immigration sont inhumaines et barbares", 1.0
+" Les migrants sont des hommes jeunes, il est normal qu'il y ait parmi eux une part de délinquant", " L'afflux de migrants fait baisser la qualité de vie et monter les violences", -1.0
+" Il faut se soucier des conséquences de l'accueil des migrants", " Accueillir les migrants est un devoir humaniste", -1.0
+" On fait venir des millions d'hommes déracinés qui s'intégreront difficilement", " Les migrants risquent de déstabiliser le vivre-ensemble", 1.0
+" Les pays occidentaux ont pratiqué l'esclavage, ils doivent réparation", " On doit réparation aux populations des pays du Sud", 1.0
+" Les Européens sont majoritairement défavorables à l’accueil des migrants", " L’accueil de migrants va contre la volonté populaire", 1.0
+"Les migrants permettent de repeupler les villages", " Accueillir les migrants est un atout culturel et social", 1.0
+" Les grandes migrations signent la fin du modèle social européen", " On ne peut pas accueillir toute la misère du monde", 1.0
+" Les migrants empêchent la formation d’identités figées", " Accueillir les migrants est un atout culturel et social", 1.0
+" Beaucoup de migrants soi-disant mineurs sont des adultes", " On ne peut pas contrôler l'immigration", 1.0
+" L'arrivée des migrants favorise le communautarisme", " Les migrants risquent de déstabiliser le vivre-ensemble", 1.0
+" Les solutions visant à limiter l'immigration sont inhumaines et barbares", " Faut-il accueillir davantage de migrants ?", 1.0
+" Accueillir les migrants est un atout culturel et social", " Faut-il accueillir davantage de migrants ?", 1.0
+" Accueillir les migrants est un devoir humaniste", " Faut-il accueillir davantage de migrants ?", 1.0
+" Accueillir les migrants est un plus pour l'économie des pays européens", " Faut-il accueillir davantage de migrants ?", 1.0
+" On ne peut pas accueillir toute la misère du monde", " Faut-il accueillir davantage de migrants ?", -1.0
+" L’accueil de migrants va contre la volonté populaire", " Faut-il accueillir davantage de migrants ?", -1.0
+" La migration est un problème pour les pays dont les migrants proviennent", " Faut-il accueillir davantage de migrants ?", -1.0
+" On ne peut pas empêcher l'immigration", " Faut-il accueillir davantage de migrants ?", 1.0
+" On doit réparation aux populations des pays du Sud", " Faut-il accueillir davantage de migrants ?", 1.0
+" Les migrants risquent de déstabiliser le vivre-ensemble", " Faut-il accueillir davantage de migrants ?", -1.0
+" On ne peut pas contrôler l'immigration", " Faut-il accueillir davantage de migrants ?", -1.0
+" L'afflux de migrants fait baisser la qualité de vie et monter les violences", " Faut-il accueillir davantage de migrants ?", -1.0
+"La France n'a pas les moyens économiques d'accueillir les migrants", " On ne peut pas accueillir toute la misère du monde", 1.0
+" N'accueillir que les migrants fortunés est scandaleux", " On ne peut pas accueillir toute la misère du monde", -1.0
+" L'Europe n'a pas de responsabilité dans la démographie galopante de l'Afrique", " On doit réparation aux populations des pays du Sud", -1.0
+" On augmente le sexisme ambiant en faisant venir ces migrants", " L'afflux de migrants fait baisser la qualité de vie et monter les violences", 1.0
+" Les migrants sont une main-d’oeuvre peu coûteuse pour les entreprises", " Accueillir les migrants est un plus pour l'économie des pays européens", 1.0
+"Quelles que soient les mesures de fermeture des frontières, les populations pauvres migreront quand même", " On ne peut pas empêcher l'immigration", 1.0
+"En leur donnant de meilleures conditions d'accueil, on n'aurait pas ces problèmes", " L'afflux de migrants fait baisser la qualité de vie et monter les violences", -1.0
+" Si les migrants acceptent de prendre autant de risques, c'est qu'ils n'ont pas le choix", " On ne peut pas empêcher l'immigration", 1.0
+" Il y a des islamistes dangereux parmi les migrants", " On ne peut pas contrôler l'immigration", 1.0
+" Refuser d'accueillir les migrants, c'est comme refuser d'accueillir les juifs en 1940", " Accueillir les migrants est un devoir humaniste", 1.0
+" On ne doit pas créer une Europe-forteresse", " Accueillir les migrants est un devoir humaniste", 1.0
+" Les migrants travaillent à des postes que les Européens ne veulent pas occuper", " Accueillir les migrants est un plus pour l'économie des pays européens", 1.0
+"On ne peut pas tolérer les traques et les pogroms", " Les solutions visant à limiter l'immigration sont inhumaines et barbares", 1.0
+" Certains migrants véhiculent de l'intolérance religieuse", " L'afflux de migrants fait baisser la qualité de vie et monter les violences", 1.0
+" Quand un pays riche comme la France refuse d'accueillir les migrants, ils sont renvoyés vers des pays plus pauvres", " On ne peut pas accueillir toute la misère du monde", -1.0
+" Les migrants font vivre des milliers de familles dans les pays pauvres", " On doit réparation aux populations des pays du Sud", 1.0
+" L'insécurité augmente, car harcèlements, viols, agressions sexistes, antisémites, etc., sont commis par certains migrants", " L'afflux de migrants fait baisser la qualité de vie et monter les violences", 1.0
+"Les migrants bénéficient d'aides sociales au détriment des Français", " On ne peut pas accueillir toute la misère du monde", 1.0
+"Pourquoi accueillir ces migrants dans la lointaine Europe plutôt que dans les pays musulmans ?", " Accueillir les migrants est un devoir humaniste", -1.0
+" Refuser les migrants, c'est être raciste", " Accueillir les migrants est un devoir humaniste", 1.0
+" On ne peut pas tolérer les expulsions de migrants", " Les solutions visant à limiter l'immigration sont inhumaines et barbares", 1.0
+" Une des bases de l'éthique c'est d'accueillir l'étranger", " Accueillir les migrants est un devoir humaniste", 1.0
+" Accueillir les migrants est un premier pas vers la construction d’un ensemble géopolitique euroméditerranéen", " Accueillir les migrants est un plus pour l'économie des pays européens", 1.0
+" Les pays du Sud ont voulu l'indépendance, il n'y a pas de raison que leurs populations viennent chez les anciens colonisateurs", " L’accueil de migrants va contre la volonté populaire", 1.0
+" Les migrants relanceront la démographie en Europe", " Accueillir les migrants est un plus pour l'économie des pays européens", 1.0
+" Les migrants représentent de la croissance", " On ne peut pas accueillir toute la misère du monde", -1.0
+" Seule l'extrême droite rejette les migrants", " Accueillir les migrants est un devoir humaniste", 1.0
+"On vend du rêve alors que nos pays sont en crise", " La migration est un problème pour les pays dont les migrants proviennent", 1.0
+" Les migrants véhiculent des valeurs progressistes de solidarité", " Accueillir les migrants est un atout culturel et social", 1.0
+" On fait un appel d'air qui pousse les gens à migrer dans des conditions risquées", " La migration est un problème pour les pays dont les migrants proviennent", 1.0
+"Quand les Français connaissent personnellement des migrants, cela se passe bien", " On ne peut pas contrôler l'immigration", -1.0
+" Nous n'avons pas les moyens d'accueillir les migrants", " Accueillir les migrants est un devoir humaniste", -1.0
+" Il ne faut pas confondre 'migrants récents' et 'immigrés de longue date'", " On fait monter le populisme en accueillant des migrants", -1.0
+" Il ne faut pas confondre 'migrants récents' et 'immigrés de longue date'", " Les migrants risquent de déstabiliser le vivre-ensemble", -1.0
+" Le sens de l'Histoire est à la mondialisation", " On ne peut pas empêcher l'immigration", 1.0
+" On ne connaît pas l'identité précise de beaucoup des personnes que l'on accueille", " On ne peut pas contrôler l'immigration", 1.0
+" On fait venir des milliers de personnes trop peu éduquées", " On ne peut pas contrôler l'immigration", 1.0
+" Les migrants mettent en cause notre identité", " Les migrants risquent de déstabiliser le vivre-ensemble", 1.0

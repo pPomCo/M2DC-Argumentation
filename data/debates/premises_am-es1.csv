@@ -1,0 +1,5 @@
+premise, conclusion, weight
+"Necesitarias argumentar tu posición de forma extensa", "42 puede ser malinterpretado.", -1.0
+"Seis por siete es 42.", " El sentido de la vida es 42", 1.0
+"42 puede ser malinterpretado.", " El sentido de la vida es 42", -0.5
+"El número solo es de un libro de fantástica. No representa la realidad.", " El sentido de la vida es 42", -1.0

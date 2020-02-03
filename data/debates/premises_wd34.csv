@@ -1,0 +1,47 @@
+premise, conclusion, weight
+" Les quelques erreurs dans le rapport du GIEC de 2007 ne remettent pas en question la conclusion globale du rappport", " Le rapport du GIEC de 2007 comporte de nombreuses erreurs", -1.0
+" Le rôle des rayons cosmiques dans la création des noyaux de condensation est remis en question", " Le réchauffement climatique est dû à l'activité solaire", -1.0
+" Le réchauffement climatique ne s'observe pas sur les autres planètes du système solaire", " Le réchauffement climatique s'observe aussi sur Mars", -1.0
+" L'influence de l'activité solaire sur le réchauffement climatique a été confirmée par l'étude de données hydrologiques en Afrique du Sud", " Le réchauffement climatique est dû à l'activité solaire", 1.0
+" L'hypothèse d'une influence de l'activité solaire sur le réchauffement climatique a été invalidée par l'expérience CLOUD", " Le réchauffement climatique est dû à l'activité solaire", -1.0
+" Le ralentissement du réchauffement climatique entre 1998 et 2012 s'explique par des facteurs naturels", " Il y a une pause dans le réchauffement climatique", -1.0
+" La tendance au réchauffement climatique a repris à partir de 2013", " Il y a une pause dans le réchauffement climatique", -1.0
+" Le Minimum de Maunder confirme l'hypothèse d'une influence de l'activité solaire sur le réchauffement climatique", " Le réchauffement climatique est dû à l'activité solaire", 1.0
+" Le rapport du GIEC de 2007 comporte de nombreuses erreurs", " Les éudes affirmant l'existence du réchauffement climatique commettent des erreurs méthodologiques", 1.0
+" Les scientifiques partisans du réchauffement climatique subissent des pressions", " Les scientifiques qui ne reconnaissent pas le réchauffement climatique subissent des pressions et sont marginalisés", -1.0
+" La réduction de la couverture nuageuse diminue également l'impact de l'effet de serre", " Le réchauffement climatique est dû à l'activité solaire", -1.0
+"Il existe un lobbying des industries pétrolières afin de nier le réchauffemen climatique", " Les scientifiques qui ne reconnaissent pas le réchauffement climatique subissent des pressions et sont marginalisés", -1.0
+" L'activité solaire ne peut expliquer l'augmentation de la température depuis 1980", " Le réchauffement climatique est dû à l'activité solaire", -1.0
+" Les causes du réchauffement de Mars sont propres à cette planète", " Le réchauffement climatique s'observe aussi sur Mars", -1.0
+" Il faut considérer la tendance au réchauffement climatique sur une longue période", " Il y a une pause dans le réchauffement climatique", -1.0
+" L'hypothèse d'une influence de l'activité solaire sur le réchauffement climatique se base sur des données erronées", " Le réchauffement climatique est dû à l'activité solaire", -1.0
+" Les données fondant la thèse de la pause dans le réchauffement climatique sont biaisées", " Il y a une pause dans le réchauffement climatique", -1.0
+" Le réchauffement climatique se vérifie par de nombreuses observations", " Le réchauffement climatique est un mythe", -1.0
+" Les critiques sont peu sérieuses scientifiquement et motivées idéologiquement", " Les études scientifiques qui montrent le lien entre le réchauffement climatique et l'activité humaine sont très critiquées", -1.0
+"La nature anthropique du changement climatique fait l'objet d'un consensus scientifique", " Les études scientifiques qui montrent le lien entre le réchauffement climatique et l'activité humaine sont très critiquées", -1.0
+" L'effet de serre terrestre est saturé", " On constate une augmentation de gaz à effet de serre d'origine humaine dans l'atmosphère", -1.0
+" La thèse du réchauffement climatique fait l'objet d'un consensus scientifique", " Le réchauffement climatique est un mythe", -1.0
+"Le taux de CO2 dans l'atmosphère est corrélé à la température sur terre", " On constate une augmentation de gaz à effet de serre d'origine humaine dans l'atmosphère", 1.0
+" Le réchauffement climatique est dû à l'activité solaire", " Le réchauffement climatique a des causes naturelles", 1.0
+" Les simulations numériques montrent que l'activité humaine est nécessaire pour expliquer le réchauffement climatique à partir de 1976", " Le réchauffement climatique ne peut être expliqué à partir des seules causes naturelles", 1.0
+" Le réchauffement climatique s'observe aussi sur Mars", " Le réchauffement climatique a des causes naturelles", 1.0
+"L'influence des gaz à effet de serre sur le réchauffement climatique est surestimée par le GIEC", " On constate une augmentation de gaz à effet de serre d'origine humaine dans l'atmosphère", -1.0
+" Les rapports du GIEC sont approuvés par les principales académies des sciences", " Il existe un consensus scientifique sur le lien entre le réchauffement climatique et l'activité humaine", 1.0
+"Les climatosceptiques ont des intérêts à nier le réchauffement du climat", " Le réchauffement climatique est un mythe", -1.0
+" La concentration de gaz à effet de serre dans l'atmosphère a explosé depuis l'âge industriel", " On constate une augmentation de gaz à effet de serre d'origine humaine dans l'atmosphère", 1.0
+"Le réchauffement climatique est confirmé par de nombreuses simulations numériques", " Le réchauffement climatique est un mythe", -1.0
+" Il y a une pause dans le réchauffement climatique", " Le réchauffement climatique est un mythe", 1.0
+" Les activités humaines émettent des milliards de tonnes équivalent CO2 par an", " On constate une augmentation de gaz à effet de serre d'origine humaine dans l'atmosphère", 1.0
+" La vapeur d'eau atmosphérique fait fortement diminuer l'effet de serre", " On constate une augmentation de gaz à effet de serre d'origine humaine dans l'atmosphère", -1.0
+" Les éudes affirmant l'existence du réchauffement climatique commettent des erreurs méthodologiques", " Le réchauffement climatique est un mythe", 1.0
+" Le réchauffement du climat est corroboré par de nombreux indicateurs", " Le réchauffement climatique est un mythe", -1.0
+" L'influence humaine sur le réchauffement climatique fait l'objet d'un large consensus chez les scientifiques ayant des compétences sur la question", " Il existe un consensus scientifique sur le lien entre le réchauffement climatique et l'activité humaine", 1.0
+"L'influence humaine sur le réchauffement climatique est attestée par tous les rapports du GIEC", " Il existe un consensus scientifique sur le lien entre le réchauffement climatique et l'activité humaine", 1.0
+" Les scientifiques qui ne reconnaissent pas le réchauffement climatique subissent des pressions et sont marginalisés", " Le réchauffement climatique est un mythe", 1.0
+" Le réchauffement climatique est un mythe", " Le réchauffement climatique est-il dû à l'activité humaine ?", -1.0
+" Il existe un consensus scientifique sur le lien entre le réchauffement climatique et l'activité humaine", " Le réchauffement climatique est-il dû à l'activité humaine ?", 1.0
+" On constate des écarts de température entre les jours de semaine et les weekends", " Le réchauffement climatique est-il dû à l'activité humaine ?", 1.0
+" Le réchauffement climatique ne peut être expliqué à partir des seules causes naturelles", " Le réchauffement climatique est-il dû à l'activité humaine ?", 1.0
+" Les études scientifiques qui montrent le lien entre le réchauffement climatique et l'activité humaine sont très critiquées", " Le réchauffement climatique est-il dû à l'activité humaine ?", -1.0
+" On constate une augmentation de gaz à effet de serre d'origine humaine dans l'atmosphère", " Le réchauffement climatique est-il dû à l'activité humaine ?", 1.0
+" Le réchauffement climatique a des causes naturelles", " Le réchauffement climatique est-il dû à l'activité humaine ?", -1.0

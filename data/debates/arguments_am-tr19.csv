@@ -1,0 +1,5 @@
+arg1, arg2, attack_support
+"am-tr108 -> am-tr78", "am-tr78 -> am-tr19", "Support"
+"am-tr109 -> ¬am-tr79", "am-tr79 -> ¬am-tr19", "Attack"
+"am-tr109 -> ¬am-tr79", "am-tr79 -> ¬am-tr19", "Attack"
+"am-tr108 -> am-tr78", "am-tr78 -> am-tr19", "Support"

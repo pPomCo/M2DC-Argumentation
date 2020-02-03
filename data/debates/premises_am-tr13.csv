@@ -1,0 +1,8 @@
+premise, conclusion, weight
+"Karadeniz'den gelen yüksek besinli su Marmara Denizi'ni oksijensiz bırakacaktır", "Marmara Denizi kısa süre içinde çürük yumurta kokmaya başlayacaktır", 1.0
+"Buradaki 'kazanımlar' ifadesi örnekle desteklenmeyip tahayyüle bırakıldığından ve kime ait bir kazanım olacağı belirtilmediğinden, argüman muğlak kalmıştır.", "Çok doğru bir planlamayla bu kanalın kazanımlarından mahrum kalmamak da gerekir.", -0.5
+"Marmara Denizi kısa süre içinde çürük yumurta kokmaya başlayacaktır", " Kanal İstanbul projesinden vazgeçilmelidir", 1.0
+"kanal nüfus baskısına neden olacak ve yeni bir 'ada' yaratacaktır.", " Kanal İstanbul projesinden vazgeçilmelidir", 1.0
+"İnanılmaz ölçekte kazı, dolgu, dinamit patlatılması ve iş makinalarının kullanımı ciddi ölçekte gürültü ve egzoz gazı yayılmasına neden olacaktır.Önemli bir tarım ve mera alanı yok olacaktır.", " Kanal İstanbul projesinden vazgeçilmelidir", 1.0
+"olası bir marmara depreminde istanbul'a vereceği zarar daha yüksek olacaktır.", " Kanal İstanbul projesinden vazgeçilmelidir", 1.0
+"Çok doğru bir planlamayla bu kanalın kazanımlarından mahrum kalmamak da gerekir.", " Kanal İstanbul projesinden vazgeçilmelidir", -1.0

@@ -1,0 +1,13 @@
+arg1, arg2, attack_support
+"am-tr114 -> ¬am-tr98", "am-tr98 -> ¬am-tr64", "Attack"
+"am-tr114 -> ¬am-tr98", "am-tr98 -> ¬am-tr64", "Attack"
+"am-tr98 -> ¬am-tr64", "am-tr64 -> am-tr15", "Attack"
+"am-tr99 -> ¬am-tr64", "am-tr64 -> am-tr15", "Attack"
+"am-tr101 -> ¬am-tr65", "am-tr65 -> am-tr15", "Attack"
+"am-tr100 -> ¬am-tr65", "am-tr65 -> am-tr15", "Attack"
+"am-tr102 -> ¬am-tr67", "am-tr67 -> ¬am-tr15", "Attack"
+"am-tr100 -> ¬am-tr65", "am-tr65 -> am-tr15", "Attack"
+"am-tr101 -> ¬am-tr65", "am-tr65 -> am-tr15", "Attack"
+"am-tr102 -> ¬am-tr67", "am-tr67 -> ¬am-tr15", "Attack"
+"am-tr98 -> ¬am-tr64", "am-tr64 -> am-tr15", "Attack"
+"am-tr99 -> ¬am-tr64", "am-tr64 -> am-tr15", "Attack"

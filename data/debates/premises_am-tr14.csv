@@ -1,0 +1,8 @@
+premise, conclusion, weight
+"Sınırlar, sanatın ya da sanatçının değil onun üretim nesnesinin sınırlarıdır.“Önemli hallerde sorulacak esas soru “Hangi nesneler sanat yapıtıdır?” sorusu değil, “Bir nesne ne zaman sanat yapıtı olur?” sorusudur.", "Eleştirmek, kritik etmek bir sınır çizme etkinliğidir. Sanat eleştirilemez demek, sanatın sınırlarını inkar etmektir. Sınırları belli olmayan bir şeyin ne olduğunu bilemeyiz. Oysa bir şeye isim vermemizin sebebi onun sınırlarını belirlemek, onu diğerlerinden ayırt etmektir. Sanat da bir isimdir.", -1.0
+"Sanat eserinin niteliğini sanatçı belirler fakat, eserden çıkarılan anlam her insan için subjektiftir. Eleştirmen eserden çıkarttığı bir anlamı koca bir topluluğa mal edemez.Not: Bu konuda tekniğe yapılan eleştiriyi ayrı tutuyorum.", " Sanat Eleştirilemez", 1.0
+"Sanat, sanatı eleştirerek zamanı kateder. Sanat akımları bir diğerinin eleştirisinden ortaya çıkar.", " Sanat Eleştirilemez", -1.0
+"Eleştirmek, kritik etmek bir sınır çizme etkinliğidir. Sanat eleştirilemez demek, sanatın sınırlarını inkar etmektir. Sınırları belli olmayan bir şeyin ne olduğunu bilemeyiz. Oysa bir şeye isim vermemizin sebebi onun sınırlarını belirlemek, onu diğerlerinden ayırt etmektir. Sanat da bir isimdir.", " Sanat Eleştirilemez", -1.0
+"Sanatı eleştirilemez kılıp yüceltmek, sanatı anlamamızı zorlaştırır.", " Sanat Eleştirilemez", -0.5
+"Subjektif kriterler bazında subjektif eleştirilere tabidir.", " Sanat Eleştirilemez", -1.0
+"Bir sanat eserini onun eleştirileri hayatta tutar. Marcel Duchamp'ın 'çeşme' eseri gibi.", " Sanat Eleştirilemez", -0.5

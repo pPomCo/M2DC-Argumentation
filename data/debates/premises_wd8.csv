@@ -1,0 +1,56 @@
+premise, conclusion, weight
+" Cette étude est dépassée", " Des liens entre incinérateurs et cancers", -1.0
+"Des risques d'accidents", " Faut-il incinérer les déchets ménagers à La Réunion ?", -1.0
+"", " Faut-il incinérer les déchets ménagers à La Réunion ?", 1.0
+" Créer de la valeur économique", " Faut-il incinérer les déchets ménagers à La Réunion ?", 1.0
+" Un désastre financier", " Faut-il incinérer les déchets ménagers à La Réunion ?", -1.0
+" Un appel aux déchets", " Faut-il incinérer les déchets ménagers à La Réunion ?", -1.0
+" Des risques de pollution", " Faut-il incinérer les déchets ménagers à La Réunion ?", -1.0
+" Une alternative écologique", " Faut-il incinérer les déchets ménagers à La Réunion ?", 1.0
+"Créer des emplois", " Faut-il incinérer les déchets ménagers à La Réunion ?", 1.0
+"Des coûts d'investissement élevés", " Un désastre financier", 1.0
+" Des risques sanitaires faibles", " Des risques de pollution", -1.0
+" Une règlementation rigoureuse", " Des risques de pollution", -1.0
+" Affaiblissement des politiques de réduction des déchets", " Un appel aux déchets", 1.0
+" Diminuer le coût de traitement des déchets", " Créer de la valeur économique", 1.0
+" Pollution de l'eau", " Des risques de pollution", 1.0
+" Des coûts d'incinération élevés", " Diminuer le coût de traitement des déchets", -1.0
+" Des coûts d'incinération élevés", " Un désastre financier", 1.0
+" Les incinérateurs produisent des fumées toxiques", " Des risques de pollution", 1.0
+" Un équipement disproportionné par rapport au territoire", " Un désastre financier", 1.0
+"Affaiblissement des politiques de recyclage.", " Un appel aux déchets", 1.0
+" Coûts de transport des déchets dangereux issus de l'incinération", " Créer de la valeur économique", -1.0
+"Problème des seuils de rentabilité pour les petites unités", " Créer de la valeur économique", -1.0
+" Des filtrages performants", " Des risques de pollution", -1.0
+" Diminuer la dépendance aux combustibles fossiles", " Créer de la valeur économique", 1.0
+" Une alternative à l’enfouissement en décharge", " Une alternative écologique", 1.0
+"Réduction  rapide des volumes de déchets", " Une alternative écologique", 1.0
+" Des coûts d'entretien élevés", " Un désastre financier", 1.0
+" Les surcapacités d’incinération conduisent à des importations de déchets", " Un équipement disproportionné par rapport au territoire", 1.0
+" Les surcapacités d’incinération conduisent à des importations de déchets", " Un appel aux déchets", 1.0
+" Participe à la lutte contre le changement climatique", " Une alternative écologique", 1.0
+" Les incinérateurs produisent des déchets toxiques", " Des risques de pollution", 1.0
+" Destruction de matières premières", " Créer de la valeur économique", -1.0
+" Produire de l'énergie", " Créer de la valeur économique", 1.0
+" Les CSR sont fabriqués à partir des refus de tri", " Destruction de matières premières", -1.0
+" Les incinérateurs continuent à émettre des polluants organiques persistants", " Des filtrages performants", -1.0
+" Les incinérateurs continuent à émettre des oxydes d'azote.", " Des filtrages performants", -1.0
+" La règlementation est parfois contournée", " Une règlementation rigoureuse", -1.0
+" Un rendement électrique faible", " Diminuer le coût de traitement des déchets", -1.0
+" Un rendement électrique faible", " Produire de l'énergie", -1.0
+"Les résidus toxiques de l'incinération sont enfouis", " Une alternative à l’enfouissement en décharge", -1.0
+" Il existe d'autres modèles d'enfouissement réversibles", " Une alternative à l’enfouissement en décharge", -1.0
+"Les eaux de lavage des fumées", " Pollution de l'eau", 1.0
+" Des liens entre incinérateurs et cancers", " Des risques sanitaires faibles", -1.0
+" La combustion génère des gaz qui contribuent à l'effet de serre.", " Participe à la lutte contre le changement climatique", -1.0
+" Des coûts élevés de gestion des mâchefers", " Diminuer le coût de traitement des déchets", -1.0
+" La valorisation des mâchefers est controversée", " Diminuer le coût de traitement des déchets", -1.0
+" La valorisation des mâchefers est controversée", " Les incinérateurs produisent des déchets toxiques", 1.0
+" La valorisation des mâchefers est controversée", " Pollution de l'eau", 1.0
+" La règlementation ne couvre pas tous les risques", " Une règlementation rigoureuse", -1.0
+"La transparence de l'information vis-à-vis des riverains et du public en général", " Des risques sanitaires faibles", 1.0
+" Les chiffres d'émission sont biaisés", " Des filtrages performants", -1.0
+" Les incinérateurs continuent à émettre des métaux lourds.", " Des filtrages performants", -1.0
+"Le contrôle et le suivi des installations", " Des risques sanitaires faibles", 1.0
+"La règlementation", " Des risques sanitaires faibles", 1.0
+" Aucun cas de pollution avéré.", " La valorisation des mâchefers est controversée", -1.0

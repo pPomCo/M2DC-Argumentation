@@ -1,0 +1,96 @@
+premise, conclusion, weight
+" Les machines à voter sont vulnérables aux attaques", " Les machines à voter sont sécurisées par des experts", -1.0
+" Les machines à voter nécessitent des assesseurs", " Le vote électronique permet de réaliser des économies de personnel", -1.0
+" Un système de tickets imprimés peut être mis en place pour chaque vote d'une machine à voter", " Il est impossible de recompter les votes", -1.0
+" Le contrôle informatique des machines à voter ne doit pas être réservé à des experts", " Les machines à voter peuvent avoir un code source libre et ouvert", -1.0
+" Des lieux de vote peuvent être ouverts au public", " Tout le monde n'est pas équipé d'un ordinateur connecté pour voter par internet", -1.0
+" Le vote électronique pourrait augmenter la défiance des citoyens", " Le vote électronique permet de réduire l'abstention", -1.0
+" Le vote électronique ne réduit pas systématiquement l'abstention", " Le vote électronique permet de réduire l'abstention", -1.0
+" De meilleures solutions que le vote électronique existent pour les personnes malades et handicapées", " Le vote électronique facilite le vote pour les personnes malades ou handicapées", -1.0
+" L'essentiel du papier utilisé lors des élections est utilisé pour la campagne", " Le vote électronique permet de réaliser des économies de papier et d'urnes", -1.0
+" La participation électronique augmente avec le temps", " Le vote électronique a suscité un faible taux de participation dans les expériences menées", -1.0
+" Une carte d'identité électronique peut être mise en place pour voter par internet", " Avec le vote électronique il est plus difficile de vérifier l'identité des votants qu'avec le vote papier", -1.0
+" Les données des votes électroniques sont encryptées", " Des fuites de données sont possibles avec le vote électronique", -1.0
+" L'abstention doit être résolue par le vote obligatoire", " Le vote électronique permet de réduire l'abstention", -1.0
+" Le vote électronique n'apporte pas spécialement plus de confort dans le cas des machines à voter", " Le vote électronique permet un plus grand confort de vote", -1.0
+" Le bourrage d'urnes est difficilement réalisable à grande échelle sans être détecté", " Avec le vote électronique il ne peut y avoir de bourrage d'urnes comme dans le vote papier", -1.0
+" Les machines à voter sont sécurisées par des experts", " Les ordinateurs personnels ne sont pas assez sécurisés pour le vote électronique", -1.0
+" Il faut installer plus de machines à voter dans les bureaux de vote", " Le vote électronique allonge le temps d'attente aux bureaux de vote", -1.0
+" Il n'y a pas besoin de posséder un ordinateur pour voter avec les machines à voter", " Tout le monde n'est pas équipé d'un ordinateur connecté pour voter par internet", -1.0
+" L'abstention est un problème de fond complexe", " Le vote électronique permet de réduire l'abstention", -1.0
+" Les solutions techniques aux problèmes posés par le vote électronique reviennent à faire compliqué quand on peut faire simple", " Les machines à voter peuvent avoir un code source libre et ouvert", -1.0
+" Il faut savoir garder du suspense pour connaitre les résultats d'un vote", " Le vote électronique permet un décompte des votes plus rapide que le vote papier", -1.0
+" Le vote électronique est une solution peu efficace pour les malvoyants", " Le vote électronique facilite le vote pour les personnes malades ou handicapées", -1.0
+" Une authentification forte est possible pour voter par internet", " Avec le vote électronique il est plus difficile de vérifier l'identité des votants qu'avec le vote papier", -1.0
+" Des mesures de sécurité existent pour les machines à voter", " Il est impossible de vérifier si notre vote a été respecté", -1.0
+" Le vote électronique risque de faire augmenter le temps d'attente pour voter", " Le vote électronique permet de réaliser des économies de personnel", -1.0
+" L'abstention ne peut être résolue que par l'éducation", " Le vote électronique permet de réduire l'abstention", -1.0
+" Les résultats d'un scrutin par vote papier sont déjà très rapides", " Le vote électronique permet un décompte des votes plus rapide que le vote papier", -1.0
+" Le vote électronique n'allonge le temps d'attente aux bureaux de vote que dans le cas des machines à voter", " Le vote électronique allonge le temps d'attente aux bureaux de vote", -1.0
+" Ajouter une nouvelle modalité de vote ne fait qu'ajouter un nouveau coût", " Le vote électronique permet de diminuer les coûts des élections des Français à l'étranger", -1.0
+" Le vote électronique n'est pas spécialement accessible dans le cas des machines à voter", " Le vote électronique facilite le vote pour tous", -1.0
+" Le vote par internet n'entraine pas d'économies d'échelle importantes", " Le vote électronique permet de diminuer les coûts des élections des Français à l'étranger", -1.0
+" Une vérification par la blockchain est possible pour voter par internet", " Avec le vote électronique il est plus difficile de vérifier l'identité des votants qu'avec le vote papier", -1.0
+" Il n'y a pas de garantie que les logiciels libres promus pour le vote électronique soient ceux effectivement utilisés", " Les machines à voter peuvent avoir un code source libre et ouvert", -1.0
+" Le vote par internet n'a pas vraiment fait diminuer le taux d'abstention des Français de l'étranger", " Le vote électronique facilite le vote pour les personnes à l'étranger", -1.0
+" Le vote électronique ne permet de réaliser des économies de personnel que selon certains modes de rémunération", " Le vote électronique permet de réaliser des économies de personnel", -1.0
+" Les machines à voter ne permettent pas de diminuer les dépenses énergétiques liées au transport", " Le vote électronique permet de diminuer les dépenses énergétiques liées au transport", -1.0
+" Le votant électronique peut subir la pression de son entourage", " Le vote électronique est soumis à plus de pression", 1.0
+" Le vote électronique facilite le vote pour les personnes malades ou handicapées", " Le vote électronique favorise la participation aux élections", 1.0
+" Le vote électronique permet d'en finir avec le risque d'erreur humaine", " Le vote électronique n'est pas fiable", -1.0
+" Le vote électronique permet d'en finir avec le risque d'erreur humaine", " Le vote électronique facilite la mise en place de consultations", 1.0
+" Tout le monde n'est pas équipé d'un ordinateur connecté pour voter par internet", " Le vote électronique facilite la mise en place de consultations", -1.0
+" Le vote électronique a un coût de formation et de communication aux citoyens", " Le vote électronique permet de diminuer les coûts d'une élection", -1.0
+" Le risque de cyberattaque est réel dans le cas du vote électronique", " Le vote électronique n'est pas fiable", 1.0
+" Le vote électronique n'est pas fiable", " Le vote électronique permet d'en finir avec le risque d'erreur humaine", -1.0
+" Le vote électronique n'est pas fiable", " Faut-il généraliser le vote électronique ?", -1.0
+" Le vote électronique est invérifiable et opaque", " Faut-il généraliser le vote électronique ?", -1.0
+" Le vote électronique permet de diminuer les coûts d'une élection", " Faut-il généraliser le vote électronique ?", 1.0
+" Le vote électronique permet de diminuer les coûts d'une élection", " Faut-il généraliser le vote électronique ?", 1.0
+" Le vote électronique a été abandonné par la plupart des pays qui l'ont expérimenté", " Faut-il généraliser le vote électronique ?", -1.0
+" Le vote électronique favorise la participation aux élections", " Faut-il généraliser le vote électronique ?", 1.0
+" Le vote électronique permet la mise en oeuvre de méthodes de vote sophistiquées", " Faut-il généraliser le vote électronique ?", 1.0
+" Le vote électronique diminue l'empreinte écologique du vote", " Faut-il généraliser le vote électronique ?", 1.0
+" Le vote électronique est soumis à plus de pression", " Faut-il généraliser le vote électronique ?", -1.0
+" Le vote électronique facilite la mise en place de consultations", " Faut-il généraliser le vote électronique ?", 1.0
+" Le vote électronique désacralise l'acte de vote", " Faut-il généraliser le vote électronique ?", -1.0
+" Le vote électronique permet de réaliser des économies de personnel", " Le vote électronique permet de diminuer les coûts d'une élection", 1.0
+" Les pays qui ont abandonné le vote électronique projettent de s'y réengager à moyen terme", " Le vote électronique a été abandonné par la plupart des pays qui l'ont expérimenté", -1.0
+" Avec le vote électronique il est plus difficile de vérifier l'identité des votants qu'avec le vote papier", " Le vote électronique n'est pas fiable", 1.0
+" Il existe des failles informatiques dans les systèmes de vote électronique", " Le vote électronique n'est pas fiable", 1.0
+" La fabrication et le recyclage des machines à voter et des serveurs nécessaires ont un coût écologique", " Le vote électronique diminue l'empreinte écologique du vote", -1.0
+" Les ordinateurs personnels ne sont pas assez sécurisés pour le vote électronique", " Le vote électronique n'est pas fiable", 1.0
+" Il est impossible de recompter les votes", " Le vote électronique est invérifiable et opaque", 1.0
+" Le vote électronique n'est pas secret", " Le vote électronique est soumis à plus de pression", 1.0
+" On a observé un surcoût dans les expériences de vote électronique menées", " Le vote électronique permet de diminuer les coûts d'une élection", -1.0
+" Les machines à voter ont une durée de vie limitée", " Le vote électronique permet de diminuer les coûts d'une élection", -1.0
+" Le vote électronique incite les jeunes à voter", " Le vote électronique favorise la participation aux élections", 1.0
+" Le vote électronique a suscité un faible taux de participation dans les expériences menées", " Le vote électronique favorise la participation aux élections", -1.0
+" L'action de voter sur machine à voter est plus lente qu'avec des bulletins papier", " Le vote électronique facilite la mise en place de consultations", -1.0
+" Le vote électronique permet de diminuer les dépenses énergétiques liées au transport", " Le vote électronique diminue l'empreinte écologique du vote", 1.0
+" Le vote n'est pas un acte individuel comme un autre", " Le vote électronique désacralise l'acte de vote", 1.0
+" Le vote dans l'urne transparente et le dépouillement font partie du cérémonial républicain", " Le vote électronique désacralise l'acte de vote", 1.0
+" Le vote électronique pose des difficultés pour les personnes âgées ou peu à l'aise avec la technologie", " Le vote électronique favorise la participation aux élections", -1.0
+" Le vote électronique est un investissement élevé au vu de son utilisation", " Le vote électronique permet de diminuer les coûts d'une élection", -1.0
+" Les machines à voter peuvent avoir un code source libre et ouvert", " Le vote électronique est invérifiable et opaque", -1.0
+" D'autres pays s'engagent à expérimenter le vote électronique", " Le vote électronique a été abandonné par la plupart des pays qui l'ont expérimenté", -1.0
+" Des fuites de données sont possibles avec le vote électronique", " Le vote électronique n'est pas fiable", 1.0
+" Les élections doivent pouvoir être contrôlées par n'importe quel citoyen", " Le vote électronique est invérifiable et opaque", 1.0
+" Les machines à voter ont un coût d'entretien, d'assistance et de formation", " Le vote électronique permet de diminuer les coûts d'une élection", -1.0
+" Le vote électronique permet un plus grand confort de vote", " Le vote électronique favorise la participation aux élections", 1.0
+" Le vote électronique permet un décompte des votes plus rapide que le vote papier", " Le vote électronique facilite la mise en place de consultations", 1.0
+" Le vote électronique allonge le temps d'attente aux bureaux de vote", " Le vote électronique favorise la participation aux élections", -1.0
+" Les votes sur machine à voter peuvent être achetés", " Le vote électronique est soumis à plus de pression", 1.0
+" L'Estonie a instauré le vote par internet depuis 2005", " Le vote électronique a été abandonné par la plupart des pays qui l'ont expérimenté", -1.0
+" Le vote électronique permet de réduire l'abstention", " Le vote électronique favorise la participation aux élections", 1.0
+" Les élections ne doivent pas rester entre les mains d'experts", " Le vote électronique est invérifiable et opaque", 1.0
+" Il est impossible de vérifier si notre vote a été respecté", " Le vote électronique est invérifiable et opaque", 1.0
+" Les votes par Internet peuvent être achetés", " Le vote électronique est soumis à plus de pression", 1.0
+" Le vote électronique facilite le vote pour les personnes à l'étranger", " Le vote électronique favorise la participation aux élections", 1.0
+" Le vote électronique permet de réaliser des économies de papier et d'urnes", " Le vote électronique permet de diminuer les coûts d'une élection", 1.0
+" Le vote électronique permet de réaliser des économies de papier et d'urnes", " Le vote électronique diminue l'empreinte écologique du vote", 1.0
+" Le vote électronique permet de diminuer les coûts des élections des Français à l'étranger", " Le vote électronique permet de diminuer les coûts d'une élection", 1.0
+" Les machines à voter peuvent avoir des dysfonctionnements", " Le vote électronique n'est pas fiable", 1.0
+" Le vote électronique facilite le vote pour tous", " Le vote électronique favorise la participation aux élections", 1.0
+" Le vote électronique permet une multiplication des consultations citoyennes", " Le vote électronique facilite la mise en place de consultations", 1.0
+" Avec le vote électronique il ne peut y avoir de bourrage d'urnes comme dans le vote papier", " Le vote électronique n'est pas fiable", -1.0

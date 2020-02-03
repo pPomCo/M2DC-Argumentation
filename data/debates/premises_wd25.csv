@@ -1,0 +1,211 @@
+premise, conclusion, weight
+"Il faut limiter la liberté d'expression pour éviter les troubles à l’ordre public", " La liberté d'expression entraine des abus", 1.0
+"Qui peut décider des opinions qui ne peuvent pas être discutées", " Il y a des opinions qui n'ont pas à être discutées", -1.0
+"L'influence des contenus violents sur les comportements n'est pas établie", " Il faut limiter la liberté d'expression pour lutter contre l'ultraviolence", -1.0
+"Le droit d'auteur est injuste", " Il faut limiter la liberté d'expression pour respecter le droit d'auteur", -1.0
+" Les droits de l'homme deviennent une idéologie étouffante", " La liberté d'expression doit être limitée par les droits de l'homme", -1.0
+"La violence de ces contenus est bien moindre que la violence de la réalité", " Il faut limiter la liberté d'expression pour lutter contre l'ultraviolence", -1.0
+" Les contenus influencent les spectateurs", " La création ne doit avoir aucune limite", -1.0
+" Il faut une pornographie différente", " Il faut limiter la liberté d'expression pour lutter contre la pornographie", -1.0
+" Il faut lutter contre les véritables causes du racisme", " Il faut limiter la liberté d'expression pour lutter contre le racisme", -1.0
+" Toutes les limites à la liberté d'expression ne sont pas acceptables", " Toute liberté comporte des limites", -1.0
+" Les oeuvres immorales abaissent la pensée", " Limiter la liberté d'expression, c'est appauvrir la pensée", -1.0
+" Les lois qui limitent la liberté d'expression sont démocratiques", " Limiter la liberté d'expression revient à déléguer le pouvoir à une élite", -1.0
+" Supprimer le droit d'auteur est une étape vers la société de gratuité", " Il faut limiter la liberté d'expression pour respecter le droit d'auteur", -1.0
+" La haine est parfois nécessaire", " Il faut limiter la liberté d'expression pour lutter contre les propos incitant à la haine", -1.0
+" La liberté d'expression entraine des abus", " La liberté d'expression conditionne l'exercice de nombreux autres droits", -1.0
+" La vérité progresse en démêlant les sophismes", " Il y a des opinions qui n'ont pas à être discutées", -1.0
+" Les auteurs peuvent être rétribués autrement que par les droits d'auteur", " Il faut limiter la liberté d'expression pour respecter le droit d'auteur", -1.0
+"L'attaque pour diffamation protège les puissants", " Il faut limiter la liberté d'expression pour lutter contre la diffamation et les propos mensongers", -1.0
+" Il n'y a pas de raison de contester les démocraties libérales", " Limiter la liberté d'expression conduit à étouffer la contestation", -1.0
+" Les opinions fausses brouillent nos jugements", " La liberté d'expression doit être totale pour faire émerger les opinions vraies", -1.0
+" Des systèmes de modération existent sur internet", " Internet ruine toute tentative de censure", -1.0
+" C'est par la contrainte que les personnalités se développent", " La liberté d'expression doit être totale pour laisser les individus libres de se réaliser", -1.0
+" Il est dangereux de laisser les théories scientifiques hors de la morale", " La liberté d'expression doit être totale pour faire progresser la science et la recherche", -1.0
+" L'opinion publique est orientée par les détenteurs des médias", " L'opinion publique s'autorégule", -1.0
+" Il faut respecter les personnes", " Chacun doit accepter d'être choqué dans une société plurielle", -1.0
+" Tout peut se dire dans un débat méthodique", " L'espace public n'est pas un supermarché", -1.0
+" Les critiques de personnes concernant leur couleur de peau, leur religion, leur orientation sexuelle ou leur sexe ne sont pas des critiques comme les autres", " Les critiques peuvent toujours être considérées comme des attaques", -1.0
+" Les adultes consentants font ce qu'ils veulent", " Il faut limiter la liberté d'expression pour lutter contre la pornographie", -1.0
+" Des groupes minoritaires peuvent être dangereux", " Il faut limiter la liberté d'expression pour protéger les minorités", -1.0
+" Il y a une grande différence entre images et textes", " La création ne doit avoir aucune limite", -1.0
+" L'interdiction des discours radicaux ne lutte pas contre les vraies causes du terrorisme", " Il faut limiter la liberté d'expression pour lutter contre le terrorisme", -1.0
+" Il faut lutter contre les excès de la liberté d'expression", " Quand on limite la liberté d'expression, on ne peut plus s'arrêter", -1.0
+" L'interdiction incite à la transgression", " Interdire certains discours empêche leur propagation", -1.0
+" La notion d'injure est floue", " Il faut limiter la liberté d'expression pour lutter contre les propos injurieux", -1.0
+" L'école échoue à développer l'esprit critique", " Il faut développer l'éducation à l'esprit critique", -1.0
+" La liberté d'expression ne se partage pas", " Toute liberté comporte des limites", -1.0
+" L'accusation de terrorisme sert à étouffer la contestation", " Il faut limiter la liberté d'expression pour lutter contre le terrorisme", -1.0
+" Les oeuvres d'art choquantes jouent avec les limites et la transgression", " Il faut limiter la liberté d'expression pour lutter contre la pédophilie", -1.0
+" La recherche scientifique n'est pas libre", " La liberté d'expression doit être totale pour faire progresser la science et la recherche", -1.0
+" L'existence même des incroyants est déjà un blasphème", " Il faut limiter la liberté d'expression pour lutter contre le blasphème", -1.0
+" Les idéologies dangereuses ne font pas appel à la raison", " Il faut opposer aux discours dangereux des contre-discours", -1.0
+" La politique n'a pas à interférer avec le débat historique sur le négationnisme", " Il faut limiter la liberté d'expression pour lutter contre le négationnisme", -1.0
+" Exclure les contenus choquants est un progrès collectif", " Chacun doit accepter d'être choqué dans une société plurielle", -1.0
+" Le racisme, le sexisme et l'homophobie se portent bien", " Interdire certains discours empêche leur propagation", -1.0
+" Il ne faut pas confondre discours et actes", " Il faut limiter la liberté d'expression pour lutter contre le racisme", -1.0
+" La notion de harcèlement est floue", " Il faut limiter la liberté d'expression pour lutter contre le cyberharcèlement", -1.0
+" Interdire des discours ne lutte pas contre les vraies causes des discriminations et de la haine", " Interdire certains discours empêche leur propagation", -1.0
+" La pensée est essentiellement personnelle", " Limiter la liberté d'expression, c'est appauvrir la pensée", -1.0
+"Il peut être utile de connaitre la vie privée des personnes publiques", " Il faut limiter la liberté d'expression pour respecter la vie privée et le droit à l'image", -1.0
+" Chacun doit prendre sur soi face aux injures", " Il faut limiter la liberté d'expression pour lutter contre les propos injurieux", -1.0
+" Les êtres humains sont irrationnels", " Les individus sont doués de raison et capables de s'autocensurer", -1.0
+"Comparaison fallacieuse. C'est également typique des régimes démocratiques.", " Limiter la liberté d'expression est typique des régimes autoritaires", -1.0
+" La dignité de la personne humaine est un concept religieux", " Il faut limiter la liberté d'expression pour lutter contre les contenus portant atteinte à la dignité humaine", -1.0
+" Les algorithmes filtrent l'information", " Internet ruine toute tentative de censure", -1.0
+" Il existe des violences symboliques", " Les paroles et les images ne sont pas des actes", -1.0
+" Les humains sont influençables", " Les individus sont doués de raison et capables de s'autocensurer", -1.0
+" L'interdiction du négationnisme crédibilise les négationnistes", " Il faut limiter la liberté d'expression pour lutter contre le négationnisme", -1.0
+" Il est dangereux de trop légiférer dans les relations privées", " Il faut limiter la liberté d'expression pour lutter contre les propos injurieux", -1.0
+" La pornographie n'influence pas les comportements", " Il faut limiter la liberté d'expression pour lutter contre la pornographie", -1.0
+" Les capacités de jugement ne sont pas égales", " Limiter la liberté d'expression revient à déléguer le pouvoir à une élite", -1.0
+"Le devoir de réserve est contraire au droit de grève", " Il faut assurer le devoir de réserve des fonctionnaires", -1.0
+"Le trouble à l'ordre public est une notion arbitraire", " Il faut limiter la liberté d'expression pour lutter contre les manifestations risquant de troubler l'ordre public", -1.0
+" Une culture de masse ne répond pas aux mêmes critères qu'une culture réservée à l'élite", " La création ne doit avoir aucune limite", -1.0
+" Les droits de l'homme se contredisent", " La liberté d'expression doit être limitée par les droits de l'homme", -1.0
+" Il y a une gradation entre les discours et les actes", " Les paroles ne sont pas des actes", -1.0
+" Les nouvelles technologies permettent un contrôle généralisé", " On ne peut pas contrôler la diffusion des idées", -1.0
+" La lutte contre le racisme s'étend à tout et n'importe quoi", " Il faut limiter la liberté d'expression pour lutter contre le racisme", -1.0
+" L'incitation au terrorisme est une notion floue", " Il faut limiter la liberté d'expression pour lutter contre le terrorisme", -1.0
+" La notion d'incitation à la haine est floue", " Il faut limiter la liberté d'expression pour lutter contre les propos incitant à la haine", -1.0
+" Limiter la liberté d'expression n'est pas interdire la critique d'un régime", " La liberté d'expression permet de lutter contre les dérives de la pensée dominante", -1.0
+" La censure stimule la pensée", " Limiter la liberté d'expression, c'est appauvrir la pensée", -1.0
+" Interdire le blasphème, c'est interdire la critique des religions", " Il faut limiter la liberté d'expression pour lutter contre le blasphème", -1.0
+" Il n'y a pas d'opinions vraies", " La liberté d'expression doit être totale pour faire émerger les opinions vraies", -1.0
+" Les discours peuvent blesser", " Les paroles ne sont pas des actes", -1.0
+" On ne peut accepter les contenus opposés aux valeurs qui fondent notre société", " Chacun doit accepter d'être choqué dans une société plurielle", -1.0
+" Il ne faut pas laisser le monopole de la liberté d'expression aux populistes", " La liberté d'expression totale est le paravent des populistes et des racistes", -1.0
+"L'invocation du trouble à l'ordre public sert à étouffer la contestation", " Il faut limiter la liberté d'expression pour lutter contre les manifestations risquant de troubler l'ordre public", -1.0
+" Le djihadisme s'alimente des politiques agressives de l'Occident", " Il faut limiter la liberté d'expression pour lutter contre le terrorisme", -1.0
+" La menace de procès en diffamation nuit à la diffusion de l'information", " Il faut limiter la liberté d'expression pour lutter contre la diffamation et les propos mensongers", -1.0
+" La critique des institutions est dangereuse", " La liberté d'expression doit être totale pour pouvoir dénoncer les abus", -1.0
+" Les lois contre la diffamation déresponsabilisent les citoyens", " Il faut limiter la liberté d'expression pour lutter contre la diffamation et les propos mensongers", -1.0
+" Beaucoup d'opinions n'auraient pas à être discutées si on ne doit pas discuter des opinions absurdes", " Il y a des opinions qui n'ont pas à être discutées", -1.0
+"La limitation au droit de manifester est typique des régimes autoritaires", " Il faut limiter la liberté d'expression pour lutter contre les manifestations risquant de troubler l'ordre public", -1.0
+" Certaines minorités ont un pouvoir démesuré", " Il faut limiter la liberté d'expression pour protéger les minorités", -1.0
+"Au contraire, les restrictions de liberté d'expression répriment certaines minorités", " Il faut limiter la liberté d'expression pour protéger les minorités", -1.0
+" L'interdiction du racisme est inefficace", " Il faut limiter la liberté d'expression pour lutter contre le racisme", -1.0
+" On ne doit pas rétablir de délit de blasphème", " Il faut limiter la liberté d'expression pour lutter contre le blasphème", -1.0
+" Vouloir éradiquer la haine conduit à un régime de censure", " Il faut limiter la liberté d'expression pour lutter contre les propos incitant à la haine", -1.0
+" Les Etats bloquent l'accès à certains sites", " Internet ruine toute tentative de censure", -1.0
+" On peut limiter la propagation de certaines opinions", " On ne peut pas empêcher les gens de penser ce qu'ils veulent", -1.0
+" On peut limiter la propagation de certaines opinions", " On ne peut pas contrôler la diffusion des idées", -1.0
+" Il faut mettre hors la loi ce qui porte préjudice", " Chacun doit accepter d'être choqué dans une société plurielle", -1.0
+" Les films et les jeux servent de catharsis aux pulsions violentes", " Il faut limiter la liberté d'expression pour lutter contre l'ultraviolence", -1.0
+" La démocratie n'est pas un bon régime", " La liberté d'expression est un pilier de la démocratie", -1.0
+" Les discours préparent et inspirent les actes", " Les paroles ne sont pas des actes", -1.0
+" L'opinion publique est conditionnée par l'État", " L'opinion publique s'autorégule", -1.0
+" Les injures ne sont pas des actes", " Il faut limiter la liberté d'expression pour lutter contre les propos injurieux", -1.0
+" Certaines idéologies causent des comportements violents", " Ce ne sont pas les idées qui déterminent les comportements", -1.0
+" Limiter le cyberharcèlement conduit à la surveillance généralisée", " Il faut limiter la liberté d'expression pour lutter contre le cyberharcèlement", -1.0
+" La liberté d'expression totale n'est le paravent des populistes et des racistes", " La liberté d'expression totale est le paravent des populistes et des racistes", -1.0
+" Il y a des opinions dangereuses", " La liberté d'expression doit être totale pour faire émerger les opinions vraies", -1.0
+" Même les partisans d'une liberté d'expression maximale admettent certaines limites", " Une liberté d'expression totale amène au n'importe quoi", -1.0
+" L'interdiction du négationnisme n'empêche pas les idées négationnistes de proliférer", " Il faut limiter la liberté d'expression pour lutter contre le négationnisme", -1.0
+" La notion d'incitation est floue", " Il faut limiter la liberté d'expression pour lutter contre les propos incitant à la violence", -1.0
+" Les paroles sont des actes", " Les paroles et les images ne sont pas des actes", -1.0
+" Il faut distinguer entre les injures à des personnes physiques et les injures à des personnes morales", " Il faut limiter la liberté d'expression pour lutter contre les propos injurieux", -1.0
+" Les droits de l'homme n'interdisent pas les propos racistes, sexistes, etc.", " La liberté d'expression doit être limitée par les droits de l'homme", -1.0
+" Il est irrationnel de refuser d'examiner des arguments", " Il y a des opinions qui n'ont pas à être discutées", -1.0
+" Ce qui est dangereux n'est pas la pensée mais l'expression publique des pensées", " On ne peut pas empêcher les gens de penser ce qu'ils veulent", -1.0
+" Les individus sont libres", " Il faut limiter la liberté d'expression pour lutter contre les propos incitant à la violence", -1.0
+" Il y a une sélection naturelle des idées", " L'espace public n'est pas un supermarché", -1.0
+" Le coût de l'interdiction du négationnisme est trop lourd", " Il faut limiter la liberté d'expression pour lutter contre le négationnisme", -1.0
+" La liberté d'expression est toujours potentiellement transgressive", " La liberté d'expression totale est le paravent des populistes et des racistes", -1.0
+" La justice garantit un encadrement raisonnable de la liberté d'expression", " Quand on limite la liberté d'expression, on ne peut plus s'arrêter", -1.0
+" Les vérités religieuses sont au-dessus de la science", " La liberté d'expression doit être totale pour faire progresser la science et la recherche", -1.0
+" La liberté d'expression est le paravent de la persécution des plus faibles", " La liberté d'expression doit être totale pour pouvoir dénoncer les abus", -1.0
+"Limiter la liberté d’expression est inefficace", " Limiter la liberté d'expression est nécessaire", -1.0
+" Les critiques peuvent toujours être considérées comme des attaques", " Il faut limiter la liberté d'expression pour ne pas faire de tort aux personnes", -1.0
+" On ne peut pas contrôler la diffusion des idées", " Limiter la liberté d'expression est inefficace", 1.0
+" La création ne doit avoir aucune limite", " Il faut limiter la liberté d'expression pour lutter contre les contenus choquants", -1.0
+"Le droit de manifestation est un droit fondamental pour tous", " Il faut limiter la liberté d'expression pour éviter les troubles à l'ordre public", -1.0
+" Il faut limiter la liberté d'expression pour lutter contre les manifestations risquant de troubler l'ordre public", " Il faut limiter la liberté d'expression pour éviter les troubles à l'ordre public", 1.0
+" Il faut protéger le secret défense", " Il faut limiter la liberté d'expression pour protéger l'État et les entreprises", 1.0
+" Il faut limiter la liberté d'expression pour lutter contre les propos injurieux", " Il faut limiter la liberté d'expression pour ne pas faire de tort aux personnes", 1.0
+" La liberté d'expression est un pilier de la démocratie", " Limiter la liberté d'expression est antidémocratique", 1.0
+" La liberté d'expression doit être totale pour laisser les arts et l'humour s'épanouir", " La liberté d'expression doit être maximale", 1.0
+" Internet ruine toute tentative de censure", " Limiter la liberté d'expression est inefficace", 1.0
+" La liberté d'expression doit être totale pour faire émerger les opinions vraies", " La liberté d'expression doit être maximale", 1.0
+" La liberté d'expression doit être totale pour faire progresser la science et la recherche", " La liberté d'expression doit être maximale", 1.0
+" Il faut limiter la liberté d'expression pour lutter contre le terrorisme", " Il faut limiter la liberté d'expression pour lutter contre les idées dangereuses", 1.0
+" La liberté d'expression conditionne l'exercice de nombreux autres droits", " Limiter la liberté d'expression est antidémocratique", 1.0
+" Ce ne sont pas les idées qui déterminent les comportements", " Il faut limiter la liberté d'expression pour lutter contre les idées dangereuses", -1.0
+" Il faut limiter la liberté d'expression pour lutter contre les contenus portant atteinte à la dignité humaine", " Il faut limiter la liberté d'expression pour lutter contre les contenus choquants", 1.0
+" Toute liberté comporte des limites", " La liberté d'expression est un pilier de la démocratie", -1.0
+" Toute liberté comporte des limites", " Limiter la liberté d'expression est antidémocratique", -1.0
+" Il faut limiter la liberté d'expression pour lutter contre le négationnisme", " Il faut limiter la liberté d'expression pour lutter contre les idées dangereuses", 1.0
+" Une liberté d'expression totale amène au n'importe quoi", " La liberté d'expression doit être maximale", -1.0
+" La liberté d'expression doit être totale pour ne pas favoriser l'hypocrisie et l'autocensure", " La liberté d'expression doit être maximale", 1.0
+" Il faut limiter la liberté d'expression pour protéger les minorités", " Il faut limiter la liberté d'expression pour ne pas faire de tort aux personnes", 1.0
+" L'opinion publique s'autorégule", " Limiter la liberté d'expression n'est pas nécessaire", 1.0
+" Tolérer les propos blessants est un mal nécessaire", " Il faut limiter la liberté d'expression pour ne pas faire de tort aux personnes", -1.0
+" Il faut limiter la liberté d'expression pour éviter les troubles à l'ordre public", " Limiter la liberté d'expression conduit à étouffer la contestation", -1.0
+" Il faut limiter la liberté d'expression pour éviter les troubles à l'ordre public", " La liberté d'expression doit-elle être totale ?", -1.0
+" Il faut limiter la liberté d'expression pour éviter les troubles à l'ordre public", " La liberté d'expression doit-elle être limitée ?", 1.0
+" Il faut limiter la liberté d'expression pour éviter les troubles à l'ordre public", " Limiter la liberté d'expression est nécessaire", 1.0
+" Il faut limiter la liberté d'expression pour protéger l'État et les entreprises", " La liberté d'expression doit-elle être totale ?", -1.0
+" Il faut limiter la liberté d'expression pour protéger l'État et les entreprises", " La liberté d'expression doit-elle être limitée ?", 1.0
+" Il faut limiter la liberté d'expression pour protéger l'État et les entreprises", " Limiter la liberté d'expression est nécessaire", 1.0
+" Il faut limiter la liberté d'expression pour lutter contre les contenus choquants", " La liberté d'expression doit-elle être totale ?", -1.0
+" Il faut limiter la liberté d'expression pour lutter contre les contenus choquants", " La liberté d'expression doit-elle être limitée ?", 1.0
+" Il faut limiter la liberté d'expression pour lutter contre les contenus choquants", " Limiter la liberté d'expression est nécessaire", 1.0
+" Il faut limiter la liberté d'expression pour lutter contre les contenus choquants", " La liberté d'expression entraine des abus", 1.0
+" Il faut limiter la liberté d'expression pour lutter contre les idées dangereuses", " La liberté d'expression doit-elle être totale ?", -1.0
+" Il faut limiter la liberté d'expression pour lutter contre les idées dangereuses", " La liberté d'expression doit-elle être limitée ?", 1.0
+" Il faut limiter la liberté d'expression pour lutter contre les idées dangereuses", " La liberté d'expression entraine des abus", 1.0
+" Il faut limiter la liberté d'expression pour lutter contre les idées dangereuses", " Limiter la liberté d'expression est nécessaire", 1.0
+" Limiter la liberté d'expression est dangereux", " La liberté d'expression doit-elle être limitée ?", -1.0
+" Limiter la liberté d'expression est dangereux", " La liberté d'expression doit-elle être totale ?", 1.0
+" Il faut limiter la liberté d'expression pour respecter la propriété intellectuelle", " La liberté d'expression doit-elle être totale ?", -1.0
+" Il faut limiter la liberté d'expression pour respecter la propriété intellectuelle", " La liberté d'expression doit-elle être limitée ?", 1.0
+" Limiter la liberté d'expression n'est pas nécessaire", " La liberté d'expression doit-elle être limitée ?", -1.0
+" Limiter la liberté d'expression n'est pas nécessaire", " La liberté d'expression doit-elle être totale ?", 1.0
+" La liberté d'expression doit être maximale", " La liberté d'expression doit-elle être limitée ?", -1.0
+" La liberté d'expression doit être maximale", " La liberté d'expression doit-elle être totale ?", 1.0
+" Il faut limiter la liberté d'expression pour ne pas faire de tort aux personnes", " La liberté d'expression doit-elle être totale ?", -1.0
+" Il faut limiter la liberté d'expression pour ne pas faire de tort aux personnes", " La liberté d'expression entraine des abus", 1.0
+" Il faut limiter la liberté d'expression pour ne pas faire de tort aux personnes", " La liberté d'expression doit-elle être limitée ?", 1.0
+" Il faut limiter la liberté d'expression pour ne pas faire de tort aux personnes", " Limiter la liberté d'expression est nécessaire", 1.0
+" Limiter la liberté d'expression est inefficace", " La liberté d'expression doit-elle être limitée ?", -1.0
+" Limiter la liberté d'expression est inefficace", " La liberté d'expression doit-elle être totale ?", 1.0
+" Limiter la liberté d'expression est antidémocratique", " La liberté d'expression doit-elle être limitée ?", -1.0
+" Limiter la liberté d'expression est antidémocratique", " La liberté d'expression doit-elle être totale ?", 1.0
+" Limiter la liberté d'expression est typique des régimes autoritaires", " Limiter la liberté d'expression est antidémocratique", 1.0
+" Il faut assurer le devoir de réserve des fonctionnaires", " Il faut limiter la liberté d'expression pour protéger l'État et les entreprises", 1.0
+" La liberté d'expression est optimale dans les démocraties occidentales", " La liberté d'expression doit être maximale", -1.0
+" Chacun doit faire preuve de tolérance", " Limiter la liberté d'expression n'est pas nécessaire", 1.0
+" La liberté d'expression totale est le paravent des populistes et des racistes", " Limiter la liberté d'expression est dangereux", -1.0
+" Il faut limiter la liberté d'expression pour lutter contre le cyberharcèlement", " Il faut limiter la liberté d'expression pour ne pas faire de tort aux personnes", 1.0
+" Il faut limiter la liberté d'expression pour lutter contre le racisme", " Il faut limiter la liberté d'expression pour lutter contre les idées dangereuses", 1.0
+" Il faut limiter la liberté d'expression pour lutter contre la diffamation et les propos mensongers", " Il faut limiter la liberté d'expression pour ne pas faire de tort aux personnes", 1.0
+" On ne peut pas empêcher les gens de penser ce qu'ils veulent", " Limiter la liberté d'expression est inefficace", 1.0
+" Limiter la liberté d'expression revient à déléguer le pouvoir à une élite", " Limiter la liberté d'expression est antidémocratique", 1.0
+"Par les brevets", " Il faut limiter la liberté d'expression pour respecter la propriété intellectuelle", 1.0
+" Il faut limiter la liberté d'expression pour lutter contre le blasphème", " Il faut limiter la liberté d'expression pour lutter contre les contenus choquants", 1.0
+" Il faut limiter la liberté d'expression pour lutter contre la pornographie", " Il faut limiter la liberté d'expression pour lutter contre les contenus choquants", 1.0
+" Il faut limiter la liberté d'expression pour respecter le droit d'auteur", " Il faut limiter la liberté d'expression pour respecter la propriété intellectuelle", 1.0
+" Chacun doit accepter d'être choqué dans une société plurielle", " Il faut limiter la liberté d'expression pour lutter contre les contenus choquants", -1.0
+" Il faut limiter la liberté d'expression pour lutter contre la pédophilie", " Il faut limiter la liberté d'expression pour lutter contre les contenus choquants", 1.0
+" Limiter la liberté d'expression conduit à étouffer la contestation", " Limiter la liberté d'expression est dangereux", 1.0
+" La liberté d'expression doit être totale pour pouvoir dénoncer les abus", " La liberté d'expression doit être maximale", 1.0
+" Limiter la liberté d'expression est nécessaire", " Limiter la liberté d'expression n'est pas nécessaire", -1.0
+" Il faut développer l'éducation à l'esprit critique", " Il faut limiter la liberté d'expression pour lutter contre les idées dangereuses", -1.0
+" Il faut limiter la liberté d'expression pour lutter contre l'ultraviolence", " Il faut limiter la liberté d'expression pour lutter contre les contenus choquants", 1.0
+" Les paroles ne sont pas des actes", " Limiter la liberté d'expression n'est pas nécessaire", 1.0
+" Les paroles et les images ne sont pas des actes", " Il faut limiter la liberté d'expression pour ne pas faire de tort aux personnes", -1.0
+"Par le secret des affaires", " Il faut limiter la liberté d'expression pour protéger l'État et les entreprises", 1.0
+" Limiter la liberté d'expression, c'est appauvrir la pensée", " Limiter la liberté d'expression est dangereux", 1.0
+" La liberté d'expression doit être limitée par les droits de l'homme", " Limiter la liberté d'expression est antidémocratique", -1.0
+" Il faut limiter la liberté d'expression pour respecter la vie privée et le droit à l'image", " Il faut limiter la liberté d'expression pour ne pas faire de tort aux personnes", 1.0
+" Les individus sont doués de raison et capables de s'autocensurer", " Limiter la liberté d'expression n'est pas nécessaire", 1.0
+" Il faut limiter la liberté d'expression pour lutter contre les propos incitant à la violence", " Il faut limiter la liberté d'expression pour éviter les troubles à l'ordre public", 1.0
+" Interdire certains discours empêche leur propagation", " Limiter la liberté d'expression est inefficace", -1.0
+" Il faut limiter la liberté d'expression pour lutter contre les propos incitant à la haine", " Il faut limiter la liberté d'expression pour ne pas faire de tort aux personnes", 1.0
+" Il faut opposer aux discours dangereux des contre-discours", " Il faut limiter la liberté d'expression pour lutter contre les idées dangereuses", -1.0
+" Quand on limite la liberté d'expression, on ne peut plus s'arrêter", " Limiter la liberté d'expression est dangereux", 1.0
+" Il y a des opinions qui n'ont pas à être discutées", " La liberté d'expression doit être maximale", -1.0
+" L'espace public n'est pas un supermarché", " La liberté d'expression doit être maximale", -1.0
+" La liberté d'expression doit être totale pour laisser les individus libres de se réaliser", " La liberté d'expression doit être maximale", 1.0
+" La liberté d'expression permet de lutter contre les dérives de la pensée dominante", " Limiter la liberté d'expression est dangereux", 1.0
+"Il faut protéger le droit de citation", " Il faut limiter la liberté d'expression pour protéger l'État et les entreprises", -1.0

@@ -1,0 +1,11 @@
+premise, conclusion, weight
+"Then the law must be discharged and it is unconstitutional to jump straight to the Supreme Court", "The Judicial power of the US extends to all cases arising under the Constitution", 1.0
+"Having a signed commission and the refusal to deliver is a clear violation of Marbury's right to have the commission, He then deserves a remedy", "Whether or not a right has been vested lies with the Judicial Court", -0.5
+"Whether or not a right has been vested lies with the Judicial Court", "The acts of the executive branch are conclusive and should be held as so", -1.0
+"The Judicial power of the US extends to all cases arising under the Constitution", "If a law and the Constitution can be both present in a case and are at odds then the Constitution must be then held at a higher esteem", -0.5
+"If a law and the Constitution can be both present in a case and are at odds then the Constitution must be then held at a higher esteem", "the whole judicial power is within the Supreme Court and is given original jurisdiction", -1.0
+"To withhold commission is to violate a vested legal law", "The commission was signed by the President and sealed by the secretary of state, Marbury was appointed", -0.5
+"The acts of the executive branch are conclusive and should be held as so", "Every citizen has a right to claim protection of law if is injured", 1.0
+"the whole judicial power is within the Supreme Court and is given original jurisdiction", " Madisons refusal to deliver is illegal and Marbury's jump straight to the Supreme Court is unconstitutional", 1.0
+"The commission was signed by the President and sealed by the secretary of state, Marbury was appointed", " Madisons refusal to deliver is illegal and Marbury's jump straight to the Supreme Court is unconstitutional", 1.0
+"Every citizen has a right to claim protection of law if is injured", " Madisons refusal to deliver is illegal and Marbury's jump straight to the Supreme Court is unconstitutional", 1.0

@@ -1,0 +1,7 @@
+arg1, arg2, attack_support
+"am-en158 -> ¬am-en122", "am-en122 -> am-en64", "Attack"
+"am-en158 -> ¬am-en122", "am-en122 -> am-en64", "Attack"
+"am-en122 -> am-en64", "am-en64 -> am-en17", "Support"
+"am-en123 -> ¬am-en67", "am-en67 -> ¬am-en17", "Attack"
+"am-en123 -> ¬am-en67", "am-en67 -> ¬am-en17", "Attack"
+"am-en122 -> am-en64", "am-en64 -> am-en17", "Support"

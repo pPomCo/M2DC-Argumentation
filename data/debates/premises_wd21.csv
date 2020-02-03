@@ -1,0 +1,190 @@
+premise, conclusion, weight
+" Les entrepreneurs ont intérêt à avoir un personnel de plus en plus formé étant donné le coût des machines", " Le travail intellectuel joue un rôle de plus en plus important dans le processus de production", 1.0
+" Le travail de recherche et de conception fait partie du travail de production", " Tout travail productif n'est pas nécessairement manuel", 1.0
+" Les intellectuels défenseurs du capitalisme ne sont plus salariés par les entreprises mais par l'État", " Les intellectuels ne défendent plus le capitalisme comme ils l'ont défendu dans le passé", 1.0
+" Le travail intellectuel joue un rôle de plus en plus important dans le processus de production", " Tout travail productif n'est pas nécessairement manuel", 1.0
+" La critique du capitalisme n'est dans les années 1960 plus seulement théorique mais pratique", " Les intellectuels ne défendent plus le capitalisme comme ils l'ont défendu dans le passé", 1.0
+" À la sortie de la Deuxième Guerre mondiale, la CGT n'a déclenché des grèves que lorsqu'elle était en situation de les contrôler", " À la sortie de la Deuxième Guerre mondiale, la CGT a déclenché des grèves dures", -1.0
+" Les ouvriers font un travail de plus en plus intellectuel et qualifié", " Tout travail productif n'est pas nécessairement manuel", 1.0
+" Les militants de la CGT ont démoralisé les travailleurs en les remettant à la victoire électorale de la gauche unie derrière François Mitterrand", " Depuis la crise des années 1970, les directions syndicales mettent toute leur influence pour faire avaler aux travailleurs les sacrifices exigés par les capitalistes", 1.0
+" Les étudiants dans les laboratoires participent déjà au processus de production", " Les étudiants sont des apprentis travailleurs intellectuels", 1.0
+" À la sortie de la Deuxième Guerre mondiale, les syndicats ont pleinement contribué à la reconstruction de l'économie capitaliste française", " À la sortie de la Deuxième Guerre mondiale, les syndicats ont contribué à la perpétuation du capitalisme en France", 1.0
+" À la sortie de la Deuxième Guerre mondiale, les syndicats ont cautionné et encouragé les privations au nom de la bataille de la production", " À la sortie de la Deuxième Guerre mondiale, les syndicats ont contribué à la perpétuation du capitalisme en France", 1.0
+" À la sortie de la Deuxième Guerre mondiale, la CGT a déclenché des grèves dures", " À la sortie de la Deuxième Guerre mondiale, les syndicats ont contribué à la perpétuation du capitalisme en France", -1.0
+" Tout travail productif n'est pas nécessairement salarié", " Ce n'est pas parce que les étudiants ne produisent pas de plus-value que ce sont des petits-bourgeois", 1.0
+" À la sortie de la Deuxième Guerre mondiale, les bureaucraties syndicales ont renforcé leur pouvoir à travers les propositions du Conseil national de la Résistance", " À la sortie de la Deuxième Guerre mondiale, les syndicats ont contribué à la perpétuation du capitalisme en France", 1.0
+" Les intellectuels ne défendent plus le capitalisme comme ils l'ont défendu dans le passé", " Le rôle politique des étudiants a changé depuis les années 1960", 1.0
+" Tout travail productif n'est pas nécessairement manuel", " Ce n'est pas parce que les étudiants ne produisent pas de plus-value que ce sont des petits-bourgeois", 1.0
+" Durant la présidence de François Mitterrand, les directions syndicales n'ont pas cherché à mener pleinement le combat contre les fermetures d'usines et les licenciements", " Depuis la crise des années 1970, les directions syndicales mettent toute leur influence pour faire avaler aux travailleurs les sacrifices exigés par les capitalistes", 1.0
+" Les études universitaires sont de plus en plus déterminées par les lois du marché", " Les étudiants sont de plus en plus aliénés", 1.0
+" La CGT a mis tout son poids pour canaliser la grève générale de Mai 1968 en France", " Contrôler et freiner les luttes a été le rôle des syndicats tout au long du vingtième siècle", 1.0
+" Depuis la crise des années 1970, les directions syndicales mettent toute leur influence pour faire avaler aux travailleurs les sacrifices exigés par les capitalistes", " Contrôler et freiner les luttes a été le rôle des syndicats tout au long du vingtième siècle", 1.0
+" Les travailleurs forment un tout qui concourt collectivement à la production de marchandises", " Les travailleurs des services font partie du prolétariat", 1.0
+"La classe ouvrière inclut une partie des travailleurs des services", " La classe ouvrière est majoritaire en France quand on ne comprend pas que les ouvriers d'industrie", 1.0
+" Le statut d'étudiant est transitoire et contradictoire", " Les étudiants sont des petits-bourgeois", -1.0
+" Le statut d'étudiant est transitoire et contradictoire", " Les étudiants sont des apprentis travailleurs intellectuels", 1.0
+" Le travail intellectuel est de plus en plus spécialisé", " Les étudiants sont de plus en plus aliénés", 1.0
+" Le travail intellectuel est de plus en plus spécialisé", " La prolétarisation du travail intellectuel repose sur l'aliénation du travail intellectuel", 1.0
+" Le travail intellectuel est de plus en plus spécialisé", " Le travail intellectuel s'est prolétarisé", 1.0
+" À la sortie de la Deuxième Guerre mondiale, les syndicats ont contribué à la perpétuation du capitalisme en France", " Contrôler et freiner les luttes a été le rôle des syndicats tout au long du vingtième siècle", 1.0
+" La distinction entre travailleurs productifs et improductifs n'implique pas que les travailleurs improductifs soient moins combatifs ou révolutionnaires", " Les travailleurs des services font partie du prolétariat", 1.0
+" Après la Deuxième Guerre mondiale, la CGT a muselé et réprimé toute opposition à sa gauche", " Contrôler et freiner les luttes a été le rôle des syndicats tout au long du vingtième siècle", 1.0
+" La prolétarisation du travail intellectuel repose sur l'aliénation du travail intellectuel", " Les étudiants sont de plus en plus aliénés", 1.0
+" La prolétarisation du travail intellectuel repose sur l'aliénation du travail intellectuel", " Le travail intellectuel s'est prolétarisé", 1.0
+"La classe ouvrière inclut les travailleurs intellectuels", " La classe ouvrière est majoritaire en France quand on ne comprend pas que les ouvriers d'industrie", 1.0
+" Le statut des travailleurs intellectuels est passé de celui d'indépendants à celui de salariés", " Le travail intellectuel s'est prolétarisé", 1.0
+" Dans tous les pays, les syndicats ont cautionné et encouragé l'engagement des travailleurs dans la Première Guerre mondiale", " Contrôler et freiner les luttes a été le rôle des syndicats tout au long du vingtième siècle", 1.0
+" Des dirigeants syndicaux ont collaboré avec la bourgeoisie pour encourager l'effort de guerre pendant la Première Guerre mondiale", " Contrôler et freiner les luttes a été le rôle des syndicats tout au long du vingtième siècle", 1.0
+" Ce n'est pas parce que les étudiants ne produisent pas de plus-value que ce sont des petits-bourgeois", " Les étudiants sont des petits-bourgeois", -1.0
+"La classe ouvrière inclut les chômeurs", " La classe ouvrière est majoritaire en France quand on ne comprend pas que les ouvriers d'industrie", 1.0
+" La direction de la CGT a mis tout son poids pour canaliser la grève générale de 1936 en France", " Contrôler et freiner les luttes a été le rôle des syndicats tout au long du vingtième siècle", 1.0
+" Les étudiants ne sont plus amenés à devenir des petits-bourgeois mais des travailleurs", " Les étudiants sont des petits-bourgeois", -1.0
+" Les étudiants ne sont plus amenés à devenir des petits-bourgeois mais des travailleurs", " Les étudiants sont des apprentis travailleurs intellectuels", 1.0
+"La classe ouvrière inclut les employés", " La classe ouvrière est majoritaire en France quand on ne comprend pas que les ouvriers d'industrie", 1.0
+" Le rôle politique des étudiants a changé depuis les années 1960", " Les étudiants ont eu un rôle réactionnaire dans l'histoire", -1.0
+" Les fonctions de marketing, design, management, etc., ont été intégrées aux entreprises de la sphère de la production", " Le travail intellectuel s'est prolétarisé", 1.0
+" La proportion de travailleurs intellectuels intégrés dans la production a augmenté", " Le travail intellectuel s'est prolétarisé", 1.0
+" Les directions syndicales ont tout fait pour lutter contre la vague révolutionnaire déclenchée par la Révolution russe", " Contrôler et freiner les luttes a été le rôle des syndicats tout au long du vingtième siècle", 1.0
+" Les travailleurs des services sont dans certains cas productifs", " Les travailleurs des services font partie du prolétariat", 1.0
+" Les étudiants sont des apprentis travailleurs intellectuels", " Les étudiants sont des petits-bourgeois", -1.0
+"La paysannerie est conservatrice", " La révolution sera paysanne", -1.0
+" La bourgeoisie sait pertinemment que la classe ouvrière existe encore", " La classe ouvrière est en voie de disparition", -1.0
+"Quand une lutte va au-delà de ce qu'ils veulent, les syndicats mettent tout leur poids pour l'arrêter", " Les syndicats cherchent à contrôler et si besoin freiner les luttes", 1.0
+" Il ne faut pas confondre blocage de la circulation et blocage de la production", " La classe ouvrière a perdu son pouvoir économique du fait du passage à une production à flux tendu", -1.0
+" Aucun pays industrialisé ne peut supporter le blocage prolongé de ses universités", " Les étudiants ont un rôle révolutionnaire", 1.0
+" Les étudiants manquent d'homogénéité sociale", " Les étudiants ont un rôle révolutionnaire", -1.0
+" Même dans les pays industrialisés, les ouvriers d'industrie sont très loin d'avoir disparu", " La classe ouvrière est en voie de disparition", -1.0
+" Les étudiants oscillent généralement entre le réformisme et le gauchisme", " Les étudiants ont un rôle révolutionnaire", -1.0
+" Il existe encore en France de grandes concentrations de travailleurs sur des sites non industriels", " La classe ouvrière a perdu son pouvoir économique du fait de l'éclatement de la production", -1.0
+" Le mouvement étudiant peut être un soutien de premier ordre aux luttes anti-impérialistes dans le monde", " Les étudiants ont un rôle révolutionnaire", 1.0
+" Le mouvement étudiant peut être un soutien de premier ordre aux luttes anti-impérialistes dans le monde", " Le rôle politique des étudiants a changé depuis les années 1960", 1.0
+" L'atomisation de la classe ouvrière ne doit pas empêcher les partis révolutionnaires de chercher son unification", " La classe ouvrière est trop atomisée pour avoir conscience d'elle-même", -1.0
+" Les étudiants peuvent contribuer à la formation de cadres révolutionnaires au sein de la classe ouvrière", " Les étudiants ont un rôle révolutionnaire", 1.0
+" Les étudiants n'ont pas la force sociale suffisante pour renverser le capitalisme", " Les étudiants ont un rôle révolutionnaire", -1.0
+" Le lumpenprolétariat est trop lâche et vénal pour mener la révolution sans la trahir", " La révolution viendra des marginaux", -1.0
+" Les mendiants dépendent trop des riches pour devenir révolutionnaires", " La révolution viendra des marginaux", -1.0
+" Les paysans évoluent trop lentement", " La révolution sera paysanne", -1.0
+" Les étudiants sont des petits-bourgeois", " Les étudiants ont un rôle révolutionnaire", -1.0
+" Les statistiques du nombre d'ouvriers d'industrie dans les pays industrialisés sont à manier avec des pincettes", " La classe ouvrière a perdu son pouvoir économique du fait de la désindustrialisation", -1.0
+" Le mouvement étudiant peut jouer le rôle de détonateur", " Le rôle politique des étudiants a changé depuis les années 1960", 1.0
+" Le mouvement étudiant peut jouer le rôle de détonateur", " Les étudiants ont un rôle révolutionnaire", 1.0
+" Même dans les pays industrialisés, les ouvriers industriels sont très loin d'avoir disparu", " La classe ouvrière a perdu son pouvoir économique du fait de la désindustrialisation", -1.0
+" Le travail intellectuel s'est prolétarisé", " La classe ouvrière a perdu son pouvoir économique du fait de la tertiarisation de l'économie", -1.0
+" Le travail intellectuel s'est prolétarisé", " Les étudiants ne sont plus amenés à devenir des petits-bourgeois mais des travailleurs", 1.0
+" Le travail intellectuel s'est prolétarisé", " Les étudiants sont de plus en plus aliénés", 1.0
+" La paysannerie est trop attachée à la propriété privée", " La révolution sera paysanne", -1.0
+" Il ne faut pas regretter le temps où la classe ouvrière était unifiée par les organisations staliniennes", " La classe ouvrière est trop hétérogène", 1.0
+" Il ne faut pas confondre classe ouvrière et mouvement ouvrier", " La classe ouvrière est en voie de disparition", -1.0
+" Malgré de nombreux préjugés réactionnaires, la classe ouvrière russe a fait la révolution", " Les ouvriers sont réactionnaires", -1.0
+"Les usines créées dans le monde concentrent des milliers ou des dizaines de milliers de travailleurs", " La classe ouvrière a perdu son pouvoir économique du fait de l'éclatement de la production", -1.0
+" La classe ouvrière a pendant longtemps été dispersée et atomisée", " La classe ouvrière est trop atomisée pour avoir conscience d'elle-même", -1.0
+" Les étudiants peuvent jouer un rôle de contre-propagande au sein de l'université", " Les étudiants ont un rôle révolutionnaire", 1.0
+"Dans un mouvement de grève, les syndicats s'efforcent toujours de garder le contrôle sur le mouvement", " Les syndicats cherchent à contrôler et si besoin freiner les luttes", 1.0
+" La classe ouvrière est majoritaire en France quand on ne comprend pas que les ouvriers d'industrie", " La classe ouvrière est en voie de disparition", -1.0
+" La classe ouvrière a toujours été touchée par l'individualisme", " La classe ouvrière est touchée par l'individualisme", -1.0
+" La classe ouvrière est seulement devenue invisible", " La classe ouvrière a perdu son pouvoir économique du fait de la désindustrialisation", -1.0
+" La classe ouvrière est seulement devenue invisible", " La classe ouvrière est en voie de disparition", -1.0
+" Contrôler et freiner les luttes a été le rôle des syndicats tout au long du vingtième siècle", " Les syndicats cherchent à contrôler et si besoin freiner les luttes", 1.0
+" La désindustrialisation ne touche pas les pays du tiers-monde, bien au contraire", " La classe ouvrière a perdu son pouvoir économique du fait de la désindustrialisation", -1.0
+" Les étudiants ont la capacité de fournir des études factuelles utiles aux travailleurs et aux organisations ouvrières dans leurs argumentations", " Les étudiants ont un rôle révolutionnaire", 1.0
+" Les bolchéviks eux-mêmes se sont appuyés sur le prolétariat le moins concentré et organisé pour mener la Révolution russe", " La classe ouvrière est trop atomisée pour avoir conscience d'elle-même", -1.0
+" La production reste structurée autour de sites ou « écosystèmes » industriels à forte concentration ouvrière", " La classe ouvrière a perdu son pouvoir économique du fait de l'éclatement de la production", -1.0
+" La bourgeoisie sait pertinemment que la classe ouvrière existe encore", " La classe ouvrière a perdu son pouvoir économique du fait de la désindustrialisation", -1.0
+"La capacité des syndicats à contrôler et freiner les luttes est leur faire-valoir auprès de l'État et du patronat", " Les syndicats cherchent à contrôler et si besoin freiner les luttes", 1.0
+" Les étudiants ont eu un rôle réactionnaire dans l'histoire", " Les étudiants ont un rôle révolutionnaire", -1.0
+" Les étudiants sont de plus en plus aliénés", " Les étudiants ont un rôle révolutionnaire", 1.0
+" L'éclatement de la production est une réponse de la bourgeoisie à la terreur provoquée par la grève générale de Mai 68", " La classe ouvrière a perdu son pouvoir économique du fait de l'éclatement de la production", -1.0
+" L'éclatement de la production est une réponse de la bourgeoisie à la terreur provoquée par la grève générale de Mai 68", " La division de la classe ouvrière est une politique consciente de la bourgeoisie", 1.0
+" La classe ouvrière n'a jamais été homogène", " La classe ouvrière est trop hétérogène", 1.0
+" La paysannerie est trop éclatée pour avoir conscience d'elle-même", " La révolution sera paysanne", -1.0
+" Les travailleurs des services font partie du prolétariat", " La classe ouvrière a perdu son pouvoir économique du fait de la tertiarisation de l'économie", -1.0
+" De nouvelles façons d'unifier la classe ouvrière sont possibles", " La classe ouvrière est trop hétérogène", 1.0
+" Les statistiques du nombre d'ouvriers d'industrie dans les pays industrialisés sont à manier avec des pincettes", " La classe ouvrière est en voie de disparition", -1.0
+" Les statistiques du nombre d'ouvriers d'industrie dans les pays industrialisés sont à manier avec des pincettes", " La classe ouvrière a perdu son pouvoir économique du fait de la tertiarisation de l'économie", -1.0
+" Les ouvriers ont leur petit confort", " Les ouvriers se sont embourgeoisés", 1.0
+" La classe ouvrière du tiers-monde commence à lutter", " La classe ouvrière a perdu sa combativité", -1.0
+" La classe ouvrière est trop hétérogène", " La classe ouvrière est trop divisée pour avoir conscience d'elle-même", 1.0
+"Les syndicats et partis ouvriers sont contre-révolutionnaires", " Les organisations ouvrières ont perdu leur base et leur légitimité", 1.0
+"La classe ouvrière a le sens du collectif", " La classe ouvrière possède des qualités que ne possèdent pas les autres classes", 1.0
+"La perte de l'espoir collectif", " La classe ouvrière a perdu confiance en ses forces", 1.0
+"Elle a une longue et riche histoire de luttes", " La classe ouvrière a fait la preuve de sa capacité à faire la révolution", 1.0
+"Il faut en finir avec l'ouvriérisme", " La révolution peut et doit se faire sans la classe ouvrière", 1.0
+" Les luttes ouvrières sont de plus en plus défensives, localisées et catégorielles", " La classe ouvrière a perdu sa combativité", 1.0
+" Les étudiants ont un rôle révolutionnaire", " La révolution peut et doit se faire sans la classe ouvrière", 1.0
+" Le recul de la conscience ouvrière ne justifie pas d'abandonner les idées révolutionnaires", " La classe ouvrière a perdu confiance en ses forces", -1.0
+" Le recul de la conscience ouvrière ne justifie pas d'abandonner les idées révolutionnaires", " La classe ouvrière a perdu sa combativité", -1.0
+" La classe ouvrière a la conscience révolutionnaire du fait de sa concentration dans les villes et les lieux de travail", " La classe ouvrière est la classe la plus à même de devenir révolutionnaire", 1.0
+" La classe ouvrière a la conscience révolutionnaire du fait de ses mauvaises conditions de vie et de travail", " La classe ouvrière est la classe la plus à même de devenir révolutionnaire", 1.0
+" La classe ouvrière s'est déjà emparée du pouvoir dans l'Histoire", " La classe ouvrière a fait la preuve de sa capacité à faire la révolution", 1.0
+" La classe ouvrière est touchée par l'individualisme", " La classe ouvrière est trop divisée pour avoir conscience d'elle-même", 1.0
+"Les autres classes sociales n'ont pas cette capacité", " La classe ouvrière a la force et le savoir-faire économiques", 1.0
+" La classe ouvrière a terrorisé la bourgeoisie à diverses reprises", " La classe ouvrière a fait la preuve de sa capacité à faire la révolution", 1.0
+"Les autres classes sociales ne peuvent pas avoir de conscience révolutionnaire", " La classe ouvrière est la classe la plus à même de devenir révolutionnaire", 1.0
+" Des millions d'ouvriers vivent encore l'exploitation, même dans les pays les plus riches", " Les ouvriers ont leur petit confort", -1.0
+" Des millions d'ouvriers vivent encore l'exploitation, même dans les pays les plus riches", " Les ouvriers se sont embourgeoisés", -1.0
+"La montée de la résignation", " La classe ouvrière a perdu confiance en ses forces", 1.0
+"Les ouvriers sont électoralistes", " Les ouvriers ne sont pas révolutionnaires", 1.0
+"Les syndicats et partis ouvriers ont perdu leurs adhérents et leurs militants", " Les organisations ouvrières ont perdu leur base et leur légitimité", 1.0
+" La classe ouvrière est trop atomisée pour avoir conscience d'elle-même", " La classe ouvrière est trop divisée pour avoir conscience d'elle-même", 1.0
+" La division de la classe ouvrière est une politique consciente de la bourgeoisie", " La classe ouvrière est trop divisée pour avoir conscience d'elle-même", -1.0
+" La faiblesse des organisations ouvrières actuelles n'empêchera pas leur reconstruction", " Les organisations ouvrières ont perdu leur base et leur légitimité", -1.0
+"Une classe touchée par le racisme et le sexisme", " La classe ouvrière est trop divisée pour avoir conscience d'elle-même", 1.0
+"Les ouvriers ne cherchent qu'à consommer", " Les ouvriers se sont embourgeoisés", 1.0
+" La révolution sera paysanne", " La révolution peut et doit se faire sans la classe ouvrière", 1.0
+"La classe ouvrière a toujours été traversée de divisions", " La classe ouvrière est trop divisée pour avoir conscience d'elle-même", -1.0
+" La classe ouvrière a perdu son pouvoir économique du fait de la désindustrialisation", " La classe ouvrière a perdu son pouvoir économique", 1.0
+" La classe ouvrière a perdu son pouvoir économique du fait de la tertiarisation de l'économie", " La classe ouvrière a perdu son pouvoir économique", 1.0
+" La classe ouvrière est unie par un sentiment de solidarité", " La classe ouvrière possède des qualités que ne possèdent pas les autres classes", 1.0
+"Il y a d'autres sujets révolutionnaires", " La révolution peut et doit se faire sans la classe ouvrière", 1.0
+"Manifester est trop dangereux", " Les ouvriers n'ont pas les moyens de se révolter", 1.0
+"La perte de la fierté et de la dignité ouvrières", " La classe ouvrière a perdu confiance en ses forces", 1.0
+" La classe ouvrière a la force et le savoir-faire économiques", " La classe ouvrière est-elle la seule classe révolutionnaire ?", 1.0
+" Les organisations ouvrières ont perdu leur base et leur légitimité", " La classe ouvrière est-elle la seule classe révolutionnaire ?", -1.0
+" Les ouvriers ne sont pas révolutionnaires", " La classe ouvrière est-elle la seule classe révolutionnaire ?", -1.0
+" La révolution peut et doit se faire sans la classe ouvrière", " La classe ouvrière est-elle la seule classe révolutionnaire ?", -1.0
+" Les ouvriers se sont embourgeoisés", " La classe ouvrière est-elle la seule classe révolutionnaire ?", -1.0
+" La classe ouvrière a perdu son pouvoir économique", " La classe ouvrière est-elle la seule classe révolutionnaire ?", -1.0
+" La classe ouvrière est trop divisée pour avoir conscience d'elle-même", " La classe ouvrière est-elle la seule classe révolutionnaire ?", -1.0
+" Les ouvriers n'ont pas les moyens de se révolter", " La classe ouvrière est-elle la seule classe révolutionnaire ?", -1.0
+" La classe ouvrière a fait la preuve de sa capacité à faire la révolution", " La classe ouvrière est-elle la seule classe révolutionnaire ?", 1.0
+" La classe ouvrière a perdu sa combativité", " La classe ouvrière est-elle la seule classe révolutionnaire ?", -1.0
+" La classe ouvrière est la principale force sociale", " La classe ouvrière est-elle la seule classe révolutionnaire ?", 1.0
+"Les autres classes ne sont pas révolutionnaires", " La classe ouvrière est-elle la seule classe révolutionnaire ?", 1.0
+" La classe ouvrière a perdu confiance en ses forces", " La classe ouvrière est-elle la seule classe révolutionnaire ?", -1.0
+"La classe ouvrière accumule avant tout des défaites", " La classe ouvrière est-elle la seule classe révolutionnaire ?", -1.0
+" La classe ouvrière possède des qualités que ne possèdent pas les autres classes", " La classe ouvrière est-elle la seule classe révolutionnaire ?", 1.0
+" La classe ouvrière est la classe la plus à même de devenir révolutionnaire", " La classe ouvrière est-elle la seule classe révolutionnaire ?", 1.0
+" Les luttes ouvrières sont en baisse continuelle", " La classe ouvrière a perdu sa combativité", 1.0
+" La révolution viendra des marginaux", " La révolution peut et doit se faire sans la classe ouvrière", 1.0
+" La classe ouvrière a la force du nombre", " La classe ouvrière est la principale force sociale", 1.0
+" La classe ouvrière est à l'origine des plus grandes avancées sociales du 19e et 20 siècles", " La classe ouvrière a fait la preuve de sa capacité à faire la révolution", 1.0
+" La classe ouvrière est la seule classe capable de mener la révolution jusqu'au bout", " La classe ouvrière est la classe la plus à même de devenir révolutionnaire", 1.0
+"Les ouvriers sont trop dociles et influençables", " Les ouvriers n'ont pas les moyens de se révolter", 1.0
+"Les ouvriers ne peuvent pas se permettre de perdre de l'argent ou de perdre leur emploi", " Les ouvriers n'ont pas les moyens de se révolter", 1.0
+"Les ouvriers ne cherchent qu'à s'intégrer et s'élever individuellement", " Les ouvriers se sont embourgeoisés", 1.0
+" La division de la classe ouvrière dans le passé ne l'a pas empêchée de s'organiser et de lutter", " La classe ouvrière est trop divisée pour avoir conscience d'elle-même", -1.0
+"Les directions du mouvement ouvrier sont complètement intégrées à l'État bourgeois", " Les ouvriers ne sont pas révolutionnaires", 1.0
+"Les syndicats ont intégré la logique gestionnaire", " La classe ouvrière a perdu sa combativité", 1.0
+" La classe ouvrière a perdu son pouvoir économique du fait du passage à une production à flux tendu", " La classe ouvrière a perdu son pouvoir économique", 1.0
+" Les ouvriers sont réactionnaires", " Les ouvriers ne sont pas révolutionnaires", 1.0
+"Pour renverser le capitalisme", " La classe ouvrière a la force et le savoir-faire économiques", 1.0
+" La classe ouvrière est en voie de disparition", " La classe ouvrière a perdu son pouvoir économique", 1.0
+"Du fait de la fin des ouvriers professionnels", " La classe ouvrière a perdu son pouvoir économique", 1.0
+" La faiblesse des organisations ouvrières réformistes laisse plus de place aux mouvements révolutionnaires", " Les organisations ouvrières ont perdu leur base et leur légitimité", -1.0
+" Les classes intermédiaires tendent à décliner avec le développement du capitalisme", " La classe ouvrière est la principale force sociale", 1.0
+"Les ouvriers sont réformistes", " Les ouvriers ne sont pas révolutionnaires", 1.0
+" La classe ouvrière a la conscience révolutionnaire du fait de ses organisations et du travail de ses militants", " La classe ouvrière est la classe la plus à même de devenir révolutionnaire", 1.0
+"La classe ouvrière est disciplinée", " La classe ouvrière possède des qualités que ne possèdent pas les autres classes", 1.0
+" La classe ouvrière n'a jamais été aussi importante à l'échelle mondiale", " La classe ouvrière a perdu son pouvoir économique", -1.0
+" La classe ouvrière n'a jamais été aussi importante à l'échelle mondiale", " La classe ouvrière est en voie de disparition", -1.0
+"Les luttes d'aujourd'hui sont portées par d'autres acteurs sociaux", " La classe ouvrière a perdu sa combativité", 1.0
+" Le discrédit des organisations ouvrières réformistes laisse une place pour reconstruire des organisations révolutionnaires", " Les organisations ouvrières ont perdu leur base et leur légitimité", -1.0
+" La classe ouvrière a la force et le savoir-faire économiques pour réorganiser la société sur une autre base", " La classe ouvrière a la force et le savoir-faire économiques", 1.0
+"Les directions du mouvement ouvrier ont mené une politique contre-révolutionnaire", " Les organisations ouvrières ont perdu leur base et leur légitimité", -1.0
+"Elle est capable d'entrainer les autres classes derrière elle", " La classe ouvrière est la principale force sociale", 1.0
+"La révolution viendra des précaires et des chômeurs", " La révolution peut et doit se faire sans la classe ouvrière", 1.0
+" Les syndicats cherchent à contrôler et si besoin freiner les luttes", " Les organisations ouvrières ont perdu leur base et leur légitimité", -1.0
+" La classe ouvrière a perdu son pouvoir économique du fait de l'éclatement de la production", " La classe ouvrière a perdu son pouvoir économique", 1.0
+"Du fait de la montée du chômage de masse", " La classe ouvrière a perdu son pouvoir économique", 1.0
+" La gauche est responsable du recul de la conscience de classe des ouvriers", " La classe ouvrière est trop divisée pour avoir conscience d'elle-même", -1.0
+"Les luttes ouvrières sont de plus en plus réactionnaires", " La classe ouvrière a perdu sa combativité", 1.0

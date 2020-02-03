@@ -1,0 +1,37 @@
+premise, conclusion, weight
+"Des métiers moins bien payés présentent aussi des risques", " Les niveaux de salaire des footballeurs professionnels sont justifiés par les risques pour la santé physique et mentale", -1.0
+"C'est le talent qui compte et c'est cela qui est rétribué", " Les footballeurs professionnels sont trop payés par rapport au niveau d'étude et aux responsabilités", -1.0
+"D'autres professions ont des carrières courtes", " Les niveaux de salaire des footballeurs professionnels sont justifiés par la brièveté de la carrière et la difficulté de la reconversion", -1.0
+"Recrutement trop jeune pour permettre de longues études", " Les footballeurs professionnels sont trop payés par rapport au niveau d'étude et aux responsabilités", -1.0
+" Les responsabilités des footballeurs professionnels sont importantes", " Les footballeurs professionnels sont trop payés par rapport au niveau d'étude et aux responsabilités", -1.0
+"La filière sports-études permet de faire des études en vue d'une reconversion", " Les niveaux de salaire des footballeurs professionnels sont justifiés par la brièveté de la carrière et la difficulté de la reconversion", -1.0
+"Le football n'est pas responsable de la misère du monde", " L'argent des salaires des footballeurs professionnels pourrait être investi dans des choses plus importantes", -1.0
+" Ces niveaux de salaire ne concernent qu'une minorité de footballeurs professionnels", " Les salaires des footballeurs professionnels sont démesurés", -1.0
+" Les footballeurs professionnels sont trop payés par rapport à leur utilité sociale", " Les salaires des footballeurs professionnels sont démesurés", 1.0
+"Encore faut-il qu'il n'y ait pas d'évasion fiscale !", " Les impôts sur les salaires des footballeurs professionnels rapportent aux Etats", -1.0
+"Ces niveaux de salaire correspondent à leur fonction sociale", " Les salaires des footballeurs professionnels sont démesurés", -1.0
+" Les footballeurs professionnels sont trop payés par rapport aux personnes dans le besoin", " Les salaires des footballeurs professionnels sont démesurés", 1.0
+"Empiètement sur la vie privée", " Les salaires des footballeurs professionnels sont justifiés par les inconvénients du métier", 1.0
+"Le marché a évolué", " Les salaires des footballeurs professionnels n'ont pas besoin d'être aussi élevés", -1.0
+"Liberté restreinte", " Les salaires des footballeurs professionnels sont justifiés par les inconvénients du métier", 1.0
+"Les valeurs transmises ne sont pas toutes positives", " Les salaires des footballeurs professionnels sont justifiés par l'utilité sociale du football", -1.0
+"Ce n'est pas le cas de tous les footballeurs", " Certains footballeurs professionnels reversent une partie de leur salaire à des associations caritatives", -1.0
+" Les niveaux de salaire des footballeurs professionnels sont justifiés par les risques pour la santé physique et mentale", " Les salaires des footballeurs professionnels sont justifiés par les inconvénients du métier", 1.0
+"Les salaires élevés renchérissent le prix des places de stade", " Les salaires des footballeurs professionnels sont justifiés par l'utilité sociale du football", -1.0
+"La charité individuelle a toujours été bien moins efficace que l'État social pour améliorer la condition humaine", " Certains footballeurs professionnels reversent une partie de leur salaire à des associations caritatives", -1.0
+" Les footballeurs professionnels sont trop payés par rapport au niveau d'étude et aux responsabilités", " Les salaires des footballeurs professionnels sont démesurés", 1.0
+" Les footballeurs professionnels sont trop payés par rapport aux autres sports", " Les salaires des footballeurs professionnels sont démesurés", 1.0
+" Les niveaux de salaire des footballeurs professionnels sont justifiés par la brièveté de la carrière et la difficulté de la reconversion", " Les salaires des footballeurs professionnels sont justifiés par les inconvénients du métier", 1.0
+" Les impôts sur les salaires des footballeurs professionnels rapportent aux Etats", " Les footballeurs professionnels sont-ils trop payés ?", -1.0
+"Ecarts de salaire entre joueurs démesurés", " Les footballeurs professionnels sont-ils trop payés ?", 1.0
+" Certains footballeurs professionnels reversent une partie de leur salaire à des associations caritatives", " Les footballeurs professionnels sont-ils trop payés ?", -1.0
+" Les salaires des footballeurs professionnels sont justifiés par la valeur créée", " Les footballeurs professionnels sont-ils trop payés ?", -1.0
+" Les salaires des footballeurs professionnels n'ont pas besoin d'être aussi élevés", " Les footballeurs professionnels sont-ils trop payés ?", 1.0
+" Les salaires des footballeurs professionnels les plus élevés illusionnent sur le salaire de la majorité des joueurs", " Les footballeurs professionnels sont-ils trop payés ?", 1.0
+" Les salaires des footballeurs professionnels sont justifiés par les inconvénients du métier", " Les footballeurs professionnels sont-ils trop payés ?", -1.0
+"Les joueurs bénéficient aussi de primes et de rentes", " Les footballeurs professionnels sont-ils trop payés ?", 1.0
+"Les salaires ne font qu'obéir à la loi de l'offre et de la demande", " Les footballeurs professionnels sont-ils trop payés ?", -1.0
+" L'argent des salaires des footballeurs professionnels pourrait être investi dans des choses plus importantes", " Les footballeurs professionnels sont-ils trop payés ?", 1.0
+" Les salaires des footballeurs professionnels sont justifiés par l'utilité sociale du football", " Les footballeurs professionnels sont-ils trop payés ?", -1.0
+" Les salaires des footballeurs professionnels sont démesurés", " Les footballeurs professionnels sont-ils trop payés ?", 1.0
+"Ne pas confondre salaires et revenus du sponsoring et des transferts", " Les footballeurs professionnels sont-ils trop payés ?", -1.0

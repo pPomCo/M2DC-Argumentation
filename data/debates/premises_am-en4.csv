@@ -1,0 +1,7 @@
+premise, conclusion, weight
+"Allowing admission to students based on the premise of race violates The Equal Protection Clause of the 14th Amendment.", "By pursuing diversity are you denying the admission of other students, even if they meet university admission requirements/standards?", 1.0
+"The Equal Protection Clause states it is unconstitutional to discriminate on the premise of race. This includes the admission to a public university. (Fisher v. University of Texas)", "Are universities blind to the history of discrimination by not including race as a factor of admission? Is it preferable to include it as a factor?", -1.0
+"By pursuing diversity are you denying the admission of other students, even if they meet university admission requirements/standards?", "The University of Texas added race as a factor in order to increase the University's diversity.", -0.5
+"Are universities blind to the history of discrimination by not including race as a factor of admission? Is it preferable to include it as a factor?", "The Equal Protection Clause of the 14th Amendment forbids any and all discrimination of a person based on their race.", -0.5
+"The University of Texas added race as a factor in order to increase the University's diversity.", " Consideration of race violated the Equal Protection Clause of the 14th Amendment. ", -1.0
+"The Equal Protection Clause of the 14th Amendment forbids any and all discrimination of a person based on their race.", " Consideration of race violated the Equal Protection Clause of the 14th Amendment. ", 1.0

@@ -1,0 +1,10 @@
+premise, conclusion, weight
+"they are individuals", "We must honor our soldiers and their families", 1.0
+"Americans are caring people, and our values carry from soldiers to all people", "We must honor our soldiers and their families", 1.0
+"Soldiers in Desert Storm taught us about our own values and power", "If we confront domestic issues with the same vigor as the war, Congress can knock out legislation in a short time.", 1.0
+"they fought for us", "We must honor our soldiers and their families", 1.0
+"America in Iraq showed the talent and power we have", "We hear about the turmoil of our young people, how the schools and system failed them", -1.0
+"If we confront domestic issues with the same vigor as the war, Congress can knock out legislation in a short time.", " The War in Iraq can become a Catalyst for Progress in America", 1.0
+"We hear about the turmoil of our young people, how the schools and system failed them", " The War in Iraq can become a Catalyst for Progress in America", 1.0
+"We need to work hard because the soldiers worked hard", " The War in Iraq can become a Catalyst for Progress in America", 1.0
+"We must honor our soldiers and their families", " The War in Iraq can become a Catalyst for Progress in America", 1.0

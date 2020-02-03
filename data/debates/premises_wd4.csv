@@ -1,0 +1,81 @@
+premise, conclusion, weight
+"Le système de l'élevage industriel ne serait plus rentable", " Les impacts de l'élevage intensif de porcs pourraient être externalisés", -1.0
+" Certaines espèces animales sont invasives", " Manger des animaux conduit au bouleversement des écosystèmes", -1.0
+"L'élevage intensif a diminuer considérablement notre empathie pour le vivant.", " L'élevage intensif a changé notre rapport au bien-être des animaux", -1.0
+"L'utilisation de médicaments et d'hormones sur les animaux n'est pas systématique", " L'utilisation de médicaments et d'hormones sur les animaux est toxique pour l'homme", -1.0
+"Nos animaux de compagnies nous en apprennes davantage sur le bien-être.", " L'élevage intensif a changé notre rapport au bien-être des animaux", -1.0
+" De nouvelles technologies peuvent éviter le marquage des animaux au fer rouge", " Manger des animaux conduit à infliger aux animaux d'élevage une violence source de nombreuses souffrances sur le bétail", -1.0
+" Le régime végétarien et végétalien nuit à la bonne santé du cerveau", " Le végétarianisme et le végétalisme sont meilleurs pour la santé", -1.0
+"Il n'est pas préférable pour un individu d'être privé de sa liberté", " L'élevage implique moins de cruauté pour les animaux que l'état sauvage", -1.0
+"Pas de traitement préventif, administration d'antibiotiques au cas par cas", " L'utilisation de médicaments et d'hormones sur les animaux favorise la transmission de maladies et de virus à l'homme", -1.0
+" La douleur chez les animaux ne peut pas être déterminée directement mais peut être déduite par des réactions physiologiques et comportementales analogues", " On ne peut pas caractériser la souffrance animale", -1.0
+" Les impacts de l'élevage intensif de porcs pourraient être externalisés", " L'élevage intensif de porcs entraîne une dégradation de la valeur des biens immobiliers et du foncier", -1.0
+"On pourrait imposer certaines réglementations sur le traitement des défections des élevages", " L'élevage intensif de porcs est nocif pour l'homme", -1.0
+" Ce qui est naturel n'est pas ce qui est bien", " Décider de la vie d'êtres qui n'ont rien demandé à personne fait partie de la nature", -1.0
+"Mais supprimer la viande de son alimentation n'est pas pour autant bon pour la santé", " Réduire sa consommation de viande est meilleur pour la santé", -1.0
+"Cela favorise les traitements sadiques faits sur les animaux", " Manger des animaux repose actuellement sur un travail dont les conditions sont inhumaines", 1.0
+"Cela n'est pas forcément lié", " Manger des animaux habitue à la cruauté", -1.0
+" Manger des animaux contribue fortement au réchauffement climatique", " Manger des animaux conduit à un élevage intensif source de nombreux problèmes sur l'environnement", 1.0
+" Ce n'est pas parce que manger des animaux est la norme dans la nature que cela est bon", " Manger des animaux est la norme dans la nature", -1.0
+" Manger des animaux n'est pas la norme dans la nature", " Manger des animaux est la norme dans la nature", -1.0
+" Des personnes végétariennes et végans sont capables d’atrocité", " Manger des animaux habitue à la cruauté", -1.0
+" Manger des animaux conduit à infliger aux animaux d'élevage une violence source de nombreuses souffrances quels que soient les animaux", " Manger des animaux conduit à infliger aux animaux d'élevage une violence source de nombreuses souffrances", 1.0
+" Les mauvaises récoltes sont de plus en plus rares", " Manger des animaux est utile en cas de mauvaises récoltes", -1.0
+" Manger des animaux n'est pas la seule façon pour reconnaitre son animalité", " Manger des animaux est la seule façon de reconnaître son animalité", -1.0
+" Manger des animaux conduit au gaspillage de ressources énergétiques", " Manger des animaux conduit à un élevage intensif source de nombreux problèmes sur l'environnement", 1.0
+" Manger des animaux est l'une des principales causes de déforestation", " Manger des animaux conduit à un élevage intensif source de nombreux problèmes sur l'environnement", 1.0
+" L'élevage intensif de porcs entraîne une dégradation de la valeur des biens immobiliers et du foncier", " Manger des animaux est mauvais pour l'homme", 1.0
+" Ce n'est pas parce que le végétarisme est une préoccupation de bobos qu'il faut l'écarter", " Le végétarisme est une préoccupation de bobos", -1.0
+" On ne peut pas caractériser la souffrance animale", " Manger des animaux conduit à infliger aux animaux d'élevage une violence source de nombreuses souffrances", -1.0
+" Manger des animaux conduit à infliger aux animaux d'élevage une violence source de nombreuses souffrances sur les cochons", " Manger des animaux conduit à infliger aux animaux d'élevage une violence source de nombreuses souffrances", 1.0
+" Manger des animaux conduit au bouleversement des écosystèmes", " Manger des animaux conduit à un élevage intensif source de nombreux problèmes sur l'environnement", 1.0
+" Manger des animaux implique de décider de la vie d'êtres qui n'ont rien demandé à personne", " Faut-il arrêter de manger des animaux ?", 1.0
+" Manger des animaux conduit à un élevage intensif source de nombreux problèmes sur l'environnement", " Supprimer les élevages de ruminants risque de bouleverser de nombreux écosystèmes", -1.0
+" Manger des animaux conduit à un élevage intensif source de nombreux problèmes sur l'environnement", " Faut-il arrêter de manger des animaux ?", 1.0
+" Manger des animaux habitue à la cruauté", " Faut-il arrêter de manger des animaux ?", 1.0
+" Manger des animaux est utile en cas de mauvaises récoltes", " Faut-il arrêter de manger des animaux ?", -1.0
+" Manger des animaux est un plaisir gustatif", " Faut-il arrêter de manger des animaux ?", -1.0
+" Manger des animaux repose actuellement sur un travail dont les conditions sont inhumaines", " Faut-il arrêter de manger des animaux ?", 1.0
+" Le végétarisme est une préoccupation de bobos", " Faut-il arrêter de manger des animaux ?", -1.0
+" Supprimer les élevages de ruminants risque de bouleverser de nombreux écosystèmes", " Faut-il arrêter de manger des animaux ?", -1.0
+" Manger des animaux est la norme dans la nature", " Faut-il arrêter de manger des animaux ?", -1.0
+" Il ne faut pas manger les animaux considérés sacrés", " Faut-il arrêter de manger des animaux ?", 1.0
+" Manger des animaux conduit à infliger aux animaux d'élevage une violence source de nombreuses souffrances", " Faut-il arrêter de manger des animaux ?", 1.0
+" Manger des animaux est la seule façon de reconnaître son animalité", " Faut-il arrêter de manger des animaux ?", -1.0
+" Arrêter l'élevage de certains animaux les ferait disparaitre", " Faut-il arrêter de manger des animaux ?", -1.0
+" Manger des animaux est bon pour la santé", " Faut-il arrêter de manger des animaux ?", -1.0
+" Arrêter de manger des animaux détruirait une partie des activités paysannes", " Faut-il arrêter de manger des animaux ?", -1.0
+" Les substituts végans sont souvent allergènes", " Faut-il arrêter de manger des animaux ?", -1.0
+" La consommation d'espèces animales invasives peut être bénéfique", " Faut-il arrêter de manger des animaux ?", -1.0
+" Manger des animaux est une pratique ancestrale", " Faut-il arrêter de manger des animaux ?", -1.0
+" Tout le monde peut adopter une alimentation végétale", " Faut-il arrêter de manger des animaux ?", 1.0
+" Manger des animaux est mauvais pour l'homme", " Faut-il arrêter de manger des animaux ?", 1.0
+" Décider de la vie d'êtres qui n'ont rien demandé à personne fait partie de la nature", " Manger des animaux implique de décider de la vie d'êtres qui n'ont rien demandé à personne", -1.0
+" L'élevage intensif a changé notre rapport au bien-être des animaux", " Manger des animaux conduit à infliger aux animaux d'élevage une violence source de nombreuses souffrances", -1.0
+" L'élevage implique moins de cruauté pour les animaux que l'état sauvage", " Manger des animaux conduit à infliger aux animaux d'élevage une violence source de nombreuses souffrances", -1.0
+" Manger des animaux est un plaisir égoïste", " Manger des animaux est un plaisir gustatif", -1.0
+" Les substituts végans ne sont pas nécessaires", " Les substituts végans sont souvent allergènes", -1.0
+" Les produits allergènes ne sont spécifiques à l'alimentation sans viande", " Les substituts végans sont souvent allergènes", -1.0
+" Manger des animaux conduit à infliger aux animaux d'élevage une violence source de nombreuses souffrances sur les saumons", " Manger des animaux conduit à infliger aux animaux d'élevage une violence source de nombreuses souffrances", 1.0
+" Des formes d'élevage respectueux des animaux sont possibles", " Supprimer les élevages de ruminants risque de bouleverser de nombreux écosystèmes", -1.0
+" L'utilisation de médicaments et d'hormones sur les animaux favorise la transmission de maladies et de virus à l'homme", " Manger des animaux est mauvais pour l'homme", 1.0
+" L'élevage intensif de porcs est nocif pour l'homme", " Manger des animaux est mauvais pour l'homme", 1.0
+"Un élevage respectueux de l'environnement est possible", " Manger des animaux conduit à un élevage intensif source de nombreux problèmes sur l'environnement", -1.0
+" Le sacré dépend des religions et des croyances", " Il ne faut pas manger les animaux considérés sacrés", -1.0
+" Manger des animaux conduit à une pollution des sols à cause des nitrates", " Manger des animaux conduit à un élevage intensif source de nombreux problèmes sur l'environnement", 1.0
+" Garder une espèce en vie simplement pour qu'elle soit tuée n'est en rien positif pour l'espèce", " Arrêter l'élevage de certains animaux les ferait disparaitre", -1.0
+" Manger des animaux conduit à infliger aux animaux d'élevage une violence source de nombreuses souffrances sur le bétail", " Manger des animaux conduit à infliger aux animaux d'élevage une violence source de nombreuses souffrances", 1.0
+" Réduire sa consommation de viande est meilleur pour la santé", " Manger des animaux est bon pour la santé", -1.0
+" Les activités paysannes menacées pourraient être reconverties", " Arrêter de manger des animaux détruirait une partie des activités paysannes", -1.0
+" Les herbivores n'ont pas moins d'animalité", " Manger des animaux est la seule façon de reconnaître son animalité", -1.0
+"Comme pour bien d'autres travaux", " Manger des animaux repose actuellement sur un travail dont les conditions sont inhumaines", -1.0
+"Manger des animaux permet d'assurer un apport protéique nécessaire à la bonne santé de l'homme", " Manger des animaux est mauvais pour l'homme", -1.0
+" L'utilisation de médicaments et d'hormones sur les animaux est toxique pour l'homme", " Manger des animaux est mauvais pour l'homme", 1.0
+" Les pratiques ancestrales ne sont pas forcément bonnes", " Manger des animaux est une pratique ancestrale", -1.0
+"Le fait de manger des animaux existe depuis bien longtemps", " Tout le monde peut adopter une alimentation végétale", -1.0
+" Il faut revoir la définition de l'animalité", " Manger des animaux est la seule façon de reconnaître son animalité", -1.0
+" Tous les animaux ne sont pas sacrés", " Il ne faut pas manger les animaux considérés sacrés", -1.0
+"Ces conditions de travail peuvent être améliorées", " Manger des animaux repose actuellement sur un travail dont les conditions sont inhumaines", -1.0
+" Manger des animaux conduit à infliger aux animaux d'élevage une violence source de nombreuses souffrances sur les poulets", " Manger des animaux conduit à infliger aux animaux d'élevage une violence source de nombreuses souffrances", 1.0
+" Le végétarianisme et le végétalisme sont meilleurs pour la santé", " Manger des animaux est bon pour la santé", -1.0
+" On peut continuer à manger des animaux quand il n'y a pas de mauvaises récoltes", " Manger des animaux est utile en cas de mauvaises récoltes", -1.0

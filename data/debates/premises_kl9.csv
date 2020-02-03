@@ -1,0 +1,105 @@
+premise, conclusion, weight
+" Wonder Women is a goddess. She can fly and she has super strength.", " Wonder Woman relies on her lasso and wrist shields, but wields no inherent powers herself.", -1.0
+" DC has copied heavily from Marvel, in comics and in movies, DC arguably wouldnt have continued to exist if not for Marvels success in the 1960s revamping the superhero genre.", " The Marvel Universe was modeled and copied from the DC universe. Marvel wouldn’t exist without DC.", -1.0
+" Batman, for example, has no superpowers.", " In the Justice League, compared to Superman, every other hero is powerless.", 1.0
+" Marvel stories are not believable as well.", " DC stories are not as interesting or believable", -1.0
+" What is interesting or believable is subjective.", " DC stories are not as interesting or believable", -1.0
+" Wonder Woman is one of the most important superhero ever, and more importantly one of the few female superhero.", " DC has produced the first major female superhero movie and has had more major roles for female characters in its cinematic universe.", 1.0
+" The Flash TV show has featured both Flashpoint and Crisis on Earth-X.", " The CW Arrowverse has had several huge comic book events represented in the show.", 1.0
+" Aquaman has the ability to communicate and control sea life.", " In the Justice League, compared to Superman, every other hero is powerless.", -1.0
+" The Arrowverse crossover events have represented major comic book events like Crisis on Earth-X and Elseworlds.", " The CW Arrowverse has had several huge comic book events represented in the show.", 1.0
+" Both Marvel and DC stories are about fictional superheroes and characters achieving unrealistic feats. Theyre not created to be believable, but entertaining.", " DC stories are not as interesting or believable", -1.0
+" Wonder Woman relies on her lasso and wrist shields, but wields no inherent powers herself.", " In the Justice League, compared to Superman, every other hero is powerless.", 1.0
+" DC characters are able to overcome a lot without powers, making them more impressive in this area.", " In the Justice League, compared to Superman, every other hero is powerless.", -1.0
+" Marvels Northstar is one of the first openly gay superheroes in comics.", " Marvel has created a vast quantity of characters which a various range of people can relate to. It even has become difficult to find a minority not depicted by a Marvel hero (or villains)", 1.0
+" Captain America Civil War, revealed the killing of Tony Starks (Iron Man) parents, were at the hands of the Winter Soldier.", " Thor, The Avengers, Captain America, Iron Man, Dr. Strange and Black Panther have storylines that all intersect.", 1.0
+" Being most famous does not translate into being better.", " Even if this claim is true, ubiquity does not mean quality.", 1.0
+" DC characters follow a less interconnected storyline, making each of their paths unique.", " DC stories do not naturally overlap.", 1.0
+" Green Goblin/Norman Osborn combines the most interesting aspects of Joker and Lex Luthor into a unified character.", " DC has much better villains.", -1.0
+" Black Panther was the first black superhero in comic books.", " Marvel has created a vast quantity of characters which a various range of people can relate to. It even has become difficult to find a minority not depicted by a Marvel hero (or villains)", 1.0
+" Marvel has a heavy reliance on varied fantastical lands like Atlantis, Asgard, Attilan, Knowwhere, Latveria, Wakanda, the Savage Land, and Weirdworld", " The Marvel Universe is built on fictional events and places.", 1.0
+" Magneto is one of the most sympathetic and enduring villains of all time.", " DC has much better villains.", -1.0
+" The Marvel Cinematic Universe is likely the most mass appealing superhero related thing in the genres history.", " DC is simply interested in churning entertainment to the masses.", -1.0
+" Many of Marvels characters are shown dealing with normal human challenges, like social awkwardness and break-ups.", " Marvel characters contain more human flaws.", 1.0
+" Lex Luthor is a human without extraordinary powers who manages to provide a challenge for not just Superman, but for the entire Justice League at times.", " DC has much better villains.", 1.0
+" Deathstroke, whose mask and weapon style is iconic, is the 7th most popular comic book villain of all time according to ranker.", " DC has much better villains.", 1.0
+" DC has produced the first major female superhero movie and has had more major roles for female characters in its cinematic universe.", " DC Comics have an inclusion commitment to the diversity of its characters.", 1.0
+" DC stories are not as interesting or believable", " Marvel stories contain more exciting events.", 1.0
+" The CW Arrowverse has had several huge comic book events represented in the show.", " DC TV shows and movies are better at representing the comic books and pandering to its comic book readers.", 1.0
+" Villains like Loki, Killmonger, and Thanos have defined the modern movie villain", " DC has much better villains.", -1.0
+" Kamala Khan is the first Muslim-American superhero.", " Marvel has created a vast quantity of characters which a various range of people can relate to. It even has become difficult to find a minority not depicted by a Marvel hero (or villains)", 1.0
+" Dr Doom is one of the most iconic comic style villains of all time.", " DC has much better villains.", -1.0
+" The Marvel Universe was modeled and copied from the DC universe. Marvel wouldn’t exist without DC.", " Diversity doesnt necessarily make something better. Shakespeare for example has some of the most renowned works in English. But theyre not very diverse.", -1.0
+" Diversity adds variety which prevents things from getting dull over time.", " Diversity doesnt necessarily make something better. Shakespeare for example has some of the most renowned works in English. But theyre not very diverse.", -1.0
+" Reverse Flash is one of the most iconic and unique supervillains of all time.", " DC has much better villains.", 1.0
+" DC may have the top-two most-used movie characters, but their movies lineup has been overly top-heavy and inconsistent.", " Batman and Superman are the two most popular superheroes.", -1.0
+" DC has started to add more human flaws in their film adaptations, for example with Batman or Wonder Woman.", " Marvel characters contain more human flaws.", -1.0
+" Falcon was the first African American superhero.", " Marvel has created a vast quantity of characters which a various range of people can relate to. It even has become difficult to find a minority not depicted by a Marvel hero (or villains)", 1.0
+" A character may simply be well liked.", " The fact that a character has been around longer does not prove that they are of a higher quality.", 1.0
+" The Joker is possibly the most iconic comic book villain of all time.", " DC has much better villains.", 1.0
+" Luke Cage was the first black superhero title character with his own series", " Marvel has created a vast quantity of characters which a various range of people can relate to. It even has become difficult to find a minority not depicted by a Marvel hero (or villains)", 1.0
+" In the Justice League, compared to Superman, every other hero is powerless.", " DC characters are either too powerful or too weak to relate to.", 1.0
+" The personality and experiences the characters overcome makes them relatable.", " DC characters are either too powerful or too weak to relate to.", -1.0
+" The personality and experiences the characters overcome makes them relatable.", " Marvel characters contain more human flaws.", 1.0
+" Marvel pits characters against something that shows how to solve real life problems (like superhero vs systemic issues or superhero vs philosophical idea), while DC focuses almost solely on character battles (like superhero vs superhero, or superhero vs villain), which is less helpful to the viewer in applying solutions to their everyday life.", " They capture the audiences attention by relating it to their life and then giving them a way to protect themselves from threats they face, which is gold.", 1.0
+" These archetypes are based upon fundamental human ideals.", " A modern approach is not needed for quality story telling about superheroes because they are fictional archetypes.", 1.0
+" Women related to the power and strength of Wonder Woman.", " DC characters are either too powerful or too weak to relate to.", -1.0
+" The excitement of an event is subjective, as one person may consider DC more exciting.", " Marvel stories contain more exciting events.", -1.0
+" The real events that Marvel has are relatable because people hear about those issues on the news rather than experiencing it themselves.", " Marvel built much of their universe based on real places and events which makes it easier to relate to.", -1.0
+" All of the characters take care of one city. Like how many characters do you need to protect ONE city", " Marvel built much of their universe based on real places and events which makes it easier to relate to.", -1.0
+" They capture the audiences attention by relating it to their life and then giving them a way to protect themselves from threats they face, which is gold.", " Marvel built much of their universe based on real places and events which makes it easier to relate to.", 1.0
+" Marvel successfully incorporates various genres in its interconnected comic and movie universes.", " Marvel stories intertwine better between different movies.", 1.0
+" Sexual assault is not uncommon in the DC universe.", " DC isnt afraid to show the darker side of humanity.", 1.0
+" DC has multiple imprints like Vertigo, Young Animal, DC ink, and the Black Label. dccomics.comdccomics.comdccomics.comdccomics.comdccomics.com", " DC has diversified its fan base with imprints.", 1.0
+" The Marvel Universe is built on fictional events and places.", " Marvel built much of their universe based on real places and events which makes it easier to relate to.", -1.0
+" Marvel characters are more relatable to the average person.", " Marvel stories contain better characters.", 1.0
+" Marvel movies are better due to better production and have me at the end of my seat, DC movies don’t do that for me", " Marvel Universe is Better than DC Universe.", 1.0
+" All art is subjective;therefore, to say Marvel is better than DC doesnt mean anything since different people react differently to art, music, writing, etc., based on individual tastes and opinions.", " Marvel Universe is Better than DC Universe.", -1.0
+" Marvel characters are original to Marvel. Many DC characters are not.", " Marvel Universe is Better than DC Universe.", -1.0
+" Marvel stories intertwine better between different movies.", " Marvel Universe is Better than DC Universe.", 1.0
+" DC has more diversity among its characters.", " Marvel Universe is Better than DC Universe.", -1.0
+" Most Marvel characters are imitations of DC characters.", " Marvel Universe is Better than DC Universe.", -1.0
+" DC isnt afraid to show the darker side of humanity.", " Marvel Universe is Better than DC Universe.", -1.0
+" DC has more legacy characters.", " Marvel Universe is Better than DC Universe.", -1.0
+" Marvel built much of their universe based on real places and events which makes it easier to relate to.", " Marvel Universe is Better than DC Universe.", 1.0
+" DC has diversified its fan base with imprints.", " Marvel Universe is Better than DC Universe.", -1.0
+" Marvel stories contain better characters.", " Marvel Universe is Better than DC Universe.", 1.0
+" Marvels focus on new franchises provide more variety.", " Marvel Universe is Better than DC Universe.", 1.0
+" Marvel has more continuity with characters throughout shows and films meaning characters grow more.", " Marvel Universe is Better than DC Universe.", 1.0
+" Stan Lees Marvel vision contains more clarity and purpose than DC.", " Marvel Universe is Better than DC Universe.", 1.0
+" Marvel Universe has a variety of characters and also focuses on their background and how they got to be the superhero they are today. The movies are better-developed and have a more thoughtful approach than the DC movies. Also, the marvel characters all connect with each other, making the movies more enjoyable. The characters are more relatable and causes one to be attached to a character. Overall, the marvel universe is much better than DC.", " Marvel Universe is Better than DC Universe.", 1.0
+" Marvel has a more modern approach to superhero story telling.", " Marvel Universe is Better than DC Universe.", 1.0
+" DC superheroes are more well-known.", " Marvel Universe is Better than DC Universe.", -1.0
+" The modern Marvel Cinematic Universe is a much higher quality compared to DCs.", " Marvel Universe is Better than DC Universe.", 1.0
+" When the darker side of humanity is relegated to being dark for the sake of being dark then it loses its impact and becomes meaningless. Marvel shows the worst of people while having them remain human in nature.", " DC isnt afraid to show the darker side of humanity.", -1.0
+" Wonder Woman is the number one ranked best female superhero", " DC superheroes are more well-known.", 1.0
+" Marvel has created a vast quantity of characters which a various range of people can relate to. It even has become difficult to find a minority not depicted by a Marvel hero (or villains)", " DC has more diversity among its characters.", -1.0
+" This argument is only relevant for cinematic universes. Regarding shows and comics, Marvel isnt afraid exploring or depicting the darkests traits of human being (Killjoy in Jessica Jones, Vilains in Luke Cage, Villains in Iron fist). Not to mention Logan movie, or the latests arcs...", " DC isnt afraid to show the darker side of humanity.", -1.0
+" Marvel stories contain more exciting events.", " Marvel has a more modern approach to superhero story telling.", 1.0
+" In Iron Man 2, Tony Stark sits atop Randys Donuts, a popular attraction in Inglewood, California.", " Marvel built much of their universe based on real places and events which makes it easier to relate to.", 1.0
+" Marvel characters are more connected, and we see the learning curve of each individual character throughout the movies. It makes the marvel characters more relatable.", " Marvel stories intertwine better between different movies.", 1.0
+" Black Panther was based on a combination of real African nations, such as Nigeria, the Congo, and Kenya.", " Marvel built much of their universe based on real places and events which makes it easier to relate to.", 1.0
+" Superman has been a well-known character since 1938, standing the test of time.", " DC has more legacy characters.", 1.0
+" DC Comics have an inclusion commitment to the diversity of its characters.", " DC has more diversity among its characters.", 1.0
+" DC has taken a cue from this and started to make more realistic movies - like Batman vs Superman and the Joker. Its Marvel thats moved away from reality into fantasy (like Thor Ragnarok from Iron Man) if anyone has.", " Marvel built much of their universe based on real places and events which makes it easier to relate to.", -1.0
+" The fact that a character has been around longer does not prove that they are of a higher quality.", " DC has more legacy characters.", -1.0
+" With the advent of the Marvel film franchises Marvels characters are arguably more well known.", " DC superheroes are more well-known.", -1.0
+" Thor, The Avengers, Captain America, Iron Man, Dr. Strange and Black Panther have storylines that all intersect.", " Marvel stories intertwine better between different movies.", 1.0
+" Batman and Superman are the two most popular superheroes.", " DC superheroes are more well-known.", 1.0
+" Batman and Superman are the two most popular superheroes.", " DC has more legacy characters.", 1.0
+" Everyone has their own personal preferences and morals and will only embrace the characters that align with their personal morals.", " All art is subjective;therefore, to say Marvel is better than DC doesnt mean anything since different people react differently to art, music, writing, etc., based on individual tastes and opinions.", 1.0
+" Only compared to the recent Zach Snyder live action movies. DC continues to develop fantastic animated movies.", " The modern Marvel Cinematic Universe is a much higher quality compared to DCs.", -1.0
+" Gotham City is based on Chicago.", " Marvel built much of their universe based on real places and events which makes it easier to relate to.", -1.0
+" Marvel has spent the time and energy to write a relatively consistent cinematic universe with no compromises on character development.  DC has done the opposite and has impatiently rushed to create a cinematic universe to catch up with Marvels, but failed to meet them on any metric.", " The modern Marvel Cinematic Universe is a much higher quality compared to DCs.", 1.0
+" Even if this claim is true, ubiquity does not mean quality.", " DC superheroes are more well-known.", -1.0
+" Diversity doesnt necessarily make something better. Shakespeare for example has some of the most renowned works in English. But theyre not very diverse.", " DC has more diversity among its characters.", -1.0
+" DC characters are either too powerful or too weak to relate to.", " Marvel stories contain better characters.", 1.0
+" DC has much better villains.", " Marvel stories contain better characters.", -1.0
+" Marvel has 8 characters in the top 10 of most popular superheroes.", " DC superheroes are more well-known.", -1.0
+" A modern approach is not needed for quality story telling about superheroes because they are fictional archetypes.", " Marvel has a more modern approach to superhero story telling.", -1.0
+" DC TV shows and movies are better at representing the comic books and pandering to its comic book readers.", " Marvel stories intertwine better between different movies.", -1.0
+" DC characters are more unique. Marvel just copies from DC.", " DC has more diversity among its characters.", 1.0
+" Marvel’s characters are mostly from one city, New York City, while DCs characters are more spread out.", " DC has more diversity among its characters.", 1.0
+" Marvel characters contain more human flaws.", " Marvel stories contain better characters.", 1.0
+" DC stories do not naturally overlap.", " Marvel stories intertwine better between different movies.", -1.0
+" DC is simply interested in churning entertainment to the masses.", " Stan Lees Marvel vision contains more clarity and purpose than DC.", 1.0

@@ -1,0 +1,5 @@
+premise, conclusion, weight
+"Depende de si hablamos de nuestra vida o de la de los demás (¿los gusanos que te comen cuando mueres?)", "Sigues siendo parte de la vida de otros organismos.", -0.5
+"Es algo complejo de acatar, los procesos mentales dejan de existir al momento de la muerte, y esto es un argumento en contra de la premisa. Por otra parte no existe evidencia que avale o desacredite la existencia de un espiritu etereo, y como no existe forma de demostrarla, es absurdo investigar", "Sigues siendo parte de la vida de otros organismos.", -1.0
+"Sigues siendo parte de la vida de otros organismos.", " Hay vida después de la muerte", 1.0
+"No hay pruebas que la vida después de la vida se existe. Por lo tanto no hay razón para creerla.", " Hay vida después de la muerte", -1.0

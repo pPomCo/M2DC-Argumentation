@@ -1,0 +1,9 @@
+premise, conclusion, weight
+" Des mesures peuvent être prises pour s'assurer que les tâches essentielles soient effectuées dans une société avec un salaire à vie", " Le salaire à vie n'incite pas à être productif", -1.0
+"Une stimulation de l'activité", " Le salaire à vie n'incite pas à être productif", -1.0
+" Le salaire à vie n'incite pas à être productif", " Faut-il instaurer un salaire à vie ?", -1.0
+" Le salaire à vie permet d'en finir avec la misère et la pauvreté", " Faut-il instaurer un salaire à vie ?", 1.0
+" La hiérarchie des salaires à vie est source de grands conflits", " Faut-il instaurer un salaire à vie ?", -1.0
+" Le salaire à vie permet d'en finir avec la propriété lucrative", " Faut-il instaurer un salaire à vie ?", 1.0
+" Le salaire à vie permet d'en finir avec le problème du chômage", " Faut-il instaurer un salaire à vie ?", 1.0
+" Le salaire à vie permet d'instaurer une démocratie économique", " Faut-il instaurer un salaire à vie ?", 1.0

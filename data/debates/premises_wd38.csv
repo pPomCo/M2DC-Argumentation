@@ -1,0 +1,72 @@
+premise, conclusion, weight
+" L'argument de la conscience illusoire ignore les voix discordantes", " Les divergences religieuses viennent de la conscience illusoire", -1.0
+" Jésus n'a jamais prétendu être le Fils de Dieu", " Les religions s'opposent sur la personne du Christ", -1.0
+" Admettre qu'il existe une vérité, ce n'est pas devenir intolérant", " Prétendre qu'il y a une seule religion vraie est faire preuve d'intolérance", -1.0
+" Toutes les religions enseignent de façon voilée ou explicite la réincarnation", " Les religions s'opposent sur la réincarnation", -1.0
+" Le judaïsme condamne le culte rendu à d'autres dieux que Yahvé", " Le judaïsme parle d'une hiérarchisation des dieux des nations", -1.0
+" Le soufisme a été parfois combattu par d'autres courants de l'islam", " Le soufisme croit en l'unité des religions", -1.0
+" C'est une déformation chrétienne de ramener les autres voies à l'amour", " Les religions prônent l'amour", -1.0
+" Il est possible de dégager des critères pour hiérarchiser les expériences mystiques", " On peut hiérarchiser de façon opposée les expériences spirituelles", -1.0
+" Il n'existe qu'un sommet de la vie mystique", " On peut hiérarchiser de façon opposée les expériences spirituelles", -1.0
+" Les différentes religions divergent de plus en plus", " Les religions sont des révélations progressives de l'unique Vérité", -1.0
+" La plupart des grandes religions affirment qu'elles possèdent la vérité et que les autres se trompent", " Prétendre qu'il y a une seule religion vraie est faire preuve d'intolérance", -1.0
+"Ce verset peut être interprété d'autres façons", " Le christianisme affirme qu'il y a unité dans la diversité religieuse", -1.0
+" La justice divine est impénétrable pour la plupart des hommes", " Dieu délivre la vérité à tous les peuples", -1.0
+" L'Ultime est conçu de façon différente selon les religions", " Les religions cherchent à atteindre l'Ultime", -1.0
+" Dieu peut très bien élire un peuple selon Sa volonté", " Dieu délivre la vérité à tous les peuples", -1.0
+" Les différents sages n'affirment pas l'unité des religions", " Les divergences religieuses viennent de la conscience illusoire", -1.0
+" On peut hiérarchiser de façon opposée les expériences spirituelles", " Les expériences spirituelles divergent", 1.0
+" Les religions théistes et non dualistes préconisent des attitudes différentes", " Les religions sont des chemins différents", 1.0
+" Il y a une diversité irréductible de l'Ultime", " Les religions se rejoignent-elles ?", -1.0
+" Les religions sont en conflit historique", " Les religions se rejoignent-elles ?", -1.0
+" Les religions s'opposent sur des questions essentielles", " Les religions se rejoignent-elles ?", -1.0
+" Toutes les religions affirment la même vérité", " Les religions se rejoignent-elles ?", 1.0
+" Les grandes traditions disent que les religions sont une", " Les religions se rejoignent-elles ?", 1.0
+" Les religions reflètent la même tradition primordiale", " Les religions se rejoignent-elles ?", 1.0
+" Les religions véhiculent un message identique", " Les religions se rejoignent-elles ?", 1.0
+" Les religions sont des chemins différents", " Les religions se rejoignent-elles ?", -1.0
+" Les religions sont fondées sur la même expérience fondamentale", " Les religions se rejoignent-elles ?", 1.0
+" Les expériences spirituelles divergent", " Les religions se rejoignent-elles ?", -1.0
+" Les religions poursuivent la même finalité", " Les religions se rejoignent-elles ?", 1.0
+" Chaque religion affirme être l'unique Vérité", " Les religions se rejoignent-elles ?", -1.0
+" Les religions ont pour origine le sentiment océanique", " Les religions sont fondées sur la même expérience fondamentale", 1.0
+" La révélation divine des religions monothéistes n'a pas grand-chose à voir avec les expériences mystiques des religions non-dualistes", " Les expériences spirituelles divergent", 1.0
+" L'expérience mystique inclut une dimension cognitive et morale", " Les religions sont fondées sur la même expérience fondamentale", 1.0
+" Il y a une même doctrine ésotérique derrière les religions", " Les religions véhiculent un message identique", 1.0
+" Chaque religion reflète un rapport spécifique à l'Absolu", " Les expériences spirituelles divergent", 1.0
+" Les religions poursuivent des finalités différentes", " Les religions sont des chemins différents", 1.0
+" Les divergences religieuses viennent de la conscience illusoire", " Toutes les religions affirment la même vérité", 1.0
+" Il y a des signes et des confirmations pour des religions différentes", " Il y a une diversité irréductible de l'Ultime", 1.0
+" Les religions préconisent des voies différentes", " Les religions sont des chemins différents", 1.0
+" Les religions sont en guerre depuis toujours", " Les religions sont en conflit historique", 1.0
+" Les religions visent à se libérer du moi", " Les religions poursuivent des finalités différentes", -1.0
+" Les religions visent à se libérer du moi", " Les religions poursuivent la même finalité", 1.0
+" L'hindouisme considère toutes les religions comme une manifestation divine", " Les grandes traditions disent que les religions sont une", 1.0
+" Les devoirs moraux des religions sont semblables", " Les religions véhiculent un message identique", 1.0
+" Les religions cherchent à atteindre l'Ultime", " Les religions poursuivent des finalités différentes", -1.0
+" Les religions cherchent à atteindre l'Ultime", " Les religions poursuivent la même finalité", 1.0
+" Les divergences religieuses viennent de déformations dues à l'éloignement de l'expérience mystique", " Les religions sont fondées sur la même expérience fondamentale", 1.0
+" Des saints ont prêché la Croisade", " Les religions sont en conflit historique", 1.0
+" Le christianisme affirme qu'il y a unité dans la diversité religieuse", " Les grandes traditions disent que les religions sont une", 1.0
+" Prétendre qu'il y a une seule religion vraie est faire preuve d'intolérance", " Toutes les religions affirment la même vérité", 1.0
+" Toutes les religions affirment être la seule vraie", " Les grandes traditions disent que les religions sont une", -1.0
+" Les religions sont des révélations progressives de l'unique Vérité", " Toutes les religions affirment la même vérité", 1.0
+" Il y a des expériences spirituelles incommensurables", " Il y a une diversité irréductible de l'Ultime", 1.0
+" Il y a plusieurs Ultimes", " Il y a une diversité irréductible de l'Ultime", 1.0
+" Les religions sont exclusives", " Chaque religion affirme être l'unique Vérité", 1.0
+" Les religions s'opposent sur la réincarnation", " Les religions s'opposent sur des questions essentielles", 1.0
+" Toutes les religions proposent une ascèse", " Les religions poursuivent des finalités différentes", -1.0
+" Toutes les religions proposent une ascèse", " Les religions poursuivent la même finalité", 1.0
+" Les religions s'opposent sur la personne du Christ", " Les religions s'opposent sur des questions essentielles", 1.0
+" Différents saints et mystiques ont affirmé l'unité des religions", " Les religions véhiculent un message identique", 1.0
+" Il y a des raisons théologiques aux conflits religieux", " Les religions sont en conflit historique", 1.0
+" Les religions s'opposent sur la question de Dieu", " Les religions s'opposent sur des questions essentielles", 1.0
+" Le judaïsme parle d'une hiérarchisation des dieux des nations", " Les grandes traditions disent que les religions sont une", 1.0
+" Il est contradictoire de dire 'Je ne suis pas la seule vérité'", " Chaque religion affirme être l'unique Vérité", 1.0
+" Les religions s'opposent sur la fin ultime de la création", " Les religions s'opposent sur des questions essentielles", 1.0
+" Le soufisme croit en l'unité des religions", " Les grandes traditions disent que les religions sont une", 1.0
+" L'expérience spirituelle n'est pas une", " Les expériences spirituelles divergent", 1.0
+" Les religions prônent l'amour", " Les religions poursuivent des finalités différentes", -1.0
+" Les religions prônent l'amour", " Les religions poursuivent la même finalité", 1.0
+" Les religions s'opposent sur la question du sujet", " Les religions s'opposent sur des questions essentielles", 1.0
+" Dieu délivre la vérité à tous les peuples", " Toutes les religions affirment la même vérité", 1.0

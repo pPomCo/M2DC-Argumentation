@@ -1,0 +1,5 @@
+premise, conclusion, weight
+"There is Aladdin and Sindirella too but no one can see them.", " There are ghosts in this world.", -0.5
+"However, few people can see them", " There are ghosts in this world.", -0.5
+"No scientific evidence exists to suggest the existence of ghosts, therefore there is little reason to believe they do exist.", " There are ghosts in this world.", -1.0
+"Apparitions have been observed and documented independently by several cultures.", " There are ghosts in this world.", 1.0

@@ -1,0 +1,4 @@
+premise, conclusion, weight
+"En utilisant des espaces le formatage du texte reste identique sur tous les postes des devs de l'équipe", " Espaces ou tabulations ?", -1.0
+"Chacun peut régler la taille des tabulations à sa convenance", " Espaces ou tabulations ?", 1.0
+"Les tabulations économisent de l'espace disque", " Espaces ou tabulations ?", 1.0

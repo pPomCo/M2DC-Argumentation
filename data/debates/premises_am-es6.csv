@@ -1,0 +1,9 @@
+premise, conclusion, weight
+"Quien tiene el capital, no querría tenerlo en España para que no se lo quiten.", "Es viable pero siempre que las tasas impositivos se carguen sobre el capital y no sobre las rentas de trabajo", -1.0
+"No hay incentivos", "La gente no querría trabajar.", 1.0
+"Es viable pero siempre que las tasas impositivos se carguen sobre el capital y no sobre las rentas de trabajo", " La Renta Básica Universal Incondicional es aplicable en España", -0.5
+"La gente no querría trabajar.", " La Renta Básica Universal Incondicional es aplicable en España", -1.0
+"Supondría el 21% del PIB español, anualmente.", " La Renta Básica Universal Incondicional es aplicable en España", -1.0
+"Se lograría con un único tipo impositivo del 49% y una renta básica exenta de impuestos.", " La Renta Básica Universal Incondicional es aplicable en España", 1.0
+"Es una medida justa y necesaria ante el inevitable desempleo tecnológico que ya empieza a ser indiscutible.", " La Renta Básica Universal Incondicional es aplicable en España", 1.0
+"Atraería a inmigrantes de baja cualificación.", " La Renta Básica Universal Incondicional es aplicable en España", -1.0

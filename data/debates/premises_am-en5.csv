@@ -1,0 +1,10 @@
+premise, conclusion, weight
+"if a law impedes on one or all religions, that law is found unconstitutional.", "no one compeled the appellant to work six days a week.", -1.0
+"There have been no filings of fraudulent claims by claimants saying they cannot work Saturdays because of religious objections before the South Carolina Supreme Court.", "The Court found that there was no rational relationship to show interest.", 1.0
+"the appellant had to choose between following her religion or accept work", "the consequence of disqualification imposed a burden on the appellant's freedom of religion.", 1.0
+"no one compeled the appellant to work six days a week.", "the consequence of disqualification imposed a burden on the appellant's freedom of religion.", -0.5
+"The Court found that there was no rational relationship to show interest.", "The Court looked at whether the eligibility requirements for unemployment benefits in South Carolina went against the appellant's First Amendment rights.", 1.0
+"Laws which contradict aspects of certain religious lifestyles are not automatically unjust or unconstitutional.", "the consequence of disqualification imposed a burden on the appellant's freedom of religion.", -1.0
+"The First Amendment does not discuss welfare or unemployment benefits.", " Denial of Unemployment Benefits violates the First Amendment ", -1.0
+"The Court looked at whether the eligibility requirements for unemployment benefits in South Carolina went against the appellant's First Amendment rights.", " Denial of Unemployment Benefits violates the First Amendment ", 1.0
+"the consequence of disqualification imposed a burden on the appellant's freedom of religion.", " Denial of Unemployment Benefits violates the First Amendment ", 1.0

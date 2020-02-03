@@ -1,0 +1,19 @@
+premise, conclusion, weight
+"Micromanaging our military assets abroad humiliates our allies", "America cannot 'lead a new world abroad if, at home, it's politics as usual on American defense and diplomacy.'", 1.0
+"America will become the leader it should have been", "This war will lead to a new united world in peace", 1.0
+"This war will lead to a new united world in peace", "The world has still been divided", -1.0
+"America cannot 'lead a new world abroad if, at home, it's politics as usual on American defense and diplomacy.'", "America will do what we can", -0.5
+"The world has still been divided", "Twice in this century the world was put into war, and twice it became a prosperous peace", -0.5
+"Peace being broken hurts economic prospects", "If the Middle East destabilizes, peace could again be broken.", 1.0
+"America will do what we can", "There is no one solution", -1.0
+"Twice in this century the world was put into war, and twice it became a prosperous peace", "Peace is the only option", 1.0
+"The war in Iraq was not waged to be the war to end all wars", "Enduring peace is our MISSION", -0.5
+"Fixing our economy will be investing in the strongest economy on earth", "We need to confront problems on the homefront with the same vigor we confront foreign conflict", 1.0
+"Improving our infrastructure and legislation will improve America", "We need to confront problems on the homefront with the same vigor we confront foreign conflict", 1.0
+"There is no one solution", "Peace is the only option", -1.0
+"Terror Tactics get no results", "Peace is the only option", 1.0
+"If the Middle East destabilizes, peace could again be broken.", "If we pull support from the Middle East, tensions will destabilize", 1.0
+"If we pull support from the Middle East, tensions will destabilize", " Until Peace can be achieved with the Middle East, The United States should support the Middle East.", 1.0
+"Peace is the only option", " Until Peace can be achieved with the Middle East, The United States should support the Middle East.", 1.0
+"We need to confront problems on the homefront with the same vigor we confront foreign conflict", " Until Peace can be achieved with the Middle East, The United States should support the Middle East.", 1.0
+"Enduring peace is our MISSION", " Until Peace can be achieved with the Middle East, The United States should support the Middle East.", 1.0

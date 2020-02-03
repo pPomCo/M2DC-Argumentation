@@ -1,0 +1,11 @@
+premise, conclusion, weight
+"Tarafgirliğin ortadan kaldırılması mı gerekiyor?", "bu tarafgirliği ortadan kaldırmaz.", -0.5
+"bu tarafgirliği ortadan kaldırmaz.", "çünkü bir şeyin varlığını kanıtlarsanız inanmak (iman etmek) fonksiyonu ortadan kalkar.", -0.5
+"1-Bir şeyin gereksiz olması, olması ile olmaması arasında bir fark olmamasıdır.2-Tanrının kanıtlanması eğer inancı kaldıracaksa; bu 1. maddeye göre gereksiz olarak nitelendirilemez.(Bu önerme ancak argümandaki 'telaş' ile bu uğraşı veya kanıtlanma olgusu kastedilmişse doğrudur)", "çünkü bir şeyin varlığını kanıtlarsanız inanmak (iman etmek) fonksiyonu ortadan kalkar.", -1.0
+"Böyle bir imkansızlığın olması büyük bir iddiadır, desteklenmelidir.", "Tanrının varlığını ya da yokluğunu kanıtlamak imkansızdır. Zaten kimsenin böyle bir uğraşı da yoktur.", -0.5
+"Kimsenin böyle bir uğraşı yoktur demek bariz bir hacme sahip bir felsefe konusunu ve din felsefesini, ve ontolojik ve epistemolojik ve ahlaki argümanların yapılmış olmasını görmezden gelmek olabilir ancak. Bu uğraşının olmadığını söylemek kesinlikle yanlıştır. Örneğin; ben de uğraşıyorum.", "Tanrının varlığını ya da yokluğunu kanıtlamak imkansızdır. Zaten kimsenin böyle bir uğraşı da yoktur.", -1.0
+"ama argüman tanrının olup olmaması değil. Tanrının olduğunun bilinip bilinmemesinin pratikte hiçbir önemli sonucu olnaz.", "Tanrının olup, olmamasının çok önemli sonuçları olabilir.", -1.0
+"Tanrının varlığını ya da yokluğunu kanıtlamak imkansızdır. Zaten kimsenin böyle bir uğraşı da yoktur.", " tanrının varlığını kanıtlamak telaşı gereksizdir.", 1.0
+"Tanrının olup, olmamasının çok önemli sonuçları olabilir.", " tanrının varlığını kanıtlamak telaşı gereksizdir.", -1.0
+"Tartışılması gereken tanrısallık kavramıdır...", " tanrının varlığını kanıtlamak telaşı gereksizdir.", 1.0
+"çünkü bir şeyin varlığını kanıtlarsanız inanmak (iman etmek) fonksiyonu ortadan kalkar.", " tanrının varlığını kanıtlamak telaşı gereksizdir.", 1.0

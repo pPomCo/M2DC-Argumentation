@@ -1,0 +1,4 @@
+premise, conclusion, weight
+"Lincoln did not believe whites and blacks should have the same rights", "Abraham believed slavery was morally wrong", -1.0
+"In September of 1862 the proclamation was brought to light by Abraham Lincoln.", " Slaves should be freed", 1.0
+"Abraham believed slavery was morally wrong", " Slaves should be freed", 1.0

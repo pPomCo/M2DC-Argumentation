@@ -1,0 +1,120 @@
+premise, conclusion, weight
+"Le manque de temps n'est pas une fatalité.", " Les citoyens n'ont pas le temps de voter souvent", -1.0
+" Argument hors-sujet", " Les citoyens n'ont pas le temps de voter souvent", -1.0
+" Argument hors-sujet", " Les citoyens n'ont pas envie de voter souvent", -1.0
+" Argument hors-sujet", " Les citoyens peuvent se tromper", -1.0
+" De nombreux milliardaires se trouvent au pouvoir", " Le pouvoir politique est influencé par le pouvoir économique en France", 1.0
+"Un scrutin proportionnel est instable", " Les grands partis dominent sur les petits", -1.0
+" Les petits partis ont un temps de parole très limité en France", " Il existe un pluralisme politique en France", -1.0
+" Le peuple s'est dé-syndicalisé.", " Il existe un pluralisme syndical en France", -1.0
+" Il existe de nombreux allers-retours entre les cabinets politiques et les conseils d'administration économiques", " Le pouvoir politique est influencé par le pouvoir économique en France", 1.0
+" Beaucoup de personnes ne sont pas inscrites sur les listes électorales en France", " Las élections françaises se font par le suffrage universel", -1.0
+"Les travailleurs mineurs n'ont pas le droit de vote", " Las élections françaises se font par le suffrage universel", -1.0
+"Il existe le vote sanction", " Nous ne pouvons pas révoquer nos élus", -1.0
+" Les hommes politiques servent les intérêts des industriels et des banquiers", " Le pouvoir politique est influencé par le pouvoir économique en France", 1.0
+" Il y a une disparition de la presse d'opinion", " Il existe un pluralisme de l'information en France", -1.0
+" Le clivage gauche/droite ne veut plus dire grand-chose", " Il existe un pluralisme politique en France", -1.0
+" Il y a une tendance à la concentration des médias et de l'information en France", " Il existe un pluralisme de l'information en France", -1.0
+" La République française est marquée par de nombreuses affaires de corruption", " Le pouvoir politique est influencé par le pouvoir économique en France", 1.0
+"Le vote blanc n'est pas un vrai vote", " Le vote blanc n'est pas pris en compte", -1.0
+"Des candidats non représentatifs de la population", " N'importe qui peut intégrer un parti politique et candidater à une élection française", -1.0
+" Il existe de nombreux liens affinitaires entre le monde politique et le monde économique", " Le pouvoir politique est influencé par le pouvoir économique en France", 1.0
+"Le vote blanc est un vote confus", " Le vote blanc n'est pas pris en compte", -1.0
+" Les citoyens n'ont pas le temps de voter souvent", " Les citoyens français ne votent que tous les cinq ans", -1.0
+"La durée des mandats des élus est limitée", " Nous ne pouvons pas révoquer nos élus", -1.0
+"Les étrangers n'ont pas le droit de vote", " Las élections françaises se font par le suffrage universel", -1.0
+" Il y a une tendance à la bipolarisation des partis en France", " Il existe un pluralisme politique en France", -1.0
+"Un besoin de stabilité", " Les hauts fonctionnaires sont quasi inamovibles", -1.0
+" L'information est contrôlée par les puissances financières et politiques", " Il existe un pluralisme de l'information en France", -1.0
+"Les conseils et les comptes-rendus sont publics", " Nous ne connaissons pas assez les actions menées par nos élus", -1.0
+" Les campagnes électorales sont financées par de grandes puissances économiques", " Le pouvoir politique est influencé par le pouvoir économique en France", 1.0
+"Le président de la République est élu par les citoyens", " La Cinquième République est monarchique", -1.0
+" Les citoyens peuvent se tromper", " Le vote des citoyens français n'est pas toujours pris en compte", -1.0
+" Les citoyens n'ont pas envie de voter souvent", " Les citoyens français ne votent que tous les cinq ans", -1.0
+"Le cumul des mandats des élus est limité", " Les hommes politiques sont des professionnels à vie", -1.0
+"Un pays a besoin d'une élite compétente au pouvoir", " Le personnel politique n'est pas représentatif de la population", -1.0
+" L'élection de représentant rend, par définition, notre régime oligarchique.", " Las élections françaises se font par le suffrage universel", -1.0
+" Le spectaculaire et l'anecdotique sont préférés à l'information", " Il existe un pluralisme de l'information en France", -1.0
+"Le mode de scrutin provoque un effet 'vote utile' qui restreint fortement le pluralisme", " Il existe un pluralisme politique en France", -1.0
+"Il y a une conformisation de la ligne éditoriale des médias", " Il existe un pluralisme de l'information en France", -1.0
+"La participation aux scrutins électoraux reste importante", " L'abstention ne fait que progresser en France", -1.0
+"La barrière du prix des campagnes", " N'importe qui peut intégrer un parti politique et candidater à une élection française", -1.0
+"Les personnes au pouvoir qui ne sont pas élues sont élues ou désignées par des élus", " Nous n'élisons pas toutes les personnes qui sont au pouvoir politique en France", -1.0
+" En démocratie représentative, les parlementaires sont les représentants de la Nation et non pas du peuple", " Le personnel politique n'est pas représentatif de la population", -1.0
+"Le frein des 500 parrainages", " N'importe qui peut intégrer un parti politique et candidater à une élection française", -1.0
+" Il existe un pluralisme politique en France", " Il existe un pluralisme politique, syndical et médiatique en France", 1.0
+"L'élection est aristocratique", " La démocratie véritable est la démocratie directe", 1.0
+" Le pouvoir politique est entre les mains des grandes entreprises et de la finance", " Le pouvoir politique français est entre les mains d'une minorité", 1.0
+" Le vote des citoyens français n'est pas toujours pris en compte", " Les citoyens français ne sont pas assez consultés", 1.0
+" Les hommes politiques sont des professionnels à vie", " Le pouvoir politique français manque de contrôle", 1.0
+" Il existe un pluralisme syndical en France", " Il existe un pluralisme politique, syndical et médiatique en France", 1.0
+" Les hauts fonctionnaires sont quasi inamovibles", " Le pouvoir politique français manque de contrôle", 1.0
+" La démocratie représentative est aristocratique", " Le pouvoir politique français est entre les mains d'une minorité", 1.0
+"Confondre la démocratie et le gouvernement représentatif est une imposture historique", " La démocratie véritable est la démocratie directe", 1.0
+"Les contre-pouvoirs ne sont ni contrôlés par, ni représentatifs du peuple.", " Il existe un pluralisme politique, syndical et médiatique en France", -1.0
+"90 % des citoyens sont inscrits sur les listes électorales en France", " Le pouvoir politique français manque de participation", -1.0
+" La République française est technocratique", " Le pouvoir politique français est entre les mains d'une minorité", 1.0
+" Le pouvoir politique est influencé par le pouvoir économique en France", " Les pouvoirs législatif, exécutif et législatif sont indépendants en France", -1.0
+" N'importe qui peut intégrer un parti politique et candidater à une élection française", " Les élections françaises sont libres et transparentes", 1.0
+" Nous ne pouvons pas révoquer nos élus", " Le pouvoir politique français manque de contrôle", 1.0
+" Le vote blanc n'est pas pris en compte", " Le pouvoir politique français manque de représentativité", 1.0
+"La démocratie directe athénienne a été un échec", " La démocratie véritable est la démocratie directe", -1.0
+" La participation à des actions collectives recule en France", " Le pouvoir politique français manque de participation", 1.0
+"La démocratie repose sur le tirage au sort", " La démocratie véritable est la démocratie directe", 1.0
+"La majorité parlementaire est au service des désidératas du président de la république/du chef de l'Etat et la justice est accusée d'être instrumentalisée.", " Les pouvoirs législatif, exécutif et législatif sont indépendants en France", -1.0
+" Le personnel politique n'est pas représentatif de la population", " Le pouvoir politique français manque de représentativité", 1.0
+" Nous ne connaissons pas assez les actions menées par nos élus", " Le pouvoir politique français manque de contrôle", 1.0
+" Las élections françaises se font par le suffrage universel", " Les élections françaises sont libres et transparentes", 1.0
+"La France n'est ni une dictature ni une démocratie", " La France n'est pas une dictature", -1.0
+" Nous n'élisons pas toutes les personnes qui sont au pouvoir politique en France", " Le pouvoir politique français manque de contrôle", 1.0
+"La participation aux scrutins reste importante", " Le pouvoir politique français manque de participation", -1.0
+" Sommes-nous en démocratie ?", " L'Europe occidentale est-elle en déclin ?", 1.0
+"", " L'Europe occidentale est-elle en déclin ?", 1.0
+"", " L'Europe occidentale est-elle en déclin ?", 1.0
+"", " L'Europe occidentale est-elle en déclin ?", 1.0
+"", " L'Europe occidentale est-elle en déclin ?", 1.0
+"", " L'Europe occidentale est-elle en déclin ?", 1.0
+"", " L'Europe occidentale est-elle en déclin ?", 1.0
+"", " L'Europe occidentale est-elle en déclin ?", 1.0
+"", " L'Europe occidentale est-elle en déclin ?", 1.0
+"", " L'Europe occidentale est-elle en déclin ?", 1.0
+"", " L'Europe occidentale est-elle en déclin ?", 1.0
+"", " L'Europe occidentale est-elle en déclin ?", 1.0
+"", " L'Europe occidentale est-elle en déclin ?", 1.0
+"", " L'Europe occidentale est-elle en déclin ?", 1.0
+"", " L'Europe occidentale est-elle en déclin ?", 1.0
+" Le pouvoir politique français manque de représentativité", " Sommes-nous en démocratie ?", -1.0
+" Les libertés fondamentales sont respectées en France", " Sommes-nous en démocratie ?", 1.0
+" Les élections françaises sont libres et transparentes", " Sommes-nous en démocratie ?", 1.0
+" Les pouvoirs législatif, exécutif et législatif sont indépendants en France", " Sommes-nous en démocratie ?", 1.0
+" Les citoyens français ne sont pas assez consultés", " Sommes-nous en démocratie ?", -1.0
+" Le pouvoir politique français manque de participation", " Sommes-nous en démocratie ?", -1.0
+" Il existe un pluralisme politique, syndical et médiatique en France", " Sommes-nous en démocratie ?", 1.0
+" La France n'est pas une dictature", " Sommes-nous en démocratie ?", 1.0
+" Le pouvoir politique français est entre les mains d'une minorité", " Sommes-nous en démocratie ?", -1.0
+" Le pouvoir politique français manque de contrôle", " Sommes-nous en démocratie ?", -1.0
+" Il existe des contre-pouvoirs en France", " Sommes-nous en démocratie ?", 1.0
+" La démocratie véritable est la démocratie directe", " Sommes-nous en démocratie ?", -1.0
+" Il n'y a pas assez de consultations citoyennes en France", " Les citoyens français ne sont pas assez consultés", 1.0
+"Le scrutin est libre, secret et contrôlé", " Les élections françaises sont libres et transparentes", 1.0
+"Les pétitions en ligne connaissent un succès", " Le pouvoir politique français manque de participation", -1.0
+" Le taux d'appartenance à un parti politique ou à un syndicat est de plus en plus bas en France", " Le pouvoir politique français manque de participation", 1.0
+" Les grands partis dominent sur les petits", " Le pouvoir politique français manque de représentativité", 1.0
+"La démocratie directe n'est pas applicable dans une société reposant sur la spécialisation des tâches", " La démocratie véritable est la démocratie directe", -1.0
+" Les citoyens français ne votent que tous les cinq ans", " Les citoyens français ne sont pas assez consultés", 1.0
+"La France a été condamné de multiples fois récemment par la Cour Européenne des Droits de l'Homme", " Les libertés fondamentales sont respectées en France", -1.0
+"Certaines élections sont indirectes", " Les citoyens français ne sont pas assez consultés", 1.0
+" La Cinquième République est monarchique", " Le pouvoir politique français est entre les mains d'une minorité", 1.0
+" Il existe un pluralisme de l'information en France", " Il existe un pluralisme politique, syndical et médiatique en France", 1.0
+"Les contre-pouvoirs ne sont ni contrôlés par, ni représentatifs du peuple.", " Il existe des contre-pouvoirs en France", -1.0
+"Le pouvoir est entre les mains des partis politiques", " Le pouvoir politique français est entre les mains d'une minorité", 1.0
+" Le personnel politique est déconnecté de la vie réelle de la population", " Le pouvoir politique français manque de représentativité", 1.0
+"La démocratie directe n'est pas applicable à l'échelle d'un pays", " La démocratie véritable est la démocratie directe", -1.0
+"La démocratie directe athénienne reposait sur le travail des femmes et des esclaves", " La démocratie véritable est la démocratie directe", -1.0
+"Les citoyens ne sont pas assez éduqués pour la démocratie directe", " La démocratie véritable est la démocratie directe", -1.0
+" L'abstention ne fait que progresser en France", " Il n'y a pas assez de consultations citoyennes en France", -1.0
+" L'abstention ne fait que progresser en France", " Le pouvoir politique français manque de participation", 1.0
+"L'élection n'est pas démocratique mais aristocratique", " Les élections françaises sont libres et transparentes", -1.0
+" Il est difficile de se présenter à une élection en France", " Le pouvoir politique français manque de participation", 1.0
+"Les citoyens ne souhaitent pas plus participer", " Le pouvoir politique français manque de participation", -1.0
+" Les citoyens français se désintéressent de la politique", " Le pouvoir politique français manque de participation", 1.0

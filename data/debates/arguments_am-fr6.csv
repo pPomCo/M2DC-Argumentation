@@ -1,0 +1,9 @@
+arg1, arg2, attack_support
+"am-fr65 -> ¬am-fr52", "am-fr52 -> ¬am-fr29", "Attack"
+"am-fr54 -> ¬am-fr31", "am-fr31 -> am-fr6", "Attack"
+"am-fr53 -> ¬am-fr32", "am-fr32 -> am-fr6", "Attack"
+"am-fr65 -> ¬am-fr52", "am-fr52 -> ¬am-fr29", "Attack"
+"am-fr52 -> ¬am-fr29", "am-fr29 -> ¬am-fr6", "Attack"
+"am-fr54 -> ¬am-fr31", "am-fr31 -> am-fr6", "Attack"
+"am-fr53 -> ¬am-fr32", "am-fr32 -> am-fr6", "Attack"
+"am-fr52 -> ¬am-fr29", "am-fr29 -> ¬am-fr6", "Attack"

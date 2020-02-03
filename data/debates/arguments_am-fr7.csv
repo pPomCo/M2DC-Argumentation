@@ -1,0 +1,5 @@
+arg1, arg2, attack_support
+"am-fr56 -> am-fr33", "am-fr33 -> am-fr7", "Support"
+"am-fr55 -> ¬am-fr33", "am-fr33 -> am-fr7", "Attack"
+"am-fr55 -> ¬am-fr33", "am-fr33 -> am-fr7", "Attack"
+"am-fr56 -> am-fr33", "am-fr33 -> am-fr7", "Support"

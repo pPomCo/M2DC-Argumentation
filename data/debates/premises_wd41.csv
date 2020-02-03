@@ -1,0 +1,49 @@
+premise, conclusion, weight
+" Le capitalisme est tout autant reponsable de la mort de millions de personnes", " Le communisme a fait 100 millions de morts", -1.0
+" Le décompte du Livre noir du communisme ne parvient pas à 100 millions de morts", " Le communisme a fait 100 millions de morts", -1.0
+" Les morts décomptés dans le Livre noir du communisme ne sont pas tous amputables au communisme", " Le communisme a fait 100 millions de morts", -1.0
+" Les États communistes ont commis des crimes de guerre", " Les États communistes ont commis les trois types de crimes définis par le tribunal de Nuremberg", 1.0
+" Les États communistes ont commis des crimes contre la paix", " Les États communistes ont commis les trois types de crimes définis par le tribunal de Nuremberg", 1.0
+" Les États communistes ont commis des crimes contre l'humanité", " Les États communistes ont commis les trois types de crimes définis par le tribunal de Nuremberg", 1.0
+" Tous les régimes communistes ont utilisé l'arme de la faim", " Le communisme est un régime criminel", 1.0
+" Imputer les crimes du communisme à une idée est du délit d'intention", " Le communisme est un régime criminel", -1.0
+" Les États communistes ont commis les trois types de crimes définis par le tribunal de Nuremberg", " Le communisme est un régime criminel", 1.0
+" La terreur soviétique a été pire que celle du nazisme", " Le communisme est un régime de terreur", 1.0
+" Le communisme a fait 100 millions de morts", " Le communisme est un régime criminel", 1.0
+" La terreur soviétique a été pire que celle du fascisme italien", " Le communisme est un régime de terreur", 1.0
+"Le capitalisme est trop puissant", " Le capitalisme est condamné", -1.0
+"Le communisme n'offre pas d'incitation au travail", " Le communisme est une catastrophe économique", 1.0
+"La planification est démocratique", " Le communisme répond aux besoins de la population", 1.0
+"Le capitalisme va s'effrondrer", " Le capitalisme est condamné", 1.0
+" Le communisme est un régime de terreur", " Le communisme est dangereux", 1.0
+"Le capitalisme conduit à la barbarie", " Le capitalisme est condamné", 1.0
+"On ne peut pas inventer un homme nouveau", " Le communisme est impossible", 1.0
+"Le communisme est antidémocratique", " Le communisme est dangereux", 1.0
+"L'égalité absolue n'existe pas", " Le communisme est impossible", 1.0
+"La planification ne répond pas aux besoins de la population", " Le communisme est une catastrophe économique", 1.0
+"La planification ne répond pas aux besoins de la population", " Le communisme répond aux besoins de la population", -1.0
+"Plus personne ne croit aujourd'hui au communisme", " Le communisme est impossible", 1.0
+"Le communisme va contre la nature humaine", " Le communisme est impossible", 1.0
+"Le communisme se moque de l'écologie", " Le communisme est dangereux", 1.0
+"Le capitalisme est trop puissant", " Le communisme est impossible", 1.0
+"Le capitalisme est un bon système socio-économique", " Le communisme n'est pas nécessaire", 1.0
+" Le communisme est un régime criminel", " Le communisme est dangereux", 1.0
+" Le communisme se moque de l'art", " Le communisme est dangereux", 1.0
+"Le communisme contredit les libertés individuelles", " Le communisme est impossible", 1.0
+"La révolution mondiale est irréalisable", " Le communisme est impossible", 1.0
+"Le communisme est une idéologie totalitaire", " Le communisme est dangereux", 1.0
+"Le communisme est une société sans classes", " Le communisme est une société sans exploitation", 1.0
+"Le communisme est liberticide", " Le communisme est dangereux", 1.0
+"Le communisme est une imposture", " Le communisme est dangereux", 1.0
+" Le communisme est une utopie", " Le communisme est impossible", 1.0
+"Des changements graduels et non violents sont possibles", " Le communisme n'est pas nécessaire", 1.0
+"Le communisme est un monde sans frontières", " Pour ou contre le communisme ?", 1.0
+" Le communisme est une société sans exploitation", " Pour ou contre le communisme ?", 1.0
+" Le communisme n'est pas nécessaire", " Pour ou contre le communisme ?", -1.0
+" Le communisme est une catastrophe économique", " Pour ou contre le communisme ?", -1.0
+" Le communisme est dangereux", " Pour ou contre le communisme ?", -1.0
+"Le communisme est un monde sans guerre ni violence", " Pour ou contre le communisme ?", 1.0
+"Le communisme est inefficace", " Pour ou contre le communisme ?", -1.0
+" Le communisme est impossible", " Pour ou contre le communisme ?", -1.0
+" Le communisme répond aux besoins de la population", " Pour ou contre le communisme ?", 1.0
+" Le capitalisme est condamné", " Pour ou contre le communisme ?", 1.0

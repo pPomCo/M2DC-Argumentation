@@ -1,0 +1,7 @@
+arg1, arg2, attack_support
+"am-ch317 -> ¬am-ch31", "am-ch31 -> ¬am-ch3", "Attack"
+"am-ch315 -> ¬am-ch29", "am-ch29 -> am-ch3", "Attack"
+"am-ch316 -> ¬am-ch30", "am-ch30 -> am-ch3", "Attack"
+"am-ch317 -> ¬am-ch31", "am-ch31 -> ¬am-ch3", "Attack"
+"am-ch315 -> ¬am-ch29", "am-ch29 -> am-ch3", "Attack"
+"am-ch316 -> ¬am-ch30", "am-ch30 -> am-ch3", "Attack"

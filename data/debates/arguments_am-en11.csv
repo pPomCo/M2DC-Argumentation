@@ -1,0 +1,9 @@
+arg1, arg2, attack_support
+"am-en172 -> am-en152", "am-en152 -> ¬am-en114", "Support"
+"am-en152 -> ¬am-en114", "am-en114 -> ¬am-en50", "Attack"
+"am-en172 -> am-en152", "am-en152 -> ¬am-en114", "Support"
+"am-en114 -> ¬am-en50", "am-en50 -> am-en11", "Attack"
+"am-en152 -> ¬am-en114", "am-en114 -> ¬am-en50", "Attack"
+"am-en115 -> ¬am-en50", "am-en50 -> am-en11", "Attack"
+"am-en115 -> ¬am-en50", "am-en50 -> am-en11", "Attack"
+"am-en114 -> ¬am-en50", "am-en50 -> am-en11", "Attack"

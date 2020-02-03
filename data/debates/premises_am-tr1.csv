@@ -1,0 +1,4 @@
+premise, conclusion, weight
+"Özel araçta, sürücü hariç içilebilir olması makul gözükmektedir.", "Kişisel alan, toplumsal alanla kesişir. Kaza riski artmaktadır. + Özellikle toplu taşımada rahatsız edici olması sebebiyle de 🚫 olmalı.", -1.0
+"aynı derecede kaza riski taşıyan klima tertibatı veya radyo kullanımı yasalarla kısıtlanmamıştır.", " Araç kullanırken sigara içmek cezalandırılmalıdır.", -1.0
+"Kişisel alan, toplumsal alanla kesişir. Kaza riski artmaktadır. + Özellikle toplu taşımada rahatsız edici olması sebebiyle de 🚫 olmalı.", " Araç kullanırken sigara içmek cezalandırılmalıdır.", 1.0

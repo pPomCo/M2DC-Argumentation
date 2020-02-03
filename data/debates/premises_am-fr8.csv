@@ -1,0 +1,4 @@
+premise, conclusion, weight
+"des fois ça a l'effet inverse", "Le café contient de la caféine qui nous permet d'être plus productif", -0.5
+"Le café contient de la caféine qui nous permet d'être plus productif", " Le café est bon pour la santé", 1.0
+"Boire trop de café peut conduire à des insomnies, et alors on rentre dans un cercle vicieux : on boit plus de café pour tenir la journée, ce qui nous empêche d'avoir un sommeil récupérateur la nuit.", " Le café est bon pour la santé", -1.0

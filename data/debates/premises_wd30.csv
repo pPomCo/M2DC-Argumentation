@@ -1,0 +1,18 @@
+premise, conclusion, weight
+" Logiciel libre et open source sont deux désignations équivalentes", " Les logiciels open-source ne sont pas nécessairement des logiciels libres", -1.0
+"On peut financer un logiciel libre par les dons", " Le logiciel libre n'a pas vraiment de modèle économique", -1.0
+"Le développement se fait souvent sur du temps libre et représente un coût très faible", " Le logiciel libre n'a pas vraiment de modèle économique", -1.0
+"Il existe d'autres modèles économiques que l'achat d'un logiciel", " Le logiciel libre n'a pas vraiment de modèle économique", -1.0
+"Les projets affichent rarement un guide à la contribution", " Il est difficile de contribuer aux logiciels libres", 1.0
+"Il faut bien financer les développeurs", " Le logiciel libre n'a pas vraiment de modèle économique", 1.0
+"Les plateformes de développement ne sont pas adaptées aux non-développeurs", " Il est difficile de contribuer aux logiciels libres", 1.0
+"Les mainteneurs des logiciels ne sont pas accueillants", " Il est difficile de contribuer aux logiciels libres", 1.0
+" Les logiciels open-source ne sont pas nécessairement des logiciels libres", " Des grosses entreprises telles que Microsoft ou Google s'intéressent à l'open-source", 1.0
+"Les coûts matériels peuvent aussi être importants", " Le logiciel libre n'a pas vraiment de modèle économique", 1.0
+" Le logiciel libre a des problèmes de gouvernance", " Le logiciel libre est-il en déclin ?", 1.0
+" Des grosses entreprises telles que Microsoft ou Google s'intéressent à l'open-source", " Le logiciel libre est-il en déclin ?", -1.0
+" Le logiciel libre n'a pas vraiment de modèle économique", " Le logiciel libre est-il en déclin ?", 1.0
+"La part du logiciel libre dans l'écosystème informatique est en augmentation", " Le logiciel libre est-il en déclin ?", -1.0
+" Les logiciels libres ne sont pas ergonomiques", " Le logiciel libre est-il en déclin ?", 1.0
+" Il est difficile de contribuer aux logiciels libres", " Le logiciel libre est-il en déclin ?", 1.0
+" Le respect de la vie privée attire toujours de nouveaux utilisateurs de logiciels libres", " Le logiciel libre est-il en déclin ?", -1.0

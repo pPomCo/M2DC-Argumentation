@@ -1,0 +1,9 @@
+premise, conclusion, weight
+"the transportation to the school did not support or fund the academics of the religious schools.", "New Jersey was spending tax payer dollars on transportation for parochial schools.", -0.5
+"New Jersey was not providing financial assistance to the religious schools. Instead, they were providing the same transportation costs to all schools in the area.", "New Jersey cannot support any institution which teaches religious practices.", -0.5
+"New Jersey was also providing transportation to public schools.", "New Jersey was not funding just parochial or religious schools.", 1.0
+"New Jersey was spending tax payer dollars on transportation for parochial schools.", "New Jersey was not funding just parochial or religious schools.", -1.0
+"New Jersey cannot support any institution which teaches religious practices.", "According to New Jersey, they cannot block its citizens' rights to free exercise of religion.", -1.0
+"According to New Jersey, they cannot block its citizens' rights to free exercise of religion.", "the establishment of religion clause in the First Amendment was not being violated.", 1.0
+"New Jersey was not funding just parochial or religious schools.", "the establishment of religion clause in the First Amendment was not being violated.", 1.0
+"the establishment of religion clause in the First Amendment was not being violated.", " New Jersey was not in violation of the Establishment Clause", 1.0

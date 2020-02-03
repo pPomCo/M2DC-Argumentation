@@ -1,0 +1,6 @@
+premise, conclusion, weight
+"Sentaks, semantik için yeterli değildir. Sentaks biçimsel, semantik içerikseldir.", "Zihne neden olan beyindir. Beyindeki nörofizyolojik süreçler zihinsel olguların ortaya çıkmasını sağlar.", 1.0
+"Zihinler semantik içeriklere sahiptir.", "Bilgisayar programları tümüyle biçimsel veya sentaktik yapılarıyla tanımlanırlar.", -0.5
+"Zihne neden olan beyindir. Beyindeki nörofizyolojik süreçler zihinsel olguların ortaya çıkmasını sağlar.", " Hiçbir bilgisayar programı kendi başına bir sisteme zihin veremez.", 1.0
+"'bilgisayar programı' denilen şey zaten doğada kendiliğinden oluşmuyor. belirli bir görevi yapmak için temeli, insanlar tarafından oluşturuluyor. yani 'programın', 'kendi başına' kalması gibi bir durum söz konusu değildir. ayrıca 'sisteme zihin vermek' tabiri de korkunç bir çeviri örneği.", " Hiçbir bilgisayar programı kendi başına bir sisteme zihin veremez.", -1.0
+"Bilgisayar programları tümüyle biçimsel veya sentaktik yapılarıyla tanımlanırlar.", " Hiçbir bilgisayar programı kendi başına bir sisteme zihin veremez.", -0.5

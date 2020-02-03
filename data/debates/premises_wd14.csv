@@ -1,0 +1,38 @@
+premise, conclusion, weight
+"L’Etat aura à composer avec une logique de maximisation des profits", " L’Etat conservera toutes ses activités régaliennes", -1.0
+"L'Etat peut se retrouver en position d'avoir à céder sur les tarifs", " Un mécanisme de régulation des tarifs aéroportuaires est prévu", -1.0
+" Des leçons des privatisations passées ont été tirées", " La privatisation d'ADP serait une mauvaise affaire pour l'Etat parce que la privatisation des autoroutes n'a pas été une bonne affaire", -1.0
+"L’Etat conservera la propriété du sol", " C’est à l’Etat de gérer les aéroports parce que ce sont des infrastructures stratégiques", -1.0
+" L’Etat conservera toutes ses activités régaliennes", " C’est à l’Etat de gérer les aéroports parce que ce sont des infrastructures stratégiques", -1.0
+"L’Etat conservera un contrôle sur les tarifs", " C’est à l’Etat de gérer les aéroports parce que ce sont des infrastructures stratégiques", -1.0
+" Un mécanisme de régulation des tarifs aéroportuaires est prévu", " La privatisation d'ADP serait une mauvaise affaire pour les compagnies aériennes et les voyageurs parce qu'il y a un risque de dérapage des tarifs", -1.0
+" La privatisation d'ADP n'engendre pas la perte de contrôle de l'État", " C’est à l’Etat de gérer les aéroports parce que les orientations stratégiques doivent être contrôlées démocratiquement", -1.0
+"Les aéroports de Paris sont en concurrence avec d'autres aéroports pour certaines activités", " C’est à l’Etat de gérer les aéroports parce qu’ADP est en situation de monopole sur la région parisienne", -1.0
+"Le projet d'extension de Roissy ne fait pas appel au financement de l'Etat", " L’Etat n’a plus les moyens d’investir pour développer le groupe", -1.0
+"Il n'est pas garanti que les nouveaux actionnaires fassent les investissements souhaités par l'Etat", " L’Etat n’a plus les moyens d’investir pour développer le groupe", -1.0
+" C’est à l’Etat de gérer les aéroports parce que ce sont des infrastructures stratégiques", " C’est à l’Etat de gérer les aéroports", 1.0
+"Il n'est pas prévu que le produit de la vente entre dans le budget de l'Etat", " Il faut privatiser ADP car l'État a besoin d’argent", -1.0
+"C’est un bon moment pour vendre", " Il faut privatiser ADP car l'État a besoin d’argent", 1.0
+" C’est à l’Etat de gérer les aéroports parce qu’ADP est en situation de monopole sur la région parisienne", " C’est à l’Etat de gérer les aéroports", 1.0
+" L’Etat n’a plus les moyens d’investir pour développer le groupe", " L’Etat n’est pas le plus qualifié pour gérer des aéroports", 1.0
+" C’est à l’Etat de gérer les aéroports parce que les orientations stratégiques doivent être contrôlées démocratiquement", " C’est à l’Etat de gérer les aéroports", 1.0
+"Les performances actuelles d'ADP ne sont pas bonnes et pas près de s’améliorer", " L’Etat n’est pas le plus qualifié pour gérer des aéroports", 1.0
+"Parce que la concession risque de se prolonger à perpétuité", " La privatisation d'ADP serait une mauvaise affaire pour l'Etat", 1.0
+" L'Etat n'a pas besoin d'être propriétaire des aéroports de Paris pour assurer un contrôle", " C’est à l’Etat de gérer les aéroports", -1.0
+"Parce que cela pourrait pénaliser Air France par rapport à ses concurrents si les tarifs augmentaient suite à la privatisation", " La privatisation d'ADP serait une mauvaise affaire pour les compagnies aériennes et les voyageurs", 1.0
+" La privatisation d'ADP serait une mauvaise affaire pour les compagnies aériennes et les voyageurs parce qu'il y a un risque de dérapage des tarifs", " La privatisation d'ADP serait une mauvaise affaire pour les compagnies aériennes et les voyageurs", 1.0
+" Une entreprise privée spécialisée serait plus compétente pour gérer les aéroports de Paris", " L’Etat n’est pas le plus qualifié pour gérer des aéroports", 1.0
+" Un État stratège est préférable à un État rentier", " C’est à l’Etat de gérer les aéroports", -1.0
+"L’Etat pourrait céder des participations moins sensibles", " Il faut privatiser ADP car l'État a besoin d’argent", -1.0
+" La privatisation d'ADP serait une mauvaise affaire pour l'Etat parce que la privatisation des autoroutes n'a pas été une bonne affaire", " La privatisation d'ADP serait une mauvaise affaire pour l'Etat", 1.0
+"La gestion des infrastructures aéroportuaires parisiennes n’est qu’une petite part des activités du groupe ADP", " L’Etat n’est pas le plus qualifié pour gérer des aéroports", 1.0
+"Privatiser ADP devrait faire rentrer 8 à 10 millions d'euros les caisses de l'État", " Il faut privatiser ADP car l'État a besoin d’argent", 1.0
+" C’est à l’Etat de gérer les aéroports parce que la crise écologique oblige à sortir d’une logique concurrentielle", " C’est à l’Etat de gérer les aéroports", 1.0
+" La privatisation d'ADP serait une mauvaise affaire pour l'Etat parce qu'ADP est rentable et rapporte des dividendes à l'Etat", " La privatisation d'ADP serait une mauvaise affaire pour l'Etat", 1.0
+" La privatisation d'ADP va créer de l'emploi", " Faut-il privatiser ADP ?", 1.0
+" La privatisation d'ADP serait une mauvaise affaire pour l'Etat", " Faut-il privatiser ADP ?", -1.0
+" L’Etat n’est pas le plus qualifié pour gérer des aéroports", " Faut-il privatiser ADP ?", 1.0
+" C’est à l’Etat de gérer les aéroports", " Faut-il privatiser ADP ?", -1.0
+" Il faut rejeter les valeurs et le monde incarnés par la privatisation d'ADP", " Faut-il privatiser ADP ?", -1.0
+" Il faut privatiser ADP car l'État a besoin d’argent", " Faut-il privatiser ADP ?", 1.0
+" La privatisation d'ADP serait une mauvaise affaire pour les compagnies aériennes et les voyageurs", " Faut-il privatiser ADP ?", -1.0

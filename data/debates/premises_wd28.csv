@@ -1,0 +1,212 @@
+premise, conclusion, weight
+" Des marins lettons et estoniens hostiles à la révolution s'étaient réfugiés à Kronstadt", " Les mutins de Kronstadt en 1921 étaient bien différents des marins révolutionnaires de 1917", 1.0
+" Les mutins de Kronstadt en 1921 étaient touchés par la démoralisation", " Les mutins de Kronstadt en 1921 étaient bien différents des marins révolutionnaires de 1917", 1.0
+" Les éléments les plus conscients et les plus dévoués de Kronstadt étaient en train de combattre sur le front de la guerre civile", " Les mutins de Kronstadt en 1921 étaient bien différents des marins révolutionnaires de 1917", 1.0
+" Les mutins de Kronstadt en 1921 étaient bien différents des marins révolutionnaires de 1917", " La révolte de Kronstadt avait un caractère contre-révolutionnaire", 1.0
+" La révolte de Kronstadt a suscité l'opposition des ouvriers de Petrograd", " La révolte de Kronstadt avait un caractère contre-révolutionnaire", 1.0
+" La révolte de Kronstadt est une réaction armée de la petite-bourgeoisie contre les difficultés de la révolution socialiste et la rigueur de la dictature prolétarienne", " La révolte de Kronstadt avait un caractère contre-révolutionnaire", 1.0
+" Lénine a ordonné l'enfermement des vieillards, des femmes et des enfants cosaques", " Lénine a mené la décosaquisation sans discernement", 1.0
+" Les « erreurs » des bolchéviques vis-à-vis de la révolte de Kronstadt n'apparaissent qu'après coup", " Les bolchéviks ont commis des erreurs concernant le soulèvement des marins de Kronstadt", -1.0
+" Lénine a violemment réprimé les ouvriers en 1918 suite à la dissolution des soviets tenus par des opposants", " Lénine a violemment réprimé les ouvriers en 1918", 1.0
+" Lénine a violemment réprimé les ouvriers de Toula en 1920 suite aux mesures de militarisation du travail", " Lénine a violemment réprimé les ouvriers en 1920 suite aux mesures de militarisation du travail", 1.0
+"La violence terroriste inadmissible en démocratie contre des élus au suffrage universel, se justifie contre une dictature ou une autocratie", " Lénine défendait déjà la terreur en 1905", -1.0
+"Tous les pays capitalistes ont pratiqué la terreur : répressions d'opposants par des dictatures militaires, guerres coloniales par les démocraties occidentales", " Le dimanche rouge de janvier 1905 c'est la terreur du régime tsariste qui tire sur la foule pacifique venue demander du pain et la démocratie.", -1.0
+" En décembre 1919 il cite pour sa défense Alphonse Aulard, historien jacobin et radical-socialiste, plus proche de Danton que de Robespierre", " Lénine faisait l'éloge de la terreur avant 1914", -1.0
+" En 1901 Lénine a seulement loué Robespierre comme un défenseur de la liberté de conscience puis en 1915 comme un antibelliciste", " Lénine faisait l'éloge de la terreur avant 1914", -1.0
+" Lénine a violemment réprimé les ouvriers d'Astrakhan au printemps 1919", " Lénine a violemment réprimé les ouvriers au printemps 1919", 1.0
+" Les bolchéviques n'avaient d'autre choix que de réprimer la révolte de Kronstadt", " Les bolchéviks ont commis des erreurs concernant le soulèvement des marins de Kronstadt", -1.0
+" Lénine a violemment réprimé les ouvriers de Toula au printemps 1919", " Lénine a violemment réprimé les ouvriers au printemps 1919", 1.0
+" L'introduction anticipée de la Nep n'aurait pas pu permettre d'apaiser les mutins de Kronstadt", " Les bolchéviks ont commis des erreurs concernant le soulèvement des marins de Kronstadt", -1.0
+" Lénine a violemment réprimé les ouvriers de Simbirsk en 1920 suite aux mesures de militarisation du travail", " Lénine a violemment réprimé les ouvriers en 1920 suite aux mesures de militarisation du travail", 1.0
+" Lénine a ordonné l'exécution des bourgeois", " Lénine considère tous les bourgeois comme coupables", 1.0
+" Lénine a ordonné des exécutions expéditives contre les Cosaques", " Lénine a mené la décosaquisation sans discernement", 1.0
+" Lénine a violemment réprimé les ouvriers des usines Poutilov au printemps 1919", " Lénine a violemment réprimé les ouvriers au printemps 1919", 1.0
+" Ceux qui cherchent à prescrire après coup d'autres itinéraires à la Révolution russe sont des raisonneurs en pantoufles", " Les bolchéviks ont commis des erreurs concernant le soulèvement des marins de Kronstadt", -1.0
+" Lénine a ordonné l'expropriation des bourgeois", " Lénine considère tous les bourgeois comme coupables", 1.0
+" Lénine a ordonné l'humiliation et le viol de femmes bourgeoises", " Lénine considère tous les bourgeois comme coupables", 1.0
+" Lénine a ordonné le pillage de la bourgeoisie", " Lénine considère tous les bourgeois comme coupables", 1.0
+" En Russie la grande Guerre et la guerre civile rapprochent encore plus les violences antisémites perpétrées par toutes les forces antibolcheviques, de la Shoah", " Le Régime de Nicolas II était un régime proto-fasciste avec ses Cent-Noirs, tueurs d'opposants politiques et massacreurs de juifs", 1.0
+" La terreur rouge de la guerre civile russe est sans rapport avec la terreur stalinienne des années 1930", " La terreur blanche, occultée dans ce dossier, a largement précédé la terreur rouge", 1.0
+" Lénine a violemment réprimé les ouvriers de Petrograd en 1918", " Lénine a violemment réprimé les ouvriers en 1918", 1.0
+"Ce ne fut pas Lénine lui-même mais l'attentat dont il fut l'objet qui imposa en septembre 1918 aux bolcheviks jusque là très patients la notion 'd'ennemi du peuple'", " Lénine crée la catégorie d'« ennemis du peuple » dès 1918", -1.0
+" La révolte de Kronstadt avait un caractère contre-révolutionnaire", " Lénine a violemment réprimé les anarchistes de Kronstadt", -1.0
+" Makhno s'est appuyé sur la petite-bourgeoisie koulak réactionnaire", " Lénine a violemment réprimé les anarchistes de Makhno", -1.0
+" Lénine a violemment réprimé les ouvriers de l'Oural en 1920 suite aux mesures de militarisation du travail", " Lénine a violemment réprimé les ouvriers en 1920 suite aux mesures de militarisation du travail", 1.0
+" Lénine considère tous les bourgeois comme coupables", " Lénine a réprimé certaines personnes pour leur seule appartenance de classe", 1.0
+" Lénine a violemment réprimé les socialistes en 1919", " Lénine a violemment réprimé les socialistes", 1.0
+" Le parti bolchévik était composé d'individus déclassés ou déracinés", " Le parti bolchévik n'avait pas d’enracinement dans la société civile", 1.0
+" La Tchéka a procédé à de nombreuses exécutions sommaires à partir de février 1918 en Russie", " Lénine a instauré la terreur dès son arrivée au pouvoir", 1.0
+"Lénine n'a pas dit  : 'll faut tuer tous les Romanov c'est-à-dire une bonne centaine'", " Lénine a fait massacrer la famille impériale", 1.0
+" Le gouvernement provisoire russe de 1917 n'était pas démocratique", " Lénine a fomenté le coup d'État d'Octobre 17", -1.0
+" La militarisation du travail a été catastrophique dans la région du Donbass", " Lénine a militarisé le travail", 1.0
+" Lénine a maintes fois souligné l'absence du droit à une information pluraliste du fait de la détention des journaux non bolcheviks par des milliardaires", " Lénine a interdit les partis et journaux d'opposition", -1.0
+" Le communisme de la III eme Internationale est né en mars 1919 par rejet, formulé déjà par Lénine le 20 août 1918, de la guerre mondiale du capitalisme qui avait tué 10 millions de gens et estropié le double", " La guerre civile est au coeur du projet communiste", -1.0
+"Ni sous Lénine ni sous Staline aucun Romanov en exil n'est mort assassiné par le pouvoir bolchevik", " Lénine a fait massacrer la famille impériale", 1.0
+" La thèse du coup d'État bolchévik sert à maintenir le peuple dans un rôle passif", " Lénine a fomenté le coup d'État d'Octobre 17", -1.0
+" Ces régimes communistes ne furent pas les seuls loin de là, alors même que deux d'entre eux ne l'ont pas pratiquée", " Tous les régimes communistes ont pratiqué la terreur", -1.0
+" Lénine a entrepris la décosaquisation", " Lénine a exterminé les Cosaques", 1.0
+" Lénine a violemment réprimé les ouvriers de Petrograd en 1921", " Lénine a violemment réprimé les ouvriers", 1.0
+" On sait depuis la chute de l'URSS que le chiffre de 15 millions de morts dans les camps de concentration staliniens est tout-à-fait fantaisiste", " Lénine a pratiqué l'incarcération, la torture et la déportation", -1.0
+" L'insurrection d’Octobre 1917 est le résultat d'une année d'actions des masses", " Lénine a fomenté le coup d'État d'Octobre 17", -1.0
+" Lénine a fait allusion uniquement deux fois, en novembre 1918 et octobre 1921 , à la nuit ouralienne du 16 au 17 juillet 1918, par la seule évocation de la mort du tsar", " Lénine a fait massacrer la famille impériale", 1.0
+" Le dimanche rouge de janvier 1905 c'est la terreur du régime tsariste qui tire sur la foule pacifique venue demander du pain et la démocratie.", " La terreur est intrinsèque au léninisme", -1.0
+" Le parti bolchévik n'avait pas un caractère de classe", " Le parti bolchévik n'avait pas d’enracinement dans la société civile", 1.0
+" En février 1920 il appela à la fin des exécutions capitales", " Lénine était empli d'un immense désir de vengeance", -1.0
+" La brutalité de la pensée de Lénine est un héritage de la société tsariste", " La Première Guerre mondiale a brutalisé la pensée de Lénine", -1.0
+" La militarisation du travail est une préfiguration sous Lénine du travail forcé instauré par Staline", " Lénine a militarisé le travail", 1.0
+" Ce n'est précisément pas à l'été 1918, mais à l'hiver 1918-1919, que se met en place la politique des otages, lorsque la guerre contre les envahisseurs alliés devient une réalité incontestable", " Lénine a pratiqué la prise d'otages", -1.0
+" Lénine a violemment réprimé les anarchistes de Makhno", " Lénine a violemment réprimé les anarchistes", 1.0
+" Tchitcherine, commissaire soviétique aux affaires étrangères, était apparenté aux Romanov", " Lénine a fait massacrer la famille impériale", 1.0
+" Lénine a violemment réprimé les paysans en Ukraine", " Lénine a violemment réprimé les paysans", 1.0
+" Le Régime de Nicolas II était un régime proto-fasciste avec ses Cent-Noirs, tueurs d'opposants politiques et massacreurs de juifs", " Le parti léniniste est inspiré d'organisations proto-totalitaires", -1.0
+" Lénine faisait l'éloge de la terreur avant 1914", " La Première Guerre mondiale a brutalisé la pensée de Lénine", -1.0
+" Lénine a instauré la Terreur rouge en août 1918", " Lénine a instauré la terreur dès son arrivée au pouvoir", 1.0
+" Lénine considérait la guerre civile comme une guerre sans limite de temps", " Lénine considérait la guerre civile comme une guerre sans limite", 1.0
+" Les citations sont contestées", " Lénine défendait déjà dans sa jeunesse les vertus de la famine de 1891-1892", -1.0
+"La démocratie bourgeoise est la dictature de la bourgeoisie", " Lénine défendait la dictature du prolétariat", -1.0
+" A sa mort, en janvier 1924, sa veuve Nadejda Kroupskaïa a mis en garde contre son culte", " Lénine a instauré un culte du chef", -1.0
+" Au début des années trente Staline dénonce l'antisémitisme nazi", " Lénine et Staline ont condamné l'antisémitisme", 1.0
+" La brutalité de Lénine est à rechercher dans son idéologie", " La Première Guerre mondiale a brutalisé la pensée de Lénine", -1.0
+" Le 20 septembre 1919 Lénine conteste la terreur en rapportant un article américain anti-interventionniste selon lequel en 1918 'le gouvernement finlandais a été beaucoup plus terroriste que le gouvernement bolchevik'.", " Lénine a fait l'éloge de la terreur", -1.0
+" Lénine a violemment réprimé les socialistes en 1922", " Lénine a violemment réprimé les socialistes", 1.0
+" Lénine a violemment réprimé les socialistes en 1919 avec la condamnation de Maria Spiridonova", " Lénine a violemment réprimé les socialistes", 1.0
+" Lénine a instauré la terreur en avril-mai 1918 en Crimée", " Lénine a instauré la terreur dès son arrivée au pouvoir", 1.0
+" Lénine crée la catégorie d'« ennemis du peuple » dès 1918", " Lénine a réprimé certaines personnes pour leur seule appartenance de classe", 1.0
+" Lénine dénonce constamment la tentation de manipuler la réalité sociale", " Lénine a manipulé les statistiques officielles", -1.0
+" Lénine a violemment réprimé les ouvriers au printemps 1919", " Lénine a violemment réprimé les ouvriers", 1.0
+"", " Lénine a organisé les premiers procès truqués ou expéditifs", -1.0
+" Nourrir les villes et l'armée était une question vitale pour les bolcheviks", " Lénine a violemment réprimé les paysans", -1.0
+" Lénine a violemment réprimé les paysans en 1919", " Lénine a violemment réprimé les paysans", 1.0
+" Lénine a entrepris un génocide de classe contre les Cosaques", " Lénine a exterminé les Cosaques", 1.0
+" Aucune solution démocratique n'était possible en octobre 1917 en Russie", " Lénine a fomenté le coup d'État d'Octobre 17", -1.0
+" Staline exercait, dans les années 1930 en période de paix, la terreur contre des camarades, souvent anciens compagnons de Lénine", " Lénine a organisé les premiers procès truqués ou expéditifs", 1.0
+" Lénine a instauré la terreur dès décembre 1917 avec la création de la Tchéka", " Lénine a instauré la terreur dès son arrivée au pouvoir", 1.0
+" Lénine a violemment réprimé les anarchistes dès 1918", " Lénine a violemment réprimé les anarchistes", 1.0
+" Lénine considérait la guerre civile comme une guerre sans limite de moyens", " Lénine considérait la guerre civile comme une guerre sans limite", 1.0
+" Les bolchéviks ont dû réprimer le soulèvement des marins de Kronstadt pour préserver la révolution", " Lénine a violemment réprimé les anarchistes", -1.0
+" Lénine conçoit la terreur comme de l'hygiène sociale", " Lénine a justifié théoriquement la terreur", 1.0
+" La terreur blanche, occultée dans ce dossier, a largement précédé la terreur rouge", " Lénine a instauré la terreur dès son arrivée au pouvoir", -1.0
+" En octobre 1921 il ne voyait pas avec plus de bonheur les exécutions de Nicolas II et de Koltchak que l'exil de Wrangel et de Dénikine", " Lénine était empli d'un immense désir de vengeance", -1.0
+" Les bolchéviks se sont appuyés sur des couches peu formées souhaitant passer à l'action", " Le parti bolchévik n'avait pas d’enracinement dans la société civile", 1.0
+" Les bolchéviks réalisent les aspirations des masses dans la première année du régime soviétique", " Lénine a fomenté le coup d'État d'Octobre 17", -1.0
+" Lénine a expulsé les intellectuels dès 1922", " Lénine a fiché et expulsé les intellectuels", 1.0
+" L'Assemblée constituante de 1918 ne reflétait plus l'état d'esprit des masses russes", " Lénine a dissout l'Assemblée constituante de janvier 1918", -1.0
+" Les bolcheviks ont accaparé le pouvoir des soviets une fois au pouvoir", " Lénine a toujours pris parti pour la démocratie des soviets", -1.0
+"Depuis quand est-il criminel de prendre aux riches pour redistribuer aux pauvres ?", " Lénine a encouragé le pillage des riches", -1.0
+" Trotski a théorisé la militarisation du travail", " Lénine a militarisé le travail", 1.0
+" A partir de février-mars 1918 Lénine voyait l'impérialisme mondial comme le seul ennemi à combattre", " Lénine assimilait la politique à la guerre", -1.0
+"En octobre 1917, il s'opposa seul et sans succès à l'abolition intégrale de la peine de mort, qu'il estimait hasardeuse en période révolutionnaire", " Lénine donnait personnellement les ordres", -1.0
+" La question de l'insurrection bolchévik était publiquement débattue dès septembre 1917", " Lénine a fomenté le coup d'État d'Octobre 17", -1.0
+" Lénine a violemment réprimé les paysans en 1918", " Lénine a violemment réprimé les paysans", 1.0
+" Lénine défendait déjà la terreur en 1905", " La Première Guerre mondiale a brutalisé la pensée de Lénine", -1.0
+" Lénine a encouragé les actes de terreur envers les paysans", " Lénine a encouragé les actes de terreur", 1.0
+" Lénine a violemment réprimé les socialistes en 1921", " Lénine a violemment réprimé les socialistes", 1.0
+" Lénine considérait la guerre civile comme une guerre sans limite d'espace", " Lénine considérait la guerre civile comme une guerre sans limite", 1.0
+" Lénine a violemment réprimé les ouvriers en 1918", " Lénine a violemment réprimé les ouvriers", 1.0
+" Les bolchéviks étaient majoritaires dans les soviets en octobre 1917", " Lénine a fomenté le coup d'État d'Octobre 17", -1.0
+" Lénine n'a pas combattu sur le front", " La Première Guerre mondiale a brutalisé la pensée de Lénine", -1.0
+" Lénine a violemment réprimé les Aigles noirs", " Lénine a violemment réprimé les paysans", 1.0
+" Les 2 et 5 décembre 1919, il ne justifie pas le terrorisme mais renvoie l'accusation", " Lénine a fait l'éloge de la terreur", -1.0
+" La guerre civile devint une réalité dès janvier 1905, avec le dimanche rouge et la formation par la police tsariste des Cent-Noirs", " La guerre civile est au coeur du projet communiste", -1.0
+" Lénine et les bolchéviks ne sont pas responsables de la guerre civile", " Lénine a cherché à créer les conditions de la guerre civile", -1.0
+"Le massacre de la famille impériale n'a jamais existé, comme l'ont montré depuis les années 1980  Marina Grey, fille du général Denikine  et Marc Ferro.", " Lénine a fait massacrer la famille impériale", 1.0
+" Les bolchéviks ont commis des erreurs concernant le soulèvement des marins de Kronstadt", " Lénine a violemment réprimé les anarchistes", -1.0
+" L'Assemblée constituante russe était moins démocratique que la démocratie des soviets", " Lénine a dissout l'Assemblée constituante de janvier 1918", -1.0
+" Lénine a violemment réprimé les anarchistes de Kronstadt", " Lénine a violemment réprimé les anarchistes", 1.0
+"Lénine ne peut être accusé d'avoir imposé aux autres le rétablissement de la peine de mort en juin 1918, alors qu'il s'était opposé sans succès à son abolition sept mois plus tôt.", " Lénine a restauré la peine de mort dès juin 1918", -1.0
+"", " La terreur est intrinsèque au léninisme", 1.0
+"C'est un SR de gauche qui assassina à Moscou avec le soutien des siens l'ambassadeur allemand Von Mirbach le 6 juillet 1918, mettant ainsi en danger la souveraineté de la Russie.", " Lénine a violemment réprimé les socialistes", -1.0
+" Lénine a violemment réprimé les socialistes en 1920", " Lénine a violemment réprimé les socialistes", 1.0
+" Les nouvelles recrues bolchéviks avaient un désir de revanche et de promotion sociale", " Le parti bolchévik n'avait pas d’enracinement dans la société civile", 1.0
+" Lénine a théorisé l'épuration du parti", " Lénine a théorisé et réalisé l'épuration du parti", 1.0
+"La politique stalinienne intégra et réprima toutes les nationalités", " Lénine et Staline ont condamné l'antisémitisme", 1.0
+" La décosaquisation menée par Lénine préfigure les opérations de dékoulakisation sous Staline", " Lénine a exterminé les Cosaques", 1.0
+" Le génocide répond nécessairement à un critère ethnique", " Lénine a justifié théoriquement la terreur", -1.0
+" La révolution d'Octobre est une transformation profonde de toute la vie sociale", " Lénine a fomenté le coup d'État d'Octobre 17", -1.0
+" Parmi les inédits de Lénine retrouvés après la chute de l'URSS on trouve un décret de juillet 1918 intitulé 'Sur l'éradication de l'antisémitisme'", " Lénine et Staline ont condamné l'antisémitisme", 1.0
+" Lénine a violemment réprimé les ouvriers en 1920 suite aux mesures de militarisation du travail", " Lénine a violemment réprimé les ouvriers", 1.0
+"Le sens du mot « dictature » a changé", " Lénine défendait la dictature du prolétariat", -1.0
+" Lénine a instauré les premières mesures du communisme de guerre dès mai-juin 1918", " Lénine a instauré la terreur dès son arrivée au pouvoir", 1.0
+" Lénine a mené la décosaquisation sans discernement", " Lénine a exterminé les Cosaques", 1.0
+" Lénine a réalisé l'épuration du parti", " Lénine a théorisé et réalisé l'épuration du parti", 1.0
+" Lénine a fiché les intellectuels dès 1922", " Lénine a fiché et expulsé les intellectuels", 1.0
+" La dictature du prolétariat est plus libre que la démocratie bourgeoise", " Lénine défendait la dictature du prolétariat", -1.0
+" La guerre civile était prévue mais pas voulue par Lénine et les bolchéviks", " Lénine a cherché à créer les conditions de la guerre civile", -1.0
+" Le 20 aout 1918 Lénine désapprouve les terreurs française de 1793 et britannique de 1649", " Lénine a fait l'éloge de la terreur", -1.0
+" Lénine a instauré la terreur dès son arrivée au pouvoir", " Lénine a créé les instruments de la terreur stalinienne", 1.0
+" Lénine a violemment réprimé les paysans", " Lénine a mené la terreur contre ses opposants", 1.0
+" Lénine a cherché à créer les conditions de la guerre civile", " La guerre était au coeur du projet de Lénine", 1.0
+" Lénine a construit un parti-État", " Lénine est le concepteur d'un parti totalitaire", 1.0
+" Lénine a fomenté le coup d'État d'Octobre 17", " Lénine était un ennemi de la démocratie", 1.0
+" Même des bolcheviks avaient dénoncé la dimension totalitaire de Lénine", " Lénine était un être cynique, paranoïaque et avide de pouvoir", 1.0
+" Lénine a organisé les premiers procès truqués ou expéditifs", " Lénine a créé les instruments de la terreur stalinienne", 1.0
+" Lénine était guidé par la volonté de puissance", " Lénine était un être cynique, paranoïaque et avide de pouvoir", 1.0
+" Lénine a interdit les partis et journaux d'opposition", " Lénine était un ennemi de la démocratie", 1.0
+"En 1945 Staline déclare la guerre au Japon afin de venger la défaite russe de 1905 que Lénine avait vue favorablement", " Staline est l'auteur d'une contre-révolution", 1.0
+" Le parti léniniste est le parti d'une avant-garde autoproclamée", " Lénine est le concepteur d'un parti totalitaire", 1.0
+" Tous les régimes communistes ont pratiqué la terreur", " La terreur bolchévik a été dictée par les circonstances", -1.0
+" Lénine a pratiqué l'incarcération, la torture et la déportation", " Lénine a créé les instruments de la terreur stalinienne", 1.0
+" Lénine défendait déjà dans sa jeunesse les vertus de la famine de 1891-1892", " Lénine était un être cynique, paranoïaque et avide de pouvoir", 1.0
+" Lénine au pouvoir a eu plusieurs vies", " La terreur bolchévik a été dictée par les circonstances", 1.0
+"Document sur les cent koulaks à pendre apocryphe : daté ici du 10, ailleurs du 11, contenant par ailleurs une information coupée par des  points de suspension, sur un autre télégramme, à ce jour inexistant.", " Lénine a mené la terreur contre ses opposants", -1.0
+" Lénine considérait la guerre civile comme une guerre sans limite", " La guerre était au coeur du projet de Lénine", 1.0
+" Lénine assimilait la politique à la guerre", " La guerre était au coeur du projet de Lénine", 1.0
+" Lénine a justifié théoriquement la terreur", " Lénine a théorisé et revendiqué la terreur de masse", 1.0
+" Lénine a dissout l'Assemblée constituante de janvier 1918", " Lénine était un ennemi de la démocratie", 1.0
+" Lénine a fait l'éloge de la terreur", " Lénine a théorisé et revendiqué la terreur de masse", 1.0
+" Lénine a réprimé certaines personnes pour leur seule appartenance de classe", " Lénine a mené la terreur contre ses opposants", 1.0
+" En fait de vengeance il épargna en 1918 au moins la veuve d'Alexandre III, Maria Fedorovna, ses filles Olga, Xenia", " Lénine était un être cynique, paranoïaque et avide de pouvoir", -1.0
+" Lénine a violemment réprimé les ecclésiastiques", " Lénine a mené la terreur contre ses opposants", 1.0
+" Lénine a théorisé et réalisé la dictature de la direction bolchévik", " Lénine est le concepteur d'un parti totalitaire", 1.0
+" La terreur est intrinsèque au léninisme", " La terreur bolchévik a été dictée par les circonstances", -1.0
+" La terreur est intrinsèque au léninisme", " Lénine a théorisé et revendiqué la terreur de masse", 1.0
+" Lénine donnait personnellement les ordres", " Lénine a théorisé et revendiqué la terreur de masse", 1.0
+" La guerre était au coeur du projet de Lénine", " Lénine est-il le précurseur de Staline ?", 1.0
+" Staline n'a pas fait assassiner Kirov", " Lénine est-il le précurseur de Staline ?", -1.0
+" Lénine a mené la terreur contre ses opposants", " Lénine est-il le précurseur de Staline ?", 1.0
+" Lénine a théorisé et revendiqué la terreur de masse", " Lénine est-il le précurseur de Staline ?", 1.0
+" La terreur bolchévik a été dictée par les circonstances", " Lénine est-il le précurseur de Staline ?", -1.0
+" Staline est l'auteur d'une contre-révolution", " Lénine est-il le précurseur de Staline ?", -1.0
+" Lénine était un ennemi de la démocratie", " Lénine est-il le précurseur de Staline ?", 1.0
+" Lénine était un être cynique, paranoïaque et avide de pouvoir", " Lénine est-il le précurseur de Staline ?", 1.0
+" Lénine a créé les instruments de la terreur stalinienne", " Lénine est-il le précurseur de Staline ?", 1.0
+" Lénine est le concepteur d'un parti totalitaire", " Lénine est-il le précurseur de Staline ?", 1.0
+" Staline est un héritier calomnié de Lénine", " Lénine est-il le précurseur de Staline ?", -1.0
+" Lénine était empli d'un immense désir de vengeance", " Lénine était un être cynique, paranoïaque et avide de pouvoir", 1.0
+" Lénine a forgé les instruments de répression que Staline n’aura plus qu’à reprendre", " Lénine a créé les instruments de la terreur stalinienne", 1.0
+" Lénine a manipulé les statistiques officielles", " Lénine a créé les instruments de la terreur stalinienne", 1.0
+" Lénine a théorisé et réalisé l'épuration du parti", " Lénine est le concepteur d'un parti totalitaire", 1.0
+" Le manque de démocratie pendant la Révolution russe est un héritage de la société tsariste", " Lénine était un ennemi de la démocratie", -1.0
+" Lénine a exterminé les Cosaques", " Lénine a mené la terreur contre ses opposants", 1.0
+" Le parti léniniste est inspiré d'organisations proto-totalitaires", " Lénine est le concepteur d'un parti totalitaire", 1.0
+" Lénine et Staline ont condamné l'antisémitisme", " Staline est un héritier calomnié de Lénine", 1.0
+" Lénine a théorisé la dictature", " Lénine a théorisé et revendiqué la terreur de masse", 1.0
+" Lénine était un être paranoïaque", " Lénine était un être cynique, paranoïaque et avide de pouvoir", 1.0
+" Le bolchevisme est né en 1903 d'un rejet de la violence terroriste", " Lénine était un être cynique, paranoïaque et avide de pouvoir", -1.0
+" Tous les partis révolutionnaires russes étaient autoritaires et fortement centralisés avant la Révolution russe", " Lénine est le concepteur d'un parti totalitaire", -1.0
+" Le parti bolchévik n'avait pas d’enracinement dans la société civile", " Lénine est le concepteur d'un parti totalitaire", 1.0
+" Lénine a encouragé les actes de terreur", " Lénine a théorisé et revendiqué la terreur de masse", 1.0
+"Lénine a créé une police politique : la Tchéka", " Lénine a créé les instruments de la terreur stalinienne", 1.0
+" Lénine a violemment réprimé les anarchistes", " Lénine a mené la terreur contre ses opposants", 1.0
+" Lénine a restauré la peine de mort dès juin 1918", " Lénine a créé les instruments de la terreur stalinienne", 1.0
+" Lénine a instauré un culte du chef", " Lénine est le concepteur d'un parti totalitaire", 1.0
+" Les pratiques bureaucratiques étaient enracinées dans la société russe", " Lénine est le concepteur d'un parti totalitaire", -1.0
+" Le parti bolchévik avait sa milice privée", " Lénine est le concepteur d'un parti totalitaire", 1.0
+" Lénine a fait massacrer la famille impériale", " Lénine a mené la terreur contre ses opposants", 1.0
+" La Première Guerre mondiale a brutalisé la pensée de Lénine", " Lénine a théorisé et revendiqué la terreur de masse", -1.0
+" Lénine défendait la dictature du prolétariat", " Lénine était un ennemi de la démocratie", 1.0
+" Lénine a fiché et expulsé les intellectuels", " Lénine a mené la terreur contre ses opposants", 1.0
+" Lénine a militarisé le travail", " Lénine a créé les instruments de la terreur stalinienne", 1.0
+" Lénine savait qu'il ne pouvait prendre le pouvoir de façon démocratique", " Lénine était un ennemi de la démocratie", 1.0
+" Lénine reconnaissait et corrigeait ses erreurs", " Staline est l'auteur d'une contre-révolution", 1.0
+" Lénine a organisé un contrôle social par le travail", " Lénine a créé les instruments de la terreur stalinienne", 1.0
+" La politique de collectivisation agricole violente de Staline tournait le dos aux choix de Lénine clamés avec insistance en 1919", " Staline est l'auteur d'une contre-révolution", 1.0
+" Lénine a pratiqué la prise d'otages", " Lénine a créé les instruments de la terreur stalinienne", 1.0
+" Lénine a violemment réprimé les ouvriers", " Lénine a mené la terreur contre ses opposants", 1.0
+" Lénine a violemment réprimé les socialistes", " Lénine a mené la terreur contre ses opposants", 1.0
+" Lénine a encouragé le pillage des riches", " Lénine a créé les instruments de la terreur stalinienne", 1.0
+" Lénine a provoqué des famines pour mater des soulèvements", " Lénine a créé les instruments de la terreur stalinienne", 1.0
+" Lénine a légalisé la violence contre les opposants par la création d'un Code pénal", " Lénine a créé les instruments de la terreur stalinienne", 1.0
+" La guerre civile est au coeur du projet communiste", " La guerre était au coeur du projet de Lénine", 1.0
+" Lénine a cherché à étendre la guerre civile au monde entier", " La guerre était au coeur du projet de Lénine", 1.0
+" Lénine a toujours pris parti pour la démocratie des soviets", " Lénine était un ennemi de la démocratie", -1.0

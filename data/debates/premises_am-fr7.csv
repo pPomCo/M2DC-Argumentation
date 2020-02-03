@@ -1,0 +1,7 @@
+premise, conclusion, weight
+"Plus personne ne va à myrys le mercredi soir", "Je suis dispo semaine prochaine. Mercredi pour ne pas changer les vieilles habitudes?", 1.0
+"Certains travaillent le jeudi", "Je suis dispo semaine prochaine. Mercredi pour ne pas changer les vieilles habitudes?", -0.5
+"Boris doit avoir une date pour s'organiser avec les autorités compétentes", " l'apéro de rentrée existe", -1.0
+"Tout ceci ressemble à un monologue.", " l'apéro de rentrée existe", -1.0
+"Je suis dispo semaine prochaine. Mercredi pour ne pas changer les vieilles habitudes?", " l'apéro de rentrée existe", 1.0
+"Fab, phil et yannick ont plussoyé", " l'apéro de rentrée existe", 1.0

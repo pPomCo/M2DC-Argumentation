@@ -1,0 +1,13 @@
+arg1, arg2, attack_support
+"am-fr69 -> ¬am-fr60", "am-fr60 -> ¬am-fr44", "Attack"
+"am-fr68 -> am-fr60", "am-fr60 -> ¬am-fr44", "Support"
+"am-fr69 -> ¬am-fr60", "am-fr60 -> ¬am-fr44", "Attack"
+"am-fr60 -> ¬am-fr44", "am-fr44 -> ¬am-fr16", "Attack"
+"am-fr68 -> am-fr60", "am-fr60 -> ¬am-fr44", "Support"
+"am-fr43 -> ¬am-fr14", "am-fr14 -> ¬am-fr1", "Attack"
+"am-fr44 -> ¬am-fr16", "am-fr16 -> ¬am-fr1", "Attack"
+"am-fr60 -> ¬am-fr44", "am-fr44 -> ¬am-fr16", "Attack"
+"am-fr45 -> ¬am-fr13", "am-fr13 -> am-fr1", "Attack"
+"am-fr45 -> ¬am-fr13", "am-fr13 -> am-fr1", "Attack"
+"am-fr43 -> ¬am-fr14", "am-fr14 -> ¬am-fr1", "Attack"
+"am-fr44 -> ¬am-fr16", "am-fr16 -> ¬am-fr1", "Attack"

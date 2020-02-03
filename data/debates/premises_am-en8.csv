@@ -1,0 +1,12 @@
+premise, conclusion, weight
+"African Americans are not deemed equal to Whites socially, and therefore the Constitution cannot protect them at the same level as Whites", "This same concept does not apply to SOCIAL protection, or what happens in a local community atmosphere", 1.0
+"This same concept does not apply to SOCIAL protection, or what happens in a local community atmosphere", "African-Americans are granted political equality, as protected and shown by the Supreme Court in previous cases", -1.0
+"Social equality between Whites and Blacks must come naturally and voluntarily, and not through legislation", "Law preserves social norms and preserves public order and peace", -0.5
+"Law preserves social norms and preserves public order and peace", "State 'police power' is enforceable to separate white schools and black schools", 1.0
+"African-Americans are granted political equality, as protected and shown by the Supreme Court in previous cases", "Massachusetts court ruled that schoolboards have ability to make exclusive schools for black children, therefore keeping races separate", -0.5
+"Massachusetts court ruled that schoolboards have ability to make exclusive schools for black children, therefore keeping races separate", "separation of races in public places does NOT mean that one group is inferior to another", 1.0
+"State 'police power' is enforceable to separate white schools and black schools", "separation of races in public places does NOT mean that one group is inferior to another", 1.0
+"'Colored' races are inferior because they give themselves that label", "separation of races in public places does NOT mean that one group is inferior to another", 1.0
+"separation of races in public places does NOT mean that one group is inferior to another", "not eliminate 'distinctions based on color', or protect individuals in a social setting", -0.5
+"not eliminate 'distinctions based on color', or protect individuals in a social setting", "14th Amendment was meant to ensure equality between races politically", -1.0
+"14th Amendment was meant to ensure equality between races politically", " Louisiana law does not infringe upon the 14th Amendment", 1.0

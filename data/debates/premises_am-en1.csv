@@ -1,0 +1,11 @@
+premise, conclusion, weight
+"It should only outline the great and important objects, the rest should be deduced by nature and the people", "A Constitution can not contain all legal codes or laws to lay out all important objects that it rules", 1.0
+"It is the Constitution so it has to be remembered that it is not supposed to state every single factor", "Constitution does not have an enumerated powers create a central bank", -0.5
+"A Constitution can not contain all legal codes or laws to lay out all important objects that it rules", "The Constitution states enumerated powers which do not contain that Congress can establish a bank", -0.5
+"The people are the ones who truly ratified the Constitution making the people the ones who are sovereign", "States do not retain ultimate sovereignty just because they have ratified the Constitution", 1.0
+"necessary does not refer to the only way to do something but can be multiple ways", "Proper and Necessary Clause", 1.0
+"Maryland taxing the bank violates the Supremacy Clause", " Congress has the implied power to establish a bank and federal laws are supreme over state laws", 1.0
+"Proper and Necessary Clause", " Congress has the implied power to establish a bank and federal laws are supreme over state laws", 1.0
+"Constitution does not have an enumerated powers create a central bank", " Congress has the implied power to establish a bank and federal laws are supreme over state laws", -1.0
+"The Constitution states enumerated powers which do not contain that Congress can establish a bank", " Congress has the implied power to establish a bank and federal laws are supreme over state laws", -1.0
+"States do not retain ultimate sovereignty just because they have ratified the Constitution", " Congress has the implied power to establish a bank and federal laws are supreme over state laws", -0.5

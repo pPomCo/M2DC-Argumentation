@@ -1,0 +1,20 @@
+premise, conclusion, weight
+" J'aurais pu faire un autre choix que celui que j'ai fait par le passé", " Le fait que j'aurais pu faire un autre choix que celui que j'ai fait par le passé est invérifiable", -1.0
+" Il y a liberté lorsqu'on ne peut connaitre les conséquences des différents choix possibles", " La volonté est toujours déterminée par le motif de poursuivre son bien ou son avantage", -1.0
+"Rien ne montre l'existence d'un dieu", " Les religions affirment la liberté humaine", -1.0
+" Seules des influences extérieures à l'individu peuvent le priver de liberté", " La volonté est toujours déterminée par le motif de poursuivre son bien ou son avantage", -1.0
+" Les limites à notre liberté sont créatrices de liberté", " Nous ne sommes pas libres de voler dans les airs, de respirer sous l'eau ni de vivre deux-cents ans", -1.0
+" Des changements culturels et des basculements civilisationnels sont possibles", " Les comportements humains sont réguliers et prévisibles", -1.0
+"Rien de scientifique ne le montre", " Le cerveau repose sur des particules indéterminées", -1.0
+" Il n'est pas besoin de supposer le libre arbitre d'un individu pour le juger", " Si les humains ne sont pas libres, il n'y a plus d'éthique et de justice", -1.0
+" Nous ne sommes pas conscients des causes qui nous déterminent", " J'ai le sentiment d'être libre", -1.0
+" Le libre-arbitre n'est pas la liberté de faire ce qu'il nous plait", " Nous ne sommes pas libres de voler dans les airs, de respirer sous l'eau ni de vivre deux-cents ans", -1.0
+" Si les humains ne sont pas libres, il n'y a plus d'éthique et de justice", " Sommes-nous libres de nos décisions ?", 1.0
+" Les religions affirment la liberté humaine", " Sommes-nous libres de nos décisions ?", 1.0
+" La volonté est toujours déterminée par le motif de poursuivre son bien ou son avantage", " Sommes-nous libres de nos décisions ?", -1.0
+" Les comportements humains sont réguliers et prévisibles", " Si les humains ne sont pas libres, il n'y a plus d'éthique et de justice", -1.0
+" Les comportements humains sont réguliers et prévisibles", " Sommes-nous libres de nos décisions ?", -1.0
+" Le cerveau repose sur des particules indéterminées", " Sommes-nous libres de nos décisions ?", 1.0
+" J'ai le sentiment d'être libre", " Sommes-nous libres de nos décisions ?", 1.0
+" Nous ne sommes pas libres de voler dans les airs, de respirer sous l'eau ni de vivre deux-cents ans", " Sommes-nous libres de nos décisions ?", -1.0
+" Le fait que j'aurais pu faire un autre choix que celui que j'ai fait par le passé est invérifiable", " Sommes-nous libres de nos décisions ?", -1.0

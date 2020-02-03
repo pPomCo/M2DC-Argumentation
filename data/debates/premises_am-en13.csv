@@ -1,0 +1,12 @@
+premise, conclusion, weight
+"As the Board of Education of Topeka's policies currently state, there is no level of equality amongst all children.", "Compulsory school attendance laws have gone into effect to enhance the importance of educating the youth of the country.", -0.5
+"Compulsory school attendance laws have gone into effect to enhance the importance of educating the youth of the country.", "Education has become one of the most important functions of state and local governments.", 1.0
+"In order for children to succeed in life, they need to get a quality education.", "Education has become one of the most important functions of state and local governments.", 1.0
+"Education has become one of the most important functions of state and local governments.", "The educational system has changed in the United States since the Plessy decision in 1896.", 1.0
+"The educational system has changed in the United States since the Plessy decision in 1896.", "Previous jurisprudence by Court has allowed for segregation through 'Separate but Equal' doctrine.", -1.0
+"Separate doesn't always mean equal because of the lack of equal funding to schools for colored children.", "Previous jurisprudence by Court has allowed for segregation through 'Separate but Equal' doctrine.", -1.0
+"This enhances the feeling of inferiority of colored children to their white counterparts.", "It has the backing of the legal system.", 1.0
+"It has the backing of the legal system.", "The negative impact it has on the self-worth of colored children.", 1.0
+"Previous jurisprudence by Court has allowed for segregation through 'Separate but Equal' doctrine.", "It is alleged to deprive negro children of equal protection under the Fourteenth Amendment.", -0.5
+"The negative impact it has on the self-worth of colored children.", " Separate educational facilities for different races are inherently unequal.", 1.0
+"It is alleged to deprive negro children of equal protection under the Fourteenth Amendment.", " Separate educational facilities for different races are inherently unequal.", 1.0

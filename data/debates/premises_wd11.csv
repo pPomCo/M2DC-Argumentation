@@ -1,0 +1,88 @@
+premise, conclusion, weight
+" Le tabac et l'alcool sont attractifs parce que de nombreux intérêts s'emploient à les rendre attractifs", " Le tabac et l'alcool, licites, sont très attractifs", -1.0
+" L'interdiction du cannabis est plus dissuasive qu'attractive", " L'interdit rend le cannabis plus attractif", -1.0
+" Le pouvoir addictif du cannabis est assez faible", " Le pouvoir addictif du cannabis est important", -1.0
+" En cas de légalisation du cannabis, les trafics se reporteraient sur d'autres produits, à moins de légaliser toutes les drogues, ce qui parait difficile", " La légalisation du cannabis mettrait fin aux trafics", -1.0
+" Les études américaines sur le lien entre cannabis et consommation d'alcool ne vont pas toutes dans le même sens", " La légalisation du cannabis peut faire baisser la consommation d'alcool", -1.0
+" Ce ne sont pas l'alcool et le tabac qui sont dangereux mais leur abus", " L'alcool et le tabac sont autorisés alors qu’ils sont plus dangereux que le cannabis", -1.0
+" Comme on le constate avec le tabac, si le prix du cannabis légalisé est trop élevé, le marché noir va se maintenir", " La légalisation du cannabis mettrait fin aux trafics", -1.0
+" Avant de supprimer la loi de 1970 sur les drogues, il faut la faire appliquer", " Conserver les sanctions pénales de la loi de 1970 sur les drogues qui ne sont pratiquemment plus appliquées n'est pas sain", -1.0
+" Ce n'est pas le cannabis seul qui fait la dangerosité", " Le cannabis est dangereux pour la santé physique et mentale", -1.0
+" La loi de 1970 sur les drogues a été conçue en réponse à l'extension du cannabis", " La loi de 1970 sur les drogues n'a pas été faite pour le cannabis", -1.0
+" Il y aura toujours un marché prohibé du cannabis, le marché destiné aux mineurs", " La légalisation du cannabis mettrait fin aux trafics", -1.0
+" Il faut faire preuve de pédagogie envers la consommation de cannabis", " Les sanctions contre les consommateurs de cannabis ne sont pas dissuasives", -1.0
+" Des faits montrent que les sanctions contre les consommateurs de cannabis peuvent être dissuasives", " Les sanctions contre les consommateurs de cannabis ne sont pas dissuasives", -1.0
+" Le tabac et l'alcool, licites, sont très attractifs", " L'interdit rend le cannabis plus attractif", -1.0
+"Certains pays ont légalisé l'utilisation thérapeutique sans que l'utilisation récréative le soit. On peut les dissocier.", " La dépénalisation du cannabis récréatif ouvrirait la voie à l'utilisation thérapeutique", -1.0
+" On peut réduire les risques du cannabis en jouant sur le mode de consommation", " Le cannabis est dangereux pour la santé physique et mentale", -1.0
+" Le cannabis en lui-même n'est pas dangereux, c'est sa consommation précoce qui l'est", " Le cannabis est dangereux pour la santé physique et mentale", -1.0
+" L'absence de garantie sur la qualité du produit présente elle-même des risques", " Le cannabis est dangereux pour la santé physique et mentale", -1.0
+" Il n'est pas légitime de punir quelqu'un pour un dommage qu'il se fait à lui-même", " Le cannabis est dangereux pour la santé physique et mentale", -1.0
+" Le pouvoir addictif du cannabis n'est ni faible ni fort en soi, il dépend de son niveau d'usage", " Le pouvoir addictif du cannabis est important", -1.0
+" La liberté de consommer du cannabis est la liberté de devenir esclave", " La prohibition du cannabis est contraire à la liberté individuelle", -1.0
+" La dangerosité du cannabis est faible. On ne peut pas mourir d'une overdose", " Le cannabis est dangereux pour la santé physique et mentale", -1.0
+" Si le cannabis est légalisé avec des restrictions (interdiction des produits fortement dosés en THC, fichage des consommateurs...), certains consommateurs continueront à se fournir au marché noir", " La légalisation du cannabis mettrait fin aux trafics", -1.0
+"Si le cannabis est dangereux, pourquoi en confier la gestion au crime organisé ?", " Le cannabis est dangereux pour la santé physique et mentale", -1.0
+" Il y a des signes de fléchissement de la consommation de cannabis", " La consommation de cannabis augmente en France", -1.0
+" La dépendance à une drogue ne se produit pas indépendamment de la personne et de son environnement. La drogue est un moyen d'adaptation à la vie, pas une cause", " Le pouvoir addictif du cannabis est important", -1.0
+" Autant on peut boire de l'alcool sans être saoul, autant le but de fumer du cannabis est de planer", " L'alcool et le tabac sont autorisés alors qu’ils sont plus dangereux que le cannabis", -1.0
+" L'utilisation thérapeutique du cannabis n'est pas sans danger", " La dépénalisation du cannabis récréatif ouvrirait la voie à l'utilisation thérapeutique", -1.0
+" La lutte contre les trafics de cannabis coûte cher, et c'est un échec", " La prohibition du cannabis est préjudiciable à la société", 1.0
+" Le pouvoir addictif du cannabis est important", " Il faut protéger l'individu contre les dangers du cannabis", 1.0
+" La prohibition du cannabis ne fait pas de distinction entre usage simple et toxicomanie", " La prohibition du cannabis manque de légitimité", 1.0
+" La dépénalisation du cannabis serait bénéfique", " Faut-il légaliser le cannabis ?", 1.0
+" La prohibition du cannabis est inefficace", " Faut-il légaliser le cannabis ?", 1.0
+" Il faut protéger l'individu contre les dangers du cannabis", " Faut-il légaliser le cannabis ?", -1.0
+" La prohibition du cannabis est efficace", " Faut-il légaliser le cannabis ?", -1.0
+"La dépénalisation n'est ni possible ni souhaitable", " Faut-il légaliser le cannabis ?", -1.0
+" La prohibition du cannabis est préjudiciable à la société", " Faut-il légaliser le cannabis ?", 1.0
+" La prohibition du cannabis manque de légitimité", " Faut-il légaliser le cannabis ?", 1.0
+"La dépénalisation serait préjudiciable", " Faut-il légaliser le cannabis ?", -1.0
+"La société doit se protéger", " Faut-il légaliser le cannabis ?", -1.0
+" La prohibition du cannabis est préjudiciable aux usagers", " Faut-il légaliser le cannabis ?", 1.0
+" La loi de 1970 sur les drogues est inadaptée", " Faut-il légaliser le cannabis ?", 1.0
+" La légalisation du cannabis peut faire baisser la mortalité par overdose d'opiacés", " La dépénalisation du cannabis serait bénéfique", 1.0
+" La prohibition du cannabis expose les usagers à l’univers des dealers et à des drogues plus dures", " La prohibition du cannabis est préjudiciable aux usagers", 1.0
+" L'alcool et le tabac sont autorisés alors qu’ils sont plus dangereux que le cannabis", " La prohibition du cannabis manque de légitimité", 1.0
+" La consommation de cannabis augmente en France", " La prohibition du cannabis est efficace", -1.0
+" La consommation de cannabis augmente en France", " La prohibition du cannabis est inefficace", 1.0
+" La prohibition du cannabis est contraire à la liberté individuelle", " La prohibition du cannabis manque de légitimité", 1.0
+" Conserver les sanctions pénales de la loi de 1970 sur les drogues qui ne sont pratiquemment plus appliquées n'est pas sain", " La loi de 1970 sur les drogues est inadaptée", 1.0
+" La légalisation du cannabis peut faire baisser la consommation d'alcool", " La dépénalisation du cannabis serait bénéfique", 1.0
+" La prohibition du cannabis entraîne une perte importante de recettes pour l'Etat et laisser se développer un marché échappant à toute taxe revient même à le subventionner", " La prohibition du cannabis est préjudiciable à la société", 1.0
+" La loi de 1970 sur les drogues est trop diversement appliquée", " La loi de 1970 sur les drogues est inadaptée", 1.0
+" La légalisation du cannabis mettrait fin aux trafics", " La dépénalisation du cannabis serait bénéfique", 1.0
+" Le cannabis potentialise les effets de l’alcool et du tabac", " Il faut protéger l'individu contre les dangers du cannabis", 1.0
+" La production clandestine de cannabis est à l'origine de nombreux incendies", " La prohibition du cannabis est préjudiciable à la société", 1.0
+" La prohibition du cannabis entrave la prévention et les soins", " La prohibition du cannabis est préjudiciable aux usagers", 1.0
+" La dépénalisation du cannabis récréatif ouvrirait la voie à l'utilisation thérapeutique", " La dépénalisation du cannabis serait bénéfique", 1.0
+" L'interdiction du cannabis peut être contournée", " La prohibition du cannabis est efficace", -1.0
+" L'interdiction du cannabis peut être contournée", " La prohibition du cannabis est inefficace", 1.0
+" La prohibition passe à côté des motifs de la consommation", " La prohibition du cannabis est efficace", -1.0
+" La prohibition passe à côté des motifs de la consommation", " La prohibition du cannabis est inefficace", 1.0
+"La prohibition génère beaucoup de contrôles qui peuvent toucher tout le monde", " La prohibition du cannabis est préjudiciable à la société", 1.0
+" La dépénalisation du cannabis permettrait de vider les prisons, soulager les policiers, la justice", " La dépénalisation du cannabis serait bénéfique", 1.0
+" Le cannabis est dangereux pour la santé physique et mentale", " Il faut protéger l'individu contre les dangers du cannabis", 1.0
+" L'interdit attaché au cannabis dépend des époques et des cultures", " La prohibition du cannabis manque de légitimité", 1.0
+" La légalisation du cannabis peut faire baisser la criminalité", " La dépénalisation du cannabis serait bénéfique", 1.0
+" Une économie parallèle cherche toujours à élargir son marché, alors qu'une distribution contrôlée cherche au contraire à le réduire", " La prohibition du cannabis est préjudiciable à la société", 1.0
+" L'interdit rend le cannabis plus attractif", " La prohibition du cannabis est efficace", -1.0
+" L'interdit rend le cannabis plus attractif", " La prohibition du cannabis est inefficace", 1.0
+" La loi de 1970 sur les drogues n'est plus comprise par les usagers", " La loi de 1970 sur les drogues est inadaptée", 1.0
+" Le cannabis reste très accessible", " La prohibition du cannabis est efficace", -1.0
+" Le cannabis reste très accessible", " La prohibition du cannabis est inefficace", 1.0
+" La loi de 1970 sur les drogues n'a jamais été évaluée", " La loi de 1970 sur les drogues est inadaptée", 1.0
+" La loi de 1970 sur les drogues focalise trop sur les usagers", " La loi de 1970 sur les drogues est inadaptée", 1.0
+" La prohibition du cannabis accroît la rentabilité du cannabis en faisant monter les prix", " La prohibition du cannabis est préjudiciable à la société", 1.0
+" Avec la prohibition du cannabis, une partie des usagers subit les conséquences de séjours en prison et/ou d'une inscription au casier judiciaire", " La prohibition du cannabis est préjudiciable aux usagers", 1.0
+" La prohibition du cannabis entraîne clandestinité, exclusion sociale, sentiment de discrimination", " La prohibition du cannabis est préjudiciable aux usagers", 1.0
+" Les sanctions contre les consommateurs de cannabis ne sont pas dissuasives", " La prohibition du cannabis est efficace", -1.0
+" Les sanctions contre les consommateurs de cannabis ne sont pas dissuasives", " La prohibition du cannabis est inefficace", 1.0
+" La loi de 1970 sur les drogues est difficilement applicable", " La loi de 1970 sur les drogues est inadaptée", 1.0
+" La prévention des drogues a un meilleur rapport coût-efficacité que la répression", " La dépénalisation du cannabis serait bénéfique", 1.0
+" La loi de 1970 sur les drogues n'a pas été faite pour le cannabis", " La loi de 1970 sur les drogues est inadaptée", 1.0
+" Les comportements addictifs sont très peu sensibles aux lois", " La prohibition du cannabis est efficace", -1.0
+" Les comportements addictifs sont très peu sensibles aux lois", " La prohibition du cannabis est inefficace", 1.0
+" La prohibition du cannabis ne donne aucune garantie de qualité des produits", " La prohibition du cannabis est préjudiciable aux usagers", 1.0
+" Ce n'est pas parce qu'une politique a échoué que l'on doit y renoncer", " La prohibition du cannabis est inefficace", -1.0
+"Elle entraîne le développement d'une économie parallèle très lucrative avec ses conséquences : corruption, blanchiment d’argent, recrutement de jeunes, violence, insécurité, trafic d'armes", " La prohibition du cannabis est préjudiciable à la société", 1.0

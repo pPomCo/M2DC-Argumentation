@@ -1,0 +1,19 @@
+premise, conclusion, weight
+"Ryszard Fenigsen w swojej pracy „Przysięga Hipokratesa” twierdzi, że co najmniej 20%, a prawdopodobnie ok. 40% rozpoznań jest błędnych.", "Liczba błędnych prognoz medycznych dotyczących przeżycia pacjentów jest tak duża, że byłoby naiwnością wierzyć, że medycyna na obecnym etapie jej rozwoju w ogóle uzasadnia formułowanie tego rodzaju przepowiedni.", 1.0
+"Liczba błędnych prognoz medycznych dotyczących przeżycia pacjentów jest tak duża, że byłoby naiwnością wierzyć, że medycyna na obecnym etapie jej rozwoju w ogóle uzasadnia formułowanie tego rodzaju przepowiedni.", "Nie wie tego nawet lekarz.", 1.0
+"Pacjent przeżywa cierpienia fizyczne o ogromnej intensywności.", "Zachodzi wątpliwość, czy pacjent jest w stanie podejmować racjonalne decyzje.", 1.0
+"Nie wie tego nawet lekarz.", "Pacjent nie może wiedzieć na pewno, ile miesięcy czy lat może przeżyć ze swoją chorobą.", 1.0
+"Pacjent nie może wiedzieć na pewno, ile miesięcy czy lat może przeżyć ze swoją chorobą.", "Cierpiący pacjent potrafi podjąć w pełni autonomiczną decyzję, tj. posiada odpowiednią wiedzę na temat swojego stanu zdrowia – czyli wie, że choroba powodująca jego cierpienie jest nie tylko nieuleczalna i śmiertelna, ale chwila jego śmierci jest nieodległa.", -1.0
+"Zachodzi wątpliwość, czy pacjent jest w stanie podejmować racjonalne decyzje.", "Pacjent jest w stanie racjonalnie rozważyć wszystkie racje przemawiające „za” i „przeciw” decyzji o eutanazji.", -1.0
+"Jeśli powstanie wśród lekarzy klimat przyzwolenia na eutanazję, to wśród pacjentów, a także ich rodzin, będzie rodzić się podejrzenie, czy lekarz rzeczywiście robi wszystko, co możliwe, aby uratować życie pacjenta.", "Legalizacja eutanazji zrodziłaby pękniecie w tym etosie lekarskim.", 1.0
+"Lekarze mogliby dokonywać eutanazji wbrew woli pacjenta, powołując się na względy humanitarne.", "Eutanazja jest wyrazem humanitaryzmu.", -1.0
+"Cierpiący pacjent potrafi podjąć w pełni autonomiczną decyzję, tj. posiada odpowiednią wiedzę na temat swojego stanu zdrowia – czyli wie, że choroba powodująca jego cierpienie jest nie tylko nieuleczalna i śmiertelna, ale chwila jego śmierci jest nieodległa.", "Eutanazja jest wyrazem szacunku dla autonomii cierpiącej osoby.", 1.0
+"Eutanazja przyczynia się do zwiększenia dobrostanu jednostki oraz realizacji postulatu minimalizacji cierpienia w świecie.", "Eutanazja jest wyrazem humanitaryzmu.", 1.0
+"Eutanazja jest uzasadniona, gdy decyzja pacjenta jest autonomiczna, a jego cierpienie jest niewyobrażalne i nie daje się uśmierzyć.", "Argumenty „za” uzasadniają eutanazję tylko w nielicznych przypadkach.", 1.0
+"Lekarz miałby prawo doprowadzić do śmierci pacjenta.", "Legalizacja eutanazji zrodziłaby pękniecie w tym etosie lekarskim.", 1.0
+"Popierając argument, nie bierze się pod uwagę możliwości uśmierzenia bólu pacjenta.", "Eutanazja jest wyrazem humanitaryzmu.", -1.0
+"Pacjent jest w stanie racjonalnie rozważyć wszystkie racje przemawiające „za” i „przeciw” decyzji o eutanazji.", "Eutanazja jest wyrazem szacunku dla autonomii cierpiącej osoby.", 1.0
+"Eutanazja jest wyrazem humanitaryzmu.", " Należy zalegalizować eutanazję.", 1.0
+"Eutanazja jest wyrazem szacunku dla autonomii cierpiącej osoby.", " Należy zalegalizować eutanazję.", 1.0
+"Argumenty „za” uzasadniają eutanazję tylko w nielicznych przypadkach.", " Należy zalegalizować eutanazję.", -1.0
+"Legalizacja eutanazji zrodziłaby pękniecie w tym etosie lekarskim.", " Należy zalegalizować eutanazję.", -1.0

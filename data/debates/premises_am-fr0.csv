@@ -1,0 +1,4 @@
+premise, conclusion, weight
+"l'installation est difficile sans avoir un développeur expert à disposition, je sais, je l'ai essayé en suivant toutes les instructions méticuleusement, je n'ai pas encore réussi (mais je ne suis pas expert du sysadmin)", "Arguman est open source et peut-être téléchargé et installé librement sur un serveur web privé (liens dans la rubrique 'à propos' du site)", -0.5
+"cela permettra de faire des débats privés et/ou de se créer ses propres arbres d'argumentation afin d'améliorer notre esprit critique", " Arguman devrait créer un espace privé", 1.0
+"Arguman est open source et peut-être téléchargé et installé librement sur un serveur web privé (liens dans la rubrique 'à propos' du site)", " Arguman devrait créer un espace privé", -1.0

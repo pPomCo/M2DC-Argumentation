@@ -1,0 +1,26 @@
+premise, conclusion, weight
+"Tout système d'évaluation peut être biaisé.", " Les notes sont biaisées", -1.0
+"Il n'y a pas besoin de notes pour situer les élèves", " Les notes permettent de situer les élèves", -1.0
+" Les notes donnent une idée vague des apprentissages", " La notation est un système juste et précis", -1.0
+"L'absence de notes ne garantit pas qu'un élève tend à s'améliorer", " Les notes sont injustes", -1.0
+"Une note est toujours assortie de commentaires qui expliquent la note.", " Une note ne dit pas ce qu'elle évalue (contrairement aux compétences)", -1.0
+"Les notes motivent surtout les meilleurs", " Les notes motivent les élèves à travailler", -1.0
+"La précision des notes n'est pas très utile", " La notation est un système juste et précis", -1.0
+"Les notes sont de mauvais indicateurs pour situer un élève", " Les notes permettent de situer les élèves", -1.0
+"Y a t'il besoin de situer précisément des élèves lorsque le but est d'atteindre un niveau ?", " Les notes permettent de situer les élèves", -1.0
+"Les notes stigmatisent", " Les notes motivent les élèves à travailler", -1.0
+"Les notes n'apprennent pas aux élèves à être autonomes", " Les notes motivent les élèves à travailler", -1.0
+"Les notes découragent", " Les notes motivent les élèves à travailler", -1.0
+"La note situe par rapport à quoi ?", " Les notes permettent de situer les élèves", -1.0
+"La notation est le moins mauvais des systèmes", " Faut-il supprimer les notes à l'école ?", -1.0
+" La notation est un système juste et précis", " Faut-il supprimer les notes à l'école ?", -1.0
+" Une note ne dit pas ce qu'elle évalue (contrairement aux compétences)", " Faut-il supprimer les notes à l'école ?", 1.0
+" Les notes motivent les élèves à travailler", " Faut-il supprimer les notes à l'école ?", -1.0
+" Il existe de meilleurs systèmes d'évaluation que les notes", " Faut-il supprimer les notes à l'école ?", 1.0
+" Les notes sont biaisées", " La notation est un système juste et précis", -1.0
+" Les notes sont biaisées", " Faut-il supprimer les notes à l'école ?", 1.0
+"Les notes sont un fétichisme à dépasser", " Faut-il supprimer les notes à l'école ?", 1.0
+"Les notes sont une source de stress et de mal-être", " Faut-il supprimer les notes à l'école ?", 1.0
+" Les notes permettent de situer les élèves", " Faut-il supprimer les notes à l'école ?", -1.0
+" Les notes sont injustes", " Faut-il supprimer les notes à l'école ?", 1.0
+"Les notes renforcent la compétition entre les élèves", " Faut-il supprimer les notes à l'école ?", 1.0

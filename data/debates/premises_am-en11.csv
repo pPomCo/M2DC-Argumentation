@@ -1,0 +1,8 @@
+premise, conclusion, weight
+"Limiting/restraining a person's voice goes against everything the First Amendment represents.", "The courts cannot punish the speaker solely because it upset another group of people.", 1.0
+"The courts cannot punish the speaker solely because it upset another group of people.", "The messages conveyed by Westboro were in connection with the funeral.", -0.5
+"The messages conveyed by Westboro were in connection with the funeral.", "Westboro’s speech was at a public place and on a topic of public concern. The speech is entitled to “special protection” under the First Amendment.", -1.0
+"Snyder reported damage to mental health and the damage caused him to become physically ill. Medical experts confirmed it had worsened Snyder's diabetes and depression.", "Westboro’s speech was at a public place and on a topic of public concern. The speech is entitled to “special protection” under the First Amendment.", -1.0
+"The picketing was done peacefully with no shouting or violence. The authorities were notified ahead of time and monitored the protest. The picketing took place 1,000 feet away from the funeral service, out of sight from the church the service was being held at.", " Protest and hate speech is shielded by The First Amendment (Snyder v. Phelps)", 1.0
+"The First Amendment protection of speech is guaranteed right to all citizens.", " Protest and hate speech is shielded by The First Amendment (Snyder v. Phelps)", 1.0
+"Westboro’s speech was at a public place and on a topic of public concern. The speech is entitled to “special protection” under the First Amendment.", " Protest and hate speech is shielded by The First Amendment (Snyder v. Phelps)", 1.0

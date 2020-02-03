@@ -1,0 +1,6 @@
+premise, conclusion, weight
+" Prendre le pouvoir est bien plus efficace que les actions individuelles", " On peut chacun faire des petites actions qui en groupe peuvent changer le monde", -1.0
+" Prendre le pouvoir est bien plus efficace que les actions individuelles", " Peut-on changer le monde sans prendre le pouvoir ?", -1.0
+" On peut chacun faire des petites actions qui en groupe peuvent changer le monde", " Peut-on changer le monde sans prendre le pouvoir ?", 1.0
+" Sans prendre le pouvoir, il n'y a pas de réel changement", " Peut-on changer le monde sans prendre le pouvoir ?", -1.0
+" On peut changer le monde en s'engageant ou soutenant des oeuvres caritatives", " Peut-on changer le monde sans prendre le pouvoir ?", 1.0

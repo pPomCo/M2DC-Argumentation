@@ -1,0 +1,13 @@
+arg1, arg2, attack_support
+"am-ch501 -> am-ch253", "am-ch253 -> ¬am-ch17", "Support"
+"am-ch500 -> ¬am-ch250", "am-ch250 -> am-ch17", "Attack"
+"am-ch502 -> ¬am-ch254", "am-ch254 -> ¬am-ch17", "Attack"
+"am-ch497 -> ¬am-ch250", "am-ch250 -> am-ch17", "Attack"
+"am-ch499 -> ¬am-ch250", "am-ch250 -> am-ch17", "Attack"
+"am-ch498 -> ¬am-ch252", "am-ch252 -> am-ch17", "Attack"
+"am-ch501 -> am-ch253", "am-ch253 -> ¬am-ch17", "Support"
+"am-ch498 -> ¬am-ch252", "am-ch252 -> am-ch17", "Attack"
+"am-ch497 -> ¬am-ch250", "am-ch250 -> am-ch17", "Attack"
+"am-ch500 -> ¬am-ch250", "am-ch250 -> am-ch17", "Attack"
+"am-ch499 -> ¬am-ch250", "am-ch250 -> am-ch17", "Attack"
+"am-ch502 -> ¬am-ch254", "am-ch254 -> ¬am-ch17", "Attack"

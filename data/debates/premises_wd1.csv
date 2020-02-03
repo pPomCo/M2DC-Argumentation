@@ -1,0 +1,167 @@
+premise, conclusion, weight
+" Ce n'est pas le hasard mais la sélection naturelle qui permet d'expliquer la création l'adaptation et la complexité des espèces", " Le hasard ne peut suffire à expliquer la création, l'adaptation et la complexité des espèces", -1.0
+"Dieu est un être simple", " Postuler un être complexe tel que Dieu ne permet pas d'expliquer la complexité", -1.0
+" Des milliers de personnes ont assisté au miracle de Fatima", " Les prétendus miracles reposent sur des témoignages qui ne sont pas fiables", -1.0
+"Dieu est à l'image de l'homme parce que l'homme est à l'image de Dieu", " Un Dieu à l'image de l'homme est trop humain pour être crédible", -1.0
+" Le hasard ne peut suffire à expliquer la création, l'adaptation et la complexité des espèces", " La création, l'adaptation et la complexité des espèces s'expliquent par la théorie de la sélection naturelle", -1.0
+" L'argument selon lequel Dieu n'existe pas car il n'existe pas de premier instant du temps commet la même erreur que Zénon dans son paradoxe", " Il n'existe pas de premier instant du temps", -1.0
+"Ce qui est peu crédible peut être vrai", " Un Dieu à l'image de l'homme est trop humain pour être crédible", -1.0
+" Le rapprochement entre l'argument du kalam et le paradoxe de Zénon ne tient pas", " L'argument du kalam commet la même erreur que Zénon dans son paradoxe", -1.0
+"Les lois physiques sont des conséquences des propriétés de la matière", " Dieu explique l'existence des lois de la nature", -1.0
+" Il existe un très grand nombre de planètes favorables à la vie", " Dieu explique l'apparition de la vie", -1.0
+" La présentation de l'argument du kalam est trompeuse", " Dieu existe car il ne peut y avoir un passé infini", -1.0
+" La nécessité qu'il existe quelque chose suppose qu'il existe Dieu", " L'univers est contingent", -1.0
+" Le raisonnement selon lequel un être nécessaire ne peut engendrer qu'un univers nécessaire confond implication logique et lien causal", " L'univers est contingent", -1.0
+" L'hypothèse d'un Dieu est encore plus improbable que celle de l'apparition de la vie", " Dieu explique l'apparition de la vie", -1.0
+"Les prétendues expériences mystiques sont des histoires inventées de toutes pièces", " Les expériences mystiques attestent la présence de Dieu", -1.0
+" L'existence de Dieu est encore plus improbable que ce que Dieu est censé avoir créé", " Dieu est une explication inexplicable", 1.0
+"Si la Providence existait, elle éviterait bien des évènements injustes", " Les manifestations de la Providence attestent l'intervention de Dieu", -1.0
+" La cause première ne peut pas être une abstraction", " Il n'y a pas de raison que ce soit Dieu la cause première", -1.0
+"Le monde a eu un commencement et par conséquent a une cause première", " Tout a une cause, et Dieu en particulier", -1.0
+" Qu'on ne soit pas capable d'expliquer Dieu n'empêche pas qu'il puisse exister", " Dieu est une explication inexplicable", -1.0
+" Ceux qui parlent de création à partir de rien jouent sur les mots", " L'univers s'est créé à partir de rien", -1.0
+"Il faut suivre le principe de vérité de nos sens", " Le principe de causalité ne s'applique pas à l'univers", -1.0
+"L'existence de la vie s'explique par des mécanismes physico-chimiques hasardeux", " Dieu explique l'apparition de la vie", -1.0
+"Il existe des invariants moraux qu'on retrouve dans toutes les sociétés", " Les valeurs morales sont relatives à une société donnée", -1.0
+"Ce raisonnement ne vaut que pour un temps fini", " Dieu existe car il ne peut y avoir un passé infini", -1.0
+"Les manifestations de la Providence sont de simples coïncidences sur lesquelles on projette une interprétation religieuse", " Les manifestations de la Providence attestent l'intervention de Dieu", -1.0
+"Ce qui est peu crédible peut être vrai", " Un Dieu à l'image de l'homme est trop humain pour être crédible", -1.0
+"Il existe des invariants moraux qu'on retrouve dans toute l'histoire humaine", " Les valeurs morales évoluent avec le temps", -1.0
+" Un Dieu à l'image de l'homme est trop humain pour être crédible", " Dieu rend compte du plan d'ensemble du monde", -1.0
+" Que Dieu ait réussi à ajuster les lois de l'univers est au moins aussi improbable que son existence", " Dieu explique l'ajustement très improbable des constantes fondamentales de l'univers", -1.0
+"La science ne poura jamais expliquer certains phénomènes fondamentaux comme la vie ou la conscience", " L'ordre et la complexité du monde s'expliquent par la science", -1.0
+" Les arguments en faveur des miracles sont toujours plus improbables que les explications rationnelles", " Les miracles attestent l'intervention directe de Dieu", -1.0
+" L'existence de l'univers s'explique par la chaîne infinie des causes des évènements physiques", " Dieu existe car il ne peut y avoir une infinité de causes", -1.0
+" La cause première a une conscience", " Il n'y a pas de raison que ce soit Dieu la cause première", -1.0
+" Les prétendues expériences mystiques sont des vécus subjectifs qui ne prouvent pas l'existence de Dieu", " Les expériences mystiques attestent la présence de Dieu", -1.0
+"Dieu a voulu l'homme", " L'ordre et la complexité du monde supposent seulement une Intelligence suprême indifférente aux hommes", -1.0
+"L'expérience commune du réel est stable", " Le monde n'est pas ordonné mais chaotique", -1.0
+"Les Révélations montrent que le Créateur s'intéresse aux humains", " L'ordre et la complexité du monde supposent seulement une Intelligence suprême indifférente aux hommes", -1.0
+"Le devoir moral s'oppose souvent à l'intérêt biologique des espèces", " Les valeurs morales sont le résultat de l'évolution", -1.0
+" Un être nécessaire ne peut engendrer qu'un univers contingent", " L'univers est contingent", -1.0
+"Si l'ordre était une projection de l'esprit humain, la prédiction scientifique serait impossible", " La notion d'ordre est une projection de l'esprit humain", -1.0
+" L'idée d'un temps sans commencement est inconcevable car contradictoire", " L'univers n'a pas de commencement", -1.0
+"Les Révélations des textes sacrés proviennent d'êtres invisibles qui ne sont pas Dieu", " Les Révélations conservées dans les textes sacrés attestent l'intervention de Dieu", -1.0
+"Parce que Dieu est un Être simple, il n'a pas besoin d'explication", " Dieu est une explication inexplicable", -1.0
+" L'exception au principe de raison suffisante mérite une justification", " L'univers n'a pas de cause ni de raison d'être", -1.0
+"Cet ajustement fin est relativement probable", " Dieu explique l'ajustement très improbable des constantes fondamentales de l'univers", -1.0
+"Les textes sacrés sont truffés d'erreurs et de contradictions", " Les Révélations conservées dans les textes sacrés attestent l'intervention de Dieu", -1.0
+" Il y a une infinité de Big Bangs et de Big Crunches", " L'univers a commencé d'exister avec le Big Bang", -1.0
+" Sans cause première, la série des causes ne peut être expliquée", " Le principe de causalité ne s'applique pas à l'univers", -1.0
+"Les lois de la nature sont des constructions de l'esprit humain", " Dieu explique l'existence des lois de la nature", -1.0
+" Il n'existe pas de premier instant du temps", " Dieu existe car il ne peut y avoir un passé infini", -1.0
+" Les expériences mystiques n'arrivent qu'aux personnes de culture religieuse", " Les expériences mystiques attestent la présence de Dieu", -1.0
+" Il faut se méfier des analogies utilisées pour montrer l'existence d'un dieu", " Dieu rend compte du plan d'ensemble du monde", -1.0
+" Les prétendus miracles sont des illusions du cerveau humain", " Les miracles attestent l'intervention directe de Dieu", -1.0
+" La causalité n'est pas liée à la succession temporelle", " L'univers n'a pas de cause ni de raison d'être", -1.0
+" Le commencement n'est pas l'origine", " L'univers n'a pas de commencement", -1.0
+"Les miracles sont des phénomènes paranormaux qui n'impliquent pas l'existence de Dieu", " Les miracles attestent l'intervention directe de Dieu", -1.0
+"La conscience est le reflet d'un Absolu impersonnel", " Dieu explique l'existence de la conscience", -1.0
+" Le sophisme de composition n'est pas un sophisme", " Le principe de causalité ne s'applique pas à l'univers", -1.0
+"Le langage humain est un produit de l'évolution darwinienne", " Dieu explique l'apparition et la complexité du langage humain", -1.0
+"L'explication par le hasard est encore plus inexpliquable que l'explication par Dieu", " Dieu est une explication inexplicable", -1.0
+" Comparer Dieu à l'homme est une analogie légitime sous un certain rapport", " Un Dieu à l'image de l'homme est trop humain pour être crédible", -1.0
+" Comparer Dieu à l'homme est une analogie légitime sous un certain rapport", " Un Dieu à l'image de l'homme est trop humain pour être crédible", -1.0
+" Ce n'est pas « tout » mais « tout effet » qui a une cause", " Tout a une cause, et Dieu en particulier", -1.0
+" Les lois de l'univers se sont constituées peu à peu", " Dieu explique l'existence des lois de la nature", -1.0
+" L'idée de création à partir du néant est absurde", " L'univers s'est créé à partir de rien", -1.0
+"La conscience n'existe pas", " Dieu explique l'existence de la conscience", -1.0
+" L'argument physico-téléologique ne prouve pas l'existence d'un dieu créateur mais seulement d'un démiurge ordonnateur", " Dieu rend compte du plan d'ensemble du monde", -1.0
+" Les prétendus miracles reposent sur des témoignages qui ne sont pas fiables", " Les miracles attestent l'intervention directe de Dieu", -1.0
+"Les textes sacrés sont la création d'êtres humains", " Les Révélations conservées dans les textes sacrés attestent l'intervention de Dieu", -1.0
+" Postuler un être complexe tel que Dieu ne permet pas d'expliquer la complexité", " Dieu est une explication inexplicable", 1.0
+"Les prédictions scientifiques montrent que le monde se conforme à des lois", " Le monde n'est pas ordonné mais chaotique", -1.0
+"Dieu est à l'image de l'homme parce que l'homme est à l'image de Dieu", " Un Dieu à l'image de l'homme est trop humain pour être crédible", -1.0
+"La conscience est une propriété émergente du cerveau", " Dieu explique l'existence de la conscience", -1.0
+"L'ordre perçu est réel", " La notion d'ordre est une projection de l'esprit humain", -1.0
+" Si l'univers n'a pas de cause, alors il n'est pas nécessaire qu'il existe quelque chose", " L'univers est contingent", -1.0
+"Les miracles sont des phénomènes naturels rares mais expliquables par la science", " Les miracles attestent l'intervention directe de Dieu", -1.0
+"Si le monde était chaotique, il n'y aurait pas de langage pour en parler", " Le monde n'est pas ordonné mais chaotique", -1.0
+" Dieu est hors du temps, donc sans cause", " Tout a une cause, et Dieu en particulier", -1.0
+" La cause première peut être d'une autre nature que physique", " L'univers n'a pas de cause ni de raison d'être", -1.0
+" La cause première est un être nécessaire", " Il n'y a pas de raison que ce soit Dieu la cause première", -1.0
+" L'idée d'un temps sans commencement conduit à abandonner la notion de temps", " L'univers n'a pas de commencement", -1.0
+" La création, l'adaptation et la complexité des espèces s'expliquent par la théorie de la sélection naturelle", " Dieu explique la création, l'adaptation et la complexité des espèces", -1.0
+"Le langage humain émerge de la communication animale", " Dieu explique l'apparition et la complexité du langage humain", -1.0
+"Certains cas de sauts évolutifs sont déjà expliqués", " Dieu explique la création, l'adaptation et la complexité des espèces", -1.0
+" Notre univers n'est qu'un des multiples univers existants", " Dieu explique l'ajustement très improbable des constantes fondamentales de l'univers", -1.0
+"Le Big Bang a une cause", " La cause première est le Big Bang", -1.0
+"Les prétendus miracles reposent sur des expériences frauduleuses", " Les miracles attestent l'intervention directe de Dieu", -1.0
+" Il y a de bonnes raisons de penser que l'apparition de la vie sera expliquée", " Dieu explique l'apparition de la vie", -1.0
+" L'argument du kalam commet la même erreur que Zénon dans son paradoxe", " Dieu existe car il ne peut y avoir un passé infini", -1.0
+"L'évolution produit de la morale parce qu'elle obéit à la volonté divine", " Les valeurs morales sont le résultat de l'évolution", -1.0
+" Les expériences dites mystiques sont dues à des troubles psychiques", " Les expériences mystiques attestent la présence de Dieu", -1.0
+" Parce que l'univers est contingent, il a une cause", " L'univers n'a pas de cause ni de raison d'être", -1.0
+" Un point immatériel est une abstraction et une abstraction ne peut rien causer", " La cause première est un point immatériel", -1.0
+"L'homme suit ses intérêts et ses pulsions et le devoir moral n'est réductible ni aux uns ni aux autres", " Les valeurs morales sont des créations humaines", -1.0
+"La cause première ne peut pas être matérielle", " Il n'y a pas de raison que ce soit Dieu la cause première", -1.0
+" Dieu est sempiternel", " L'univers n'a pas de commencement", -1.0
+" L'ordre et la complexité du monde supposent seulement une Intelligence suprême indifférente aux hommes", " L'ordre et la complexité du monde supposent un Dieu créateur", -1.0
+" Il n'y a pas de raison que ce soit Dieu la cause première", " Dieu est la cause première de l'univers", -1.0
+"Les prétendues interventions divines reposent sur des éléments de preuve qui ne sont pas fiables", " Il existe des interventions divines", -1.0
+" Les Révélations conservées dans les textes sacrés attestent l'intervention de Dieu", " Il existe des interventions divines", 1.0
+" Dieu existe car il ne peut y avoir un passé infini", " Dieu est la cause première de l'univers", 1.0
+" Dieu existe car il ne peut y avoir une infinité de causes", " Dieu est la cause première de l'univers", 1.0
+" Les valeurs morales sont le résultat de l'évolution", " Dieu a créé une morale indépendante des hommes", -1.0
+" Dieu explique la création, l'adaptation et la complexité des espèces", " L'ordre et la complexité du monde supposent un Dieu créateur", 1.0
+"Les prétendues interventions divines reposent sur une conception superstitieuse du monde", " Il existe des interventions divines", -1.0
+" Les valeurs morales évoluent avec le temps", " Dieu a créé une morale indépendante des hommes", -1.0
+"Il n'existe pas d'esprit en dehors de la matière", " Dieu existe-t-il ? (nouvelle version)", -1.0
+" Dieu est une invention", " Dieu existe-t-il ? (nouvelle version)", -1.0
+"Nous avons en nous des concepts que nous n'avons pas pu créer", " Dieu existe-t-il ? (nouvelle version)", 1.0
+"Seul Dieu est garant de la réalité et de la véracité du monde", " Dieu existe-t-il ? (nouvelle version)", 1.0
+"L'existence humaine n'est pas à la hauteur de Dieu", " Dieu existe-t-il ? (nouvelle version)", -1.0
+" Dieu a créé une morale indépendante des hommes", " Dieu existe-t-il ? (nouvelle version)", 1.0
+" La souffrance et le mal contredisent l'existence d'un dieu", " Dieu existe-t-il ? (nouvelle version)", -1.0
+" L'ordre et la complexité du monde supposent un Dieu créateur", " Dieu existe-t-il ? (nouvelle version)", 1.0
+"L'homme est libre", " Dieu existe-t-il ? (nouvelle version)", -1.0
+" Dieu n'est que le nom de notre ignorance", " Dieu explique l'existence de la conscience", -1.0
+" Dieu n'est que le nom de notre ignorance", " Dieu explique l'existence des lois de la nature", -1.0
+" Dieu n'est que le nom de notre ignorance", " Dieu existe-t-il ? (nouvelle version)", -1.0
+" Dieu n'est que le nom de notre ignorance", " Dieu explique la création, l'adaptation et la complexité des espèces", -1.0
+"L'existence de Dieu est contenue dans son concept", " Dieu existe-t-il ? (nouvelle version)", 1.0
+" Il existe des interventions divines", " Dieu existe-t-il ? (nouvelle version)", 1.0
+"L'hypothèse de Dieu est plus simple que l'hypothèse athéiste", " Dieu existe-t-il ? (nouvelle version)", 1.0
+"Dieu est un concept contradictoire", " Dieu existe-t-il ? (nouvelle version)", -1.0
+"Les religions se contredisent", " Dieu existe-t-il ? (nouvelle version)", -1.0
+"L'homme est déterminé", " Dieu existe-t-il ? (nouvelle version)", -1.0
+"Rien ne montre l'existence d'un dieu", " Dieu existe-t-il ? (nouvelle version)", -1.0
+" Dieu est la cause première de l'univers", " Dieu existe-t-il ? (nouvelle version)", 1.0
+" La cause première est inconnaissable", " Dieu est la cause première de l'univers", -1.0
+"Le concept de Dieu est une création de l'évolution", " Dieu est une invention", 1.0
+" L'univers n'a pas de commencement", " Dieu existe car il ne peut y avoir un passé infini", -1.0
+" L'univers n'a pas de commencement", " L'univers a commencé d'exister avec le Big Bang", -1.0
+" L'univers n'a pas de commencement", " Dieu est la cause première de l'univers", -1.0
+"Dieu ne peut pas tout", " La souffrance et le mal contredisent l'existence d'un dieu", -1.0
+" Les expériences mystiques attestent la présence de Dieu", " Il existe des interventions divines", 1.0
+" L'univers n'a pas de cause ni de raison d'être", " Dieu est la cause première de l'univers", -1.0
+" L'univers n'a pas de cause ni de raison d'être", " L'univers a commencé d'exister avec le Big Bang", -1.0
+" Dieu explique l'existence des lois de la nature", " L'ordre et la complexité du monde supposent un Dieu créateur", 1.0
+" Le monde n'est pas ordonné mais chaotique", " L'ordre et la complexité du monde supposent un Dieu créateur", -1.0
+" Le monde n'est pas ordonné mais chaotique", " Dieu rend compte du plan d'ensemble du monde", -1.0
+" L'ordre et la complexité du monde s'expliquent par la science", " L'ordre et la complexité du monde supposent un Dieu créateur", -1.0
+" L'ordre et la complexité du monde s'expliquent par la science", " Dieu rend compte du plan d'ensemble du monde", -1.0
+" L'univers est contingent", " Dieu est la cause première de l'univers", -1.0
+" Dieu est une explication inexplicable", " L'ordre et la complexité du monde supposent un Dieu créateur", -1.0
+" Tout a une cause, et Dieu en particulier", " Dieu est la cause première de l'univers", -1.0
+" Il ne devrait rien exister", " Dieu est la cause première de l'univers", 1.0
+"Ce qu'on attribue à des interventions divines relève de phénomènes naturels", " Il existe des interventions divines", -1.0
+" Les miracles attestent l'intervention directe de Dieu", " Il existe des interventions divines", 1.0
+" Dieu explique l'apparition de la vie", " L'ordre et la complexité du monde supposent un Dieu créateur", 1.0
+" L'univers a commencé d'exister avec le Big Bang", " Dieu est la cause première de l'univers", 1.0
+" Le principe de causalité ne s'applique pas à l'univers", " Dieu est la cause première de l'univers", -1.0
+" Le principe de causalité ne s'applique pas à l'univers", " Tout a une cause, et Dieu en particulier", -1.0
+" La notion d'ordre est une projection de l'esprit humain", " L'ordre et la complexité du monde supposent un Dieu créateur", -1.0
+" La notion d'ordre est une projection de l'esprit humain", " Dieu rend compte du plan d'ensemble du monde", -1.0
+" L'univers s'est créé à partir de rien", " Dieu est la cause première de l'univers", -1.0
+" Dieu rend compte du plan d'ensemble du monde", " L'ordre et la complexité du monde supposent un Dieu créateur", 1.0
+" Les manifestations de la Providence attestent l'intervention de Dieu", " Il existe des interventions divines", 1.0
+" Dieu explique l'existence de la conscience", " L'ordre et la complexité du monde supposent un Dieu créateur", 1.0
+" Les valeurs morales sont des créations humaines", " Dieu a créé une morale indépendante des hommes", -1.0
+" Dieu explique l'ajustement très improbable des constantes fondamentales de l'univers", " L'ordre et la complexité du monde supposent un Dieu créateur", 1.0
+" Les valeurs morales sont relatives à une société donnée", " Dieu a créé une morale indépendante des hommes", -1.0
+" Dieu explique l'apparition et la complexité du langage humain", " L'ordre et la complexité du monde supposent un Dieu créateur", 1.0
+" Le concept de Dieu est une invention humaine", " Dieu est une invention", 1.0
+" Un Dieu à l'image de l'homme est trop humain pour être crédible", " L'ordre et la complexité du monde supposent un Dieu créateur", -1.0
+" La cause première est le Big Bang", " Dieu est la cause première de l'univers", -1.0
+" La cause première est un point immatériel", " Dieu est la cause première de l'univers", -1.0

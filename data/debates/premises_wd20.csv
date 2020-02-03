@@ -1,0 +1,39 @@
+premise, conclusion, weight
+" Toutes les organisations se réclamant de l'islam ne sont pas prosélytes", " Dans la lutte contre l'islamophobie il y a des organisations faisant du prosélytisme religieux", -1.0
+" Les propos réactionnaires de certains leaders antiislamophobes devraient suffire à refuser toute alliance avec eux", " Les organisations de lutte contre l'islamophobie ne sont pas toutes réactionnaires", -1.0
+" La focalisation sur la question de la religion conduit à ne pas lutter contre le racisme", " Les marxistes doivent combattre toutes les religions", -1.0
+" C'est justement parce que l'islam est la religion des opprimés qu'il ne faut pas céder sur les préjugés religieux", " L'islam est une religion opprimée", -1.0
+" La lutte pour l'athéisme doit être subordonnée à la lutte des classes, sans quoi elle n'est qu'une lutte abstraite", " Les marxistes doivent combattre toutes les religions", -1.0
+" Le terme « islamophobie » est reconnu par la communauté scientifique des sociologues", " Le terme « islamophobie » recouvre un racisme antipauvre", -1.0
+" Les différentes religions n'ont pas à être mises sur un pied d'égalité en termes de pouvoir", " Les marxistes doivent combattre toutes les religions", -1.0
+" Ce n'est pas parce que le racisme est présent dans la classe ouvrière française qu'il ne faut pas le combattre", " L'islam est une religion opprimée", -1.0
+" Dans la lutte contre l'islamophobie il y a des organisations ennemies de la classe ouvrière", " Les leaders et les organisations de la lutte contre l'islamophobie sont réactionnaires", 1.0
+" Dans la lutte contre l'islamophobie il y a des organisations antisémites", " Les leaders et les organisations de la lutte contre l'islamophobie sont réactionnaires", 1.0
+" Se placer sur le terrain de l'islamophobie est un piège", " Il faut préférer la lutte antiraciste à la lutte contre l'islamophobie", 1.0
+" Lutte ouvrière se sert de prétextes pour ne pas lutter contre les discriminations envers les musulmans", " Les leaders et les organisations de la lutte contre l'islamophobie sont réactionnaires", -1.0
+" Ne pas porter le combat contre l'islamophobie est se couper de cette couche exploitée et opprimée du prolétariat", " Il y a un potentiel révolutionnaire dans la jeunesse et les travailleurs des banlieues", 1.0
+" Les acteurs de la lutte contre l'islamophobie sont anticapitalistes", " Il y a un potentiel révolutionnaire dans la jeunesse et les travailleurs des banlieues", 1.0
+" Dans la lutte contre l'islamophobie il y a des organisations faisant du prosélytisme religieux", " Les leaders et les organisations de la lutte contre l'islamophobie sont réactionnaires", 1.0
+" Le terme « islamophobie » est ambigu", " La campagne contre le voile islamique est une campagne raciste et islamophobe", -1.0
+" Le terme « islamophobie » est ambigu", " Il faut préférer la lutte antiraciste à la lutte contre l'islamophobie", 1.0
+" Les marxistes doivent combattre toutes les religions", " L'islam est la religion des opprimés", -1.0
+" L'islam est une religion opprimée", " L'islam est la religion des opprimés", 1.0
+" Etre religieux et communiste révolutionnaire est incompatible", " L'islam est la religion des opprimés", -1.0
+" Les révolutionnaires peuvent faire des alliances critiques avec les organisations de lutte contre l'islamophobie", " Les leaders et les organisations de la lutte contre l'islamophobie sont réactionnaires", -1.0
+" Les révolutionnaires peuvent faire des alliances critiques avec les organisations de lutte contre l'islamophobie", " Les propos réactionnaires de certains leaders antiislamophobes devraient suffire à refuser toute alliance avec eux", -1.0
+" Le terme « islamophobie » recouvre un racisme antipauvre", " Il existe une oppression spécifique envers les musulmans", -1.0
+" Le terme « islamophobie » recouvre un racisme antipauvre", " Il faut préférer la lutte antiraciste à la lutte contre l'islamophobie", 1.0
+" Dans la lutte contre l'islamophobie il y a des organisations antiféministes", " Les leaders et les organisations de la lutte contre l'islamophobie sont réactionnaires", 1.0
+"La classe ouvrière doit prendre sous son aile le combat contre toutes les oppressions", " L'islam est la religion des opprimés", 1.0
+" Dans la lutte contre l'islamophobie il y a des organisations homophobes", " Les leaders et les organisations de la lutte contre l'islamophobie sont réactionnaires", 1.0
+" Les marxistes qui cèdent sur la religion font preuve d'opportunisme et de démagogie", " L'islam est la religion des opprimés", -1.0
+" Les marxistes qui cèdent sur la religion font preuve d'opportunisme et de démagogie", " Ne pas porter le combat contre l'islamophobie est se couper de cette couche exploitée et opprimée du prolétariat", -1.0
+" Lutte ouvrière ne propose aucune proposition concrète de lutte contre le racisme", " Il faut préférer la lutte antiraciste à la lutte contre l'islamophobie", -1.0
+" Les organisations de lutte contre l'islamophobie ne sont pas toutes réactionnaires", " Les leaders et les organisations de la lutte contre l'islamophobie sont réactionnaires", -1.0
+" Les organisations de lutte contre l'islamophobie ne sont pas toutes réactionnaires", " Dans la lutte contre l'islamophobie il y a des organisations antiféministes", -1.0
+" Il existe une oppression spécifique envers les musulmans", " L'islam est la religion des opprimés", 1.0
+" Les leaders et les organisations de la lutte contre l'islamophobie sont réactionnaires", " Les acteurs de la lutte contre l'islamophobie sont anticapitalistes", -1.0
+" Les leaders et les organisations de la lutte contre l'islamophobie sont réactionnaires", " L'extrême-gauche doit-elle lutter contre l'islamophobie ?", -1.0
+" L'islam est la religion des opprimés", " L'extrême-gauche doit-elle lutter contre l'islamophobie ?", 1.0
+" Il y a un potentiel révolutionnaire dans la jeunesse et les travailleurs des banlieues", " L'extrême-gauche doit-elle lutter contre l'islamophobie ?", 1.0
+" Il faut préférer la lutte antiraciste à la lutte contre l'islamophobie", " L'extrême-gauche doit-elle lutter contre l'islamophobie ?", -1.0

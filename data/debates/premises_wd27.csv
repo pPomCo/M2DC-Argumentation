@@ -1,0 +1,59 @@
+premise, conclusion, weight
+"Les religions exigent la fidélité conjugale", " Les religions oppriment les relations sexuelles et amoureuses", 1.0
+"Les religions prônent la culpabilité", " Les religions oppriment les individus", 1.0
+"L'islam impose aux femmes de cacher leur corps", " Les religions oppriment les femmes", 1.0
+" Certaines religions imposent des mutilations du sexe", " Les religions oppriment les relations sexuelles et amoureuses", 1.0
+"Les religions s'opposent au divorce", " Les religions oppriment les relations sexuelles et amoureuses", 1.0
+"Les religions s'opposent à la contraception", " Les religions oppriment les femmes", 1.0
+"Les religions s'opposent à l'avortement", " Les religions oppriment les femmes", 1.0
+" Les religions imposent des pratiques contraignantes", " Les religions oppriment les individus", 1.0
+"Les religions s'opposent à la procréation médicalement assistée", " Les religions oppriment les relations sexuelles et amoureuses", 1.0
+"Le marxisme n'est pas incompatible avec la croyance en Dieu", " La religion est-elle compatible avec le marxisme ?", 1.0
+"Les religions sont avant tout un ensemble de pratiques culturelles", " La religion est-elle compatible avec le marxisme ?", 1.0
+" Les religions sont incompatibles avec la pensée scientifique", " La religion est-elle compatible avec le marxisme ?", -1.0
+"Les religions portent en elles l'égalité entre les hommes et l'émancipation", " La religion est-elle compatible avec le marxisme ?", 1.0
+" Les religions sont incompatibles avec l'action révolutionnaire", " La religion est-elle compatible avec le marxisme ?", -1.0
+"Le marxisme tire son héritage du christianisme", " La religion est-elle compatible avec le marxisme ?", 1.0
+"Les religions sont plurielles", " La religion est-elle compatible avec le marxisme ?", 1.0
+" Les principaux marxistes ont combattu la religion", " La religion est-elle compatible avec le marxisme ?", -1.0
+" Les religions sont des sources d'oppressions", " La religion est-elle compatible avec le marxisme ?", -1.0
+"De nombreux religieux ou courants religieux ont été marxistes", " La religion est-elle compatible avec le marxisme ?", 1.0
+"Les religions prônent la non-violence", " Les religions sont des sources d'oppressions", -1.0
+"De nombreux religieux ou courants religieux ont été marxistes", " Les religions sont incompatibles avec l'action révolutionnaire", -1.0
+"Les religions colportent des superstitions et des croyances fausses", " Les religions sont incompatibles avec la pensée scientifique", 1.0
+"Les religions prônent l'unité des hommes par-delà les classes", " Les religions sont incompatibles avec l'action révolutionnaire", 1.0
+"Les religions prônent la charité", " Les religions sont des sources d'oppressions", -1.0
+"Les religions s'opposent à la violence", " Les religions sont incompatibles avec l'action révolutionnaire", 1.0
+"Les religions prônent le souci du faible et des opprimés", " Les religions sont des sources d'oppressions", -1.0
+"Les institutions religieuses se sont toujours opposées aux révolutions", " Les religions sont incompatibles avec l'action révolutionnaire", 1.0
+"Les religions prônent la fraternité", " Les religions sont des sources d'oppressions", -1.0
+"Les religions imposent des pratiques chronophages", " Les religions sont incompatibles avec l'action révolutionnaire", 1.0
+" Les religions oppriment les individus", " Les religions sont des sources d'oppressions", 1.0
+"Les religions évoluent", " Les religions sont incompatibles avec la pensée scientifique", -1.0
+"On peut être religieux et participer à des luttes", " Les religions sont incompatibles avec l'action révolutionnaire", -1.0
+"Les religions encouragent l'inaction", " Les religions sont incompatibles avec l'action révolutionnaire", 1.0
+" Les religions oppriment les relations sexuelles et amoureuses", " Les religions sont des sources d'oppressions", 1.0
+"Les religions prônent l'acceptation du monde tel qu'il est", " Les religions sont incompatibles avec l'action révolutionnaire", 1.0
+"Les guerres de religion divisent le prolétariat", " Les religions sont incompatibles avec l'action révolutionnaire", 1.0
+"On peut être religieux sans perpétuer ces oppressions", " Les religions sont des sources d'oppressions", -1.0
+"Les religions encouragent la pensée magique", " Les religions sont incompatibles avec la pensée scientifique", 1.0
+"Les religions s'opposent à la science et aux découvertes scientifiques", " Les religions sont incompatibles avec la pensée scientifique", 1.0
+"Les religions ôtent la responsabilité aux hommes de leurs actions", " Les religions sont incompatibles avec l'action révolutionnaire", 1.0
+" Les religions oppriment les femmes", " Les religions sont des sources d'oppressions", 1.0
+"Les religions prônent la charité", " Les religions sont incompatibles avec l'action révolutionnaire", 1.0
+"Les religions prônent la justice", " Les religions sont des sources d'oppressions", -1.0
+"Les religions oppriment les minorités sexuelles", " Les religions sont des sources d'oppressions", 1.0
+"Les religions prônent la soumission à un dieu", " Les religions sont incompatibles avec l'action révolutionnaire", 1.0
+"L'esprit scientifique est lié au milieu socio-culturel", " Les religions sont incompatibles avec la pensée scientifique", -1.0
+"Les religions prônent l'obéissance aux institutions religieuses", " Les religions sont incompatibles avec l'action révolutionnaire", 1.0
+"Les religions prônent le changement individuel", " Les religions sont incompatibles avec l'action révolutionnaire", 1.0
+" Les religions oppriment les peuples", " Les religions sont des sources d'oppressions", 1.0
+"On peut ne pas respecter toutes les préceptes de sa religion", " Les religions sont incompatibles avec l'action révolutionnaire", -1.0
+"Les religions prônent le respect", " Les religions sont des sources d'oppressions", -1.0
+" Les religions prônent l'abstinence", " Les religions oppriment les relations sexuelles et amoureuses", 1.0
+"Les religions prônent la haine du corps", " Les religions oppriment les individus", 1.0
+"Les religions assignent aux femmes les travaux domestiques", " Les religions oppriment les femmes", 1.0
+"Les religions sont responsables de nombreuses guerres", " Les religions oppriment les peuples", 1.0
+"Les religions prônent l'infériorité des femmes par rapport aux hommes", " Les religions oppriment les femmes", 1.0
+"Les religions prônent la sobriété", " Les religions oppriment les individus", 1.0
+"Les religions encouragent l'intériorisation des émotions", " Les religions oppriment les individus", 1.0

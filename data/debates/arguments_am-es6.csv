@@ -1,0 +1,5 @@
+arg1, arg2, attack_support
+"am-es44 -> ¬am-es26", "am-es26 -> ¬am-es6", "Attack"
+"am-es43 -> am-es24", "am-es24 -> ¬am-es6", "Support"
+"am-es44 -> ¬am-es26", "am-es26 -> ¬am-es6", "Attack"
+"am-es43 -> am-es24", "am-es24 -> ¬am-es6", "Support"

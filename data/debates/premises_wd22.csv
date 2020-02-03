@@ -1,0 +1,26 @@
+premise, conclusion, weight
+"Si on ne croit pas en Dieu, alors on ira en enfer", " La croyance en Dieu est-elle bénéfique ?", 1.0
+"La religion conduit à obéir à d'autres humains qui se disent représentants du divin", " La croyance en Dieu est-elle bénéfique ?", -1.0
+"Il est irréaliste de ne pas admettre la finitude et la dépendance humaine", " La croyance en Dieu est-elle bénéfique ?", 1.0
+"Ne pas croire en Dieu, c'est ignorer toute une classe de phénomènes", " La croyance en Dieu est-elle bénéfique ?", 1.0
+"La croyance en Dieu permet de grandes oeuvres", " La croyance en Dieu est-elle bénéfique ?", 1.0
+" La religion est fondée sur le sang", " La croyance en Dieu est-elle bénéfique ?", -1.0
+" La religion corrompt", " La croyance en Dieu est-elle bénéfique ?", -1.0
+"La religion conduit à croire que des pouvoirs qui résident en nous viennent d'un autre", " La croyance en Dieu est-elle bénéfique ?", -1.0
+"La religion encourage le fanatisme", " La croyance en Dieu est-elle bénéfique ?", -1.0
+"La religion conduit à obéir aveuglément à autre chose qu'à la raison", " La croyance en Dieu est-elle bénéfique ?", -1.0
+"Si on ne croit pas en Dieu, alors on ne reçoit pas l'aide et l'amour de Dieu", " La croyance en Dieu est-elle bénéfique ?", 1.0
+"La religion sert à justifier une vision hiérarchique des sociétés", " La croyance en Dieu est-elle bénéfique ?", -1.0
+" La religion va à l'encontre de l'esprit scientifique", " La croyance en Dieu est-elle bénéfique ?", -1.0
+"La religion est une inversion des valeurs et in fine un nihilisme", " La croyance en Dieu est-elle bénéfique ?", -1.0
+"Si on ne croit pas en Dieu, alors aucune valeur morale objective ne peut exister", " La croyance en Dieu est-elle bénéfique ?", 1.0
+"La croyance en Dieu permet de croire que l'esprit humain touche des vérités objectives", " La croyance en Dieu est-elle bénéfique ?", 1.0
+"La croyance en Dieu est un soutien dans les pires épreuves", " La croyance en Dieu est-elle bénéfique ?", 1.0
+"La religion suppose des lois divines supérieures aux lois humaines", " La croyance en Dieu est-elle bénéfique ?", -1.0
+"C'est grâce à la croyance en Dieu que les humains ont bâti des hôpitaux et prennent soin des plus faibles", " La croyance en Dieu est-elle bénéfique ?", 1.0
+"Croire en Dieu aide à mieux vivre", " La croyance en Dieu est-elle bénéfique ?", 1.0
+"Si on ne croit pas en Dieu, alors on vit sans espoir", " La croyance en Dieu est-elle bénéfique ?", 1.0
+"La croyance en Dieu permet la sainteté", " La croyance en Dieu est-elle bénéfique ?", 1.0
+"La religion endoctrine", " La croyance en Dieu est-elle bénéfique ?", -1.0
+"Il est impossible de vivre sans rapport à la transcendance", " La croyance en Dieu est-elle bénéfique ?", 1.0
+"La religion encourage l'intolérance", " La croyance en Dieu est-elle bénéfique ?", -1.0

@@ -1,0 +1,14 @@
+premise, conclusion, weight
+" Le nucléaire français (hors nucléaire militaire) est une industrie transparente", " Le nucléaire est-il une énergie d'avenir ?", 1.0
+" La filière électronucleaire n'émet que très peu de gaz à effet de serre.", " Le nucléaire est-il une énergie d'avenir ?", 1.0
+"C'est l'une des énergies qui consomme le moins de ressource", " Le nucléaire est-il une énergie d'avenir ?", 1.0
+"Le risque nucléaire, comme calculé par les études probabilistes de sûreté, est largement sous-estimé", " Le nucléaire est-il une énergie d'avenir ?", -1.0
+"C'est une fillière exigeante, stricte, soumise a énormément de normes et de controles.", " Le nucléaire est-il une énergie d'avenir ?", 1.0
+"La gestion des déchets nucléaires engage les générations futures sur plusieurs décennies", " Le nucléaire est-il une énergie d'avenir ?", -1.0
+"La filière électronucléaire s'affranchie des conditions climatiques pour produire", " Le nucléaire est-il une énergie d'avenir ?", 1.0
+"Des ressources pouvant subvenir aux besoins de l'humanité pour plusieurs millénaires si l'on considère la surgénération.", " Le nucléaire est-il une énergie d'avenir ?", 1.0
+"Le nucléaire à une emprise au sol faible au vue de l'énergie produite.", " Le nucléaire est-il une énergie d'avenir ?", 1.0
+"La fillière nucléaire est celle qui a tué le moins de personnes par Kwh produit.", " Le nucléaire est-il une énergie d'avenir ?", 1.0
+"Peu participer à la prolifération des armes nucléaires", " Le nucléaire est-il une énergie d'avenir ?", -1.0
+"Le risque nucléaire est un risque catastrophique et systémique", " Le nucléaire est-il une énergie d'avenir ?", -1.0
+" Les déchets de haute activité sont produit en quantité extrémement faible.", " Le nucléaire est-il une énergie d'avenir ?", 1.0

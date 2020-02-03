@@ -1,0 +1,3 @@
+premise, conclusion, weight
+"El experimento del griego antiguo Eratosthenes demostró, usando las sombras de ramas a lugares diferentes en la tierra, que el mundo no es plano.", " La tierra es plana", -1.0
+"Muchos experimentos demuestran la falta de curvatura de la tierra.", " La tierra es plana", 1.0

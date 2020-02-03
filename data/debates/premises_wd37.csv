@@ -1,0 +1,91 @@
+premise, conclusion, weight
+"Les hommes bénéficient des discriminations envers les femmes", " Les hommes n'ont aucun intérêt à renoncer à leurs privilèges", 1.0
+"La dimension structurelle de la violence est rarement perçue par les hommes", " Les hommes ne peuvent pas ne pas voir les violences et les discriminations sexistes", -1.0
+" Les hommes n'ont aucun intérêt à renoncer à leurs privilèges", " Les hommes ont le devoir de réparer les injustices dont ils sont les auteurs", -1.0
+" Les hommes n'ont aucun intérêt à renoncer à leurs privilèges", " Seuls les hommes ont les moyens de mettre fin à la domination masculine", -1.0
+" Les femmes sont victimes de discriminations économiques", " Le sexisme est omniprésent", 1.0
+"Dans la plupart des familles, ce sont les femmes qui s'occupent des enfants et des tâches domestiques", " Les hommes jouent un rôle essentiel dans l'éducation des enfants", -1.0
+"La fin du sexisme entraînerait de nouvelles rivalités entre hommes et femmes", " Les hommes ont intérêt à en finir avec le machisme pour sortir des rapports de rivalité entre hommes", -1.0
+"Les hommes ont intérêt à conserver leur rôle de dominants dans les rapports de séduction", " Les hommes ont intérêt à en finir avec le machisme pour simplifier et libérer les rapports de séduction", -1.0
+"Les hommes devraient donner la parole aux femmes plutôt que de parler à leur place", " Les hommes ont davantage de moyens d'être entendus dans la société", -1.0
+"Beaucoup de femmes préfèrent les hommes dominants", " Les hommes ont intérêt à en finir avec le machisme pour simplifier et libérer les rapports de séduction", -1.0
+"L'émancipation des femmes doit être l'oeuvre des femmes elles-mêmes", " Seuls les hommes ont les moyens de mettre fin à la domination masculine", -1.0
+"Les hommes sont socialisés pour déshumaniser les femmes", " Les hommes ne peuvent rester insensibles au sort réservé à une moitié de l'humanité", -1.0
+" Le pouvoir est encore monopolisé par les hommes", " Le sexisme est omniprésent", 1.0
+"L'émancipation des femmes doit être l'oeuvre des femmes elles-mêmes", " Les hommes peuvent faciliter et encourager l'émancipation de leur compagne", -1.0
+"Les hommes sont socialisés pour se sentir supérieurs aux femmes", " Les hommes ne peuvent rester insensibles au sort réservé à une moitié de l'humanité", -1.0
+"Le sexisme est tellement banalisé qu'il n'est même pas perçu comme tel", " Les hommes ne peuvent pas ne pas voir les violences et les discriminations sexistes", -1.0
+" Les femmes sont constamment dévalorisées par rapport aux hommes", " Le sexisme est omniprésent", 1.0
+"Beaucoup de femmes préfèrent les hommes dominants", " Les hommes ont intérêt à en finir avec le machisme pour simplifier et libérer les rapports de séduction", -1.0
+" Les femmes assument la majeure partie des tâches domestiques", " Le sexisme est omniprésent", 1.0
+"Les hommes ne sont pas capables d'agir par devoir", " Les hommes ont le devoir de réparer les injustices dont ils sont les auteurs", -1.0
+"La virilité n'a pas que des mauvais côtés", " Les hommes ont intérêt à en finir avec le machisme pour se délivrer de l'injonction à la virilité", -1.0
+"Les hommes ont intérêt à conserver leur rôle de dominants dans les rapports de séduction", " Les hommes ont intérêt à en finir avec le machisme pour simplifier et libérer les rapports de séduction", -1.0
+"La rivalité est une source d'émulation", " Les hommes ont intérêt à en finir avec le machisme pour sortir des rapports de rivalité entre hommes", -1.0
+"De nombreuses victimes n'osent pas parler des violences qu'elles ont subies, encore moins aux hommes", " Les hommes ne peuvent pas ne pas voir les violences et les discriminations sexistes", -1.0
+"Le traitement médiatique du sexisme est encore insuffisant", " Les hommes ne peuvent pas ne pas voir les violences et les discriminations sexistes", -1.0
+" L'indifférence à la souffrance est considérée comme une preuve de virilité", " Les hommes ne peuvent pas ne pas voir les violences et les discriminations sexistes", -1.0
+"L'ambiguïté contribue à la magie de la séduction", " Les hommes ont intérêt à en finir avec le machisme pour simplifier et libérer les rapports de séduction", -1.0
+"Les femmes doivent s'organiser par elles-mêmes", " Les hommes doivent-ils rejoindre le combat féministe ?", -1.0
+" Les hommes ont intérêt à en finir avec le sexisme", " Les hommes doivent-ils rejoindre le combat féministe ?", 1.0
+" Les hommes ne peuvent rester indifférents face aux discriminations et aux violences faites aux femmes", " Les hommes doivent-ils rejoindre le combat féministe ?", 1.0
+" Les hommes n'ont aucun intérêt à renoncer à leurs privilèges", " Les hommes doivent-ils rejoindre le combat féministe ?", -1.0
+" Les femmes ont besoin des hommes pour en finir avec le sexisme", " Les hommes doivent-ils rejoindre le combat féministe ?", 1.0
+" Les hommes sont socialisés pour dominer les femmes", " Les hommes doivent-ils rejoindre le combat féministe ?", -1.0
+" Les hommes ont intérêt à en finir avec le machisme pour se délivrer de l'injonction à la virilité", " Les hommes n'ont aucun intérêt à renoncer à leurs privilèges", -1.0
+" Les hommes ont intérêt à en finir avec le machisme pour se délivrer de l'injonction à la virilité", " Les hommes n'ont aucun intérêt à renoncer à leurs privilèges", -1.0
+" Les hommes ont intérêt à en finir avec le machisme pour se délivrer de l'injonction à la virilité", " Les hommes ont intérêt à en finir avec le sexisme", 1.0
+" Les hommes peuvent faire reculer les violences sexistes en prenant au sérieux la parole des femmes victimes", " Les femmes ont besoin des hommes pour en finir avec le sexisme", 1.0
+"La solidarité masculine est construite sur le dénigrement et l'exclusion des femmes", " Les hommes sont socialisés pour dominer les femmes", 1.0
+"La solidarité masculine est construite sur le dénigrement et l'exclusion des femmes", " Les hommes ne peuvent rester indifférents face aux discriminations et aux violences faites aux femmes", -1.0
+" Le sexisme est omniprésent", " Les hommes ne peuvent rester indifférents face aux discriminations et aux violences faites aux femmes", 1.0
+" Les hommes ont intérêt à en finir avec le machisme pour sortir des rapports de rivalité entre hommes", " Les hommes n'ont aucun intérêt à renoncer à leurs privilèges", -1.0
+" Les hommes ont intérêt à en finir avec le machisme pour sortir des rapports de rivalité entre hommes", " Les hommes n'ont aucun intérêt à renoncer à leurs privilèges", -1.0
+" Les hommes ont intérêt à en finir avec le machisme pour sortir des rapports de rivalité entre hommes", " Les hommes ont intérêt à en finir avec le sexisme", 1.0
+" Les hommes ont intérêt à en finir avec le machisme pour assumer leur sensibilité et leurs émotions", " Les hommes n'ont aucun intérêt à renoncer à leurs privilèges", -1.0
+" Les hommes ont intérêt à en finir avec le machisme pour assumer leur sensibilité et leurs émotions", " Les hommes n'ont aucun intérêt à renoncer à leurs privilèges", -1.0
+" Les hommes ont intérêt à en finir avec le machisme pour assumer leur sensibilité et leurs émotions", " Les hommes ont intérêt à en finir avec le sexisme", 1.0
+"Les hommes sont socialisés pour être égoïstes", " Les hommes ne peuvent rester indifférents face aux discriminations et aux violences faites aux femmes", -1.0
+" Les hommes sont socialisés pour être indifférents à la souffrance", " Les hommes peuvent faire reculer les violences sexistes en prenant au sérieux la parole des femmes victimes", -1.0
+" Les hommes sont socialisés pour être indifférents à la souffrance", " Les hommes ne peuvent rester indifférents face aux discriminations et aux violences faites aux femmes", -1.0
+" Les hommes sont socialisés pour être indifférents à la souffrance", " Les hommes ne peuvent rester insensibles au sort réservé à une moitié de l'humanité", -1.0
+" Les hommes sont socialisés pour être indifférents à la souffrance", " Les hommes sont socialisés pour dominer les femmes", 1.0
+" Les hommes ont intérêt à en finir avec le machisme pour simplifier et libérer les rapports de séduction", " Les hommes n'ont aucun intérêt à renoncer à leurs privilèges", -1.0
+" Les hommes ont intérêt à en finir avec le machisme pour simplifier et libérer les rapports de séduction", " Les hommes n'ont aucun intérêt à renoncer à leurs privilèges", -1.0
+" Les hommes ne veulent pas céder leurs places", " Les hommes n'ont aucun intérêt à renoncer à leurs privilèges", 1.0
+" Les hommes ne veulent pas céder leurs places", " Les hommes n'ont aucun intérêt à renoncer à leurs privilèges", 1.0
+" Les hommes peuvent faciliter et encourager l'émancipation de leur compagne", " Les femmes ont besoin des hommes pour en finir avec le sexisme", 1.0
+" Les hommes ne peuvent rester insensibles au sort réservé à une moitié de l'humanité", " Les hommes sont socialisés pour dominer les femmes", -1.0
+" Les hommes ne peuvent rester insensibles au sort réservé à une moitié de l'humanité", " Les hommes ne peuvent rester indifférents face aux discriminations et aux violences faites aux femmes", 1.0
+" Les hommes ont le devoir de réparer les injustices dont ils sont les auteurs", " Les hommes sont socialisés pour dominer les femmes", -1.0
+" Les hommes ont le devoir de réparer les injustices dont ils sont les auteurs", " Les hommes ne peuvent rester indifférents face aux discriminations et aux violences faites aux femmes", 1.0
+" Les hommes jouent un rôle essentiel dans l'éducation des enfants", " Les femmes ont besoin des hommes pour en finir avec le sexisme", 1.0
+"Les hommes sont socialisés pour être égoïstes", " Les hommes sont socialisés pour dominer les femmes", 1.0
+"Les hommes sont socialisés pour se sentir supérieurs aux femmes", " Les hommes sont socialisés pour dominer les femmes", 1.0
+" Les hommes ont intérêt à en finir avec le machisme pour simplifier et libérer les rapports de séduction", " Les hommes ont intérêt à en finir avec le sexisme", 1.0
+"Les hommes sont socialisés pour déshumaniser les femmes", " Les hommes ne peuvent rester indifférents face aux discriminations et aux violences faites aux femmes", -1.0
+" Les hommes ne peuvent pas ne pas voir les violences et les discriminations sexistes", " Les hommes sont socialisés pour dominer les femmes", -1.0
+" Les hommes ne peuvent pas ne pas voir les violences et les discriminations sexistes", " Les hommes ne peuvent rester indifférents face aux discriminations et aux violences faites aux femmes", 1.0
+"Les hommes sont socialisés pour déshumaniser les femmes", " Les hommes sont socialisés pour dominer les femmes", 1.0
+"Le mouvement féministe doit rester à l'abri de la domination masculine", " Les hommes sont socialisés pour dominer les femmes", 1.0
+"Les hommes bénéficient des discriminations envers les femmes", " Les hommes ont intérêt à en finir avec le sexisme", -1.0
+"Les hommes peuvent parler et convaincre d'autres hommes de la nécessité du féminisme", " Les femmes ont besoin des hommes pour en finir avec le sexisme", 1.0
+" Les hommes ont davantage de moyens d'être entendus dans la société", " Les femmes ont besoin des hommes pour en finir avec le sexisme", 1.0
+" Seuls les hommes ont les moyens de mettre fin à la domination masculine", " Les femmes ont besoin des hommes pour en finir avec le sexisme", 1.0
+"Les hommes bénéficient des discriminations envers les femmes", " Les hommes n'ont aucun intérêt à renoncer à leurs privilèges", 1.0
+"Les hommes sont socialisés pour se sentir supérieurs aux femmes", " Les hommes ne peuvent rester indifférents face aux discriminations et aux violences faites aux femmes", -1.0
+"Les femmes sont les mieux placées pour parler des discriminations qu'elles subissent", " Les hommes ont davantage de moyens d'être entendus dans la société", -1.0
+"L'expression des émotions affaiblirait la domination des hommes", " Les hommes ont intérêt à en finir avec le machisme pour assumer leur sensibilité et leurs émotions", -1.0
+"Les hommes ont intérêt à conserver les rôles traditionnels au sein de la famille", " Les hommes jouent un rôle essentiel dans l'éducation des enfants", -1.0
+"Même quand ils s'occupent de leurs enfants, la plupart des hommes renforcent les stéréotypes sexistes", " Les hommes jouent un rôle essentiel dans l'éducation des enfants", -1.0
+"Les femmes sont sans cesse ramenées à leur corps et à leur apparence", " Le sexisme est omniprésent", 1.0
+"Les hommes sont socialisés pour être égoïstes", " Les hommes ne peuvent pas ne pas voir les violences et les discriminations sexistes", -1.0
+"C'est la société qui est responsable du sexisme, pas les hommes", " Les hommes ont le devoir de réparer les injustices dont ils sont les auteurs", -1.0
+"La solidarité masculine est construite sur le dénigrement et l'exclusion des femmes", " Les hommes ne peuvent rester insensibles au sort réservé à une moitié de l'humanité", -1.0
+"Les hommes sont socialisés pour être égoïstes", " Les hommes ne peuvent rester insensibles au sort réservé à une moitié de l'humanité", -1.0
+"Les hommes utilisent ce privilège pour conforter la domination masculine", " Les hommes ont davantage de moyens d'être entendus dans la société", -1.0
+"Les hommes n'ont aucun intérêt à dénoncer le sexisme", " Les hommes ont davantage de moyens d'être entendus dans la société", -1.0
+"L'ambiguïté contribue à la magie de la séduction", " Les hommes ont intérêt à en finir avec le machisme pour simplifier et libérer les rapports de séduction", -1.0
+" Les violences sexistes sont omniprésentes", " Le sexisme est omniprésent", 1.0
+"La majorité des hommes dominent leur compagne et freinent leur émancipation", " Les hommes peuvent faciliter et encourager l'émancipation de leur compagne", -1.0
+"En renonçant à la virilité, les hommes perdraient leur pouvoir", " Les hommes ont intérêt à en finir avec le machisme pour se délivrer de l'injonction à la virilité", -1.0

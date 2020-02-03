@@ -1,0 +1,105 @@
+premise, conclusion, weight
+"La compétition n'est pas l'émulation", " La compétition peut exister dans un système non capitaliste", -1.0
+" Gaspillage alimentaire", " Gaspillage des ressources", 1.0
+"Le capitalisme ignore le problème de l'épuisement des ressources en pétrole", " Le capitalisme ne donne pas de réponse à l'épuisement des ressources avec lesquels la société et l'économie fonctionnent", 1.0
+"Le capitalisme a mené au fascisme", " Le capitalisme est le meilleur allié de la démocratie", -1.0
+"Répartition des ressources vitales inefficace", " L'efficacité est une notion subjective", 1.0
+" La compétition peut exister dans un système non capitaliste", " L'être humain est compétiteur", -1.0
+" Gaspillage des ressources", " L'efficacité est une notion subjective", 1.0
+"Nous ne sommes pas en démocratie", " Le capitalisme est le meilleur allié de la démocratie", -1.0
+"Le capitalisme est incapable d'offrir un système de santé de qualité pour tous", " Des centaines de millions de personnes souffrent de maladies qu'on sait soigner", 1.0
+" La recherche du profit ne devrait pas être la source de motivation principale de l'innovation", " La recherche du profit est un puissant moteur d'innovation", -1.0
+" Le communisme n'est pas l'unique alternative au capitalisme", " Le communisme a échoué", -1.0
+" Le communisme n'a jamais été réellement mis en place", " Le communisme a échoué", -1.0
+" Le capitalisme ne donne pas de réponse à l'épuisement des ressources avec lesquels la société et l'économie fonctionnent", " Le capitalisme est capable de surmonter la crise écologique", -1.0
+"Les inégalités augmentent en même temps que la richesse des plus fortunés", " Le capitalisme a permis une répartition des richesses inégalée", -1.0
+"Le capitalisme contribue au changement climatique et ignore le problème", " Le capitalisme est capable de surmonter la crise écologique", -1.0
+" Le capitalisme à visage humain est un leurre", " Le capitalisme est capable de se réapproprier les critiques anticapitalistes", -1.0
+"Le capitalisme a conduit aux guerres de colonisation", " Le capitalisme est la cause de guerres incessantes", 1.0
+"Le capitalisme repose sur la corruption", " Le capitalisme est immoral", 1.0
+"Le capitalisme nuit aux relations sexuelles", " Le capitalisme détériore les relations humaines", 1.0
+"Le développement capitaliste contribue à l'exploitation animale", " Le capitalisme perturbe et détruit les écosystèmes", 1.0
+"Le capitalisme bride la créativité", " Le capitalisme appauvrit l'imaginaire et la spiritualité des individus", 1.0
+" La recherche du profit est un puissant moteur d'innovation", " Le capitalisme est un système économique efficace", 1.0
+" L'argument du fondement naturel est un sophisme", " Le capitalisme a un fondement naturel", -1.0
+"Le capitalisme est responsable de l'augmentation des addictions nocives", " Le capitalisme nuit gravement à la santé de la population", 1.0
+"Le capitalisme conduit à des « interventions » impérialistes", " Le capitalisme est la cause de guerres incessantes", 1.0
+"Le capitalisme est responsable de l'augmentation des maladies chroniques", " Le capitalisme nuit gravement à la santé de la population", 1.0
+"Le capitalisme est la guerre de tous contre tous", " Le capitalisme est la cause de guerres incessantes", 1.0
+"Le capitalisme s'oppose aux valeurs traditionnelles", " Le capitalisme est immoral", 1.0
+"Le capitalisme conduit à un désenchantement du monde", " Le capitalisme appauvrit l'imaginaire et la spiritualité des individus", 1.0
+"En termes d'accès au pouvoir", " Le capitalisme accentue les inégalités", 1.0
+"En termes d'accès aux soins", " Le capitalisme accentue les inégalités", 1.0
+"Le capitalisme conduit à une perte du sens de la vie", " Le capitalisme appauvrit l'imaginaire et la spiritualité des individus", 1.0
+"Le capitalisme repose sur l'égoïsme et la cupidité", " Le capitalisme est immoral", 1.0
+"Près de 800 millions de personnes ne savent ni lire ni écrire", " Le capitalisme est incapable de satisfaire les besoins fondamentaux de l'humanité", 1.0
+"Le capitalisme engendre de nombreux scandales sanitaires", " Le capitalisme nuit gravement à la santé de la population", 1.0
+" Des centaines de millions de personnes souffrent de maladies qu'on sait soigner", " Le capitalisme est incapable de satisfaire les besoins fondamentaux de l'humanité", 1.0
+"Le travail salarié est à l'origine de nombreux accidents", " Le capitalisme exploite et opprime les travailleurs", 1.0
+" Plus de 2 milliards de personnes n'ont pas accès à une nourriture satisfaisante", " Le capitalisme est incapable de satisfaire les besoins fondamentaux de l'humanité", 1.0
+"Les autres régimes ont toujours été autoritaires", " Le capitalisme est le garant des libertés individuelles", 1.0
+" Le communisme a échoué", " Il n'y a pas d'alternative au capitalisme", 1.0
+"Le développement capitaliste contribue aux dérèglements climatiques", " Le capitalisme perturbe et détruit les écosystèmes", 1.0
+"Le capitalisme va nous conduire à une troisième guerre mondiale", " Le capitalisme est la cause de guerres incessantes", 1.0
+"Le capitalisme a surmonté des crises économiques profondes", " Le capitalisme est un système économique stable", 1.0
+"Le capitalisme conduit à une uniformisation du monde", " Le capitalisme appauvrit les différentes formes de culture", 1.0
+"Le capitalisme détruit les solidarités", " Le capitalisme détériore les relations humaines", 1.0
+"Le développement capitaliste contribue à la pollution de l'environnement", " Le capitalisme perturbe et détruit les écosystèmes", 1.0
+"Le développement capitaliste pousse à la modification du vivant", " Le capitalisme perturbe et détruit les écosystèmes", 1.0
+"Le capitalisme exacerbe les divisions", " Le capitalisme détériore les relations humaines", 1.0
+"La vie est une lutte pour la survie", " Le capitalisme a un fondement naturel", 1.0
+"Le travail salarié est à l'origine de souffrances psychologiques", " Le capitalisme exploite et opprime les travailleurs", 1.0
+"Le capitalisme détruit les cultures et les modes de vie traditionnels", " Le capitalisme appauvrit les différentes formes de culture", 1.0
+" L'être humain est compétiteur", " Le capitalisme a un fondement naturel", 1.0
+"Le capitalisme conduit à un appauvrissement culturel et éducatif", " Le capitalisme appauvrit les différentes formes de culture", 1.0
+"Le capitalisme a conduit à deux guerres mondiales", " Le capitalisme est la cause de guerres incessantes", 1.0
+" Le capitalisme perturbe et détruit les écosystèmes", " Pour ou contre le capitalisme ?", -1.0
+" Le capitalisme nuit gravement à la santé de la population", " Pour ou contre le capitalisme ?", -1.0
+" Le capitalisme est un système économique efficace", " Pour ou contre le capitalisme ?", 1.0
+" Le capitalisme appauvrit l'imaginaire et la spiritualité des individus", " Pour ou contre le capitalisme ?", -1.0
+" Le capitalisme est immoral", " Pour ou contre le capitalisme ?", -1.0
+" Le capitalisme a un fondement naturel", " Pour ou contre le capitalisme ?", 1.0
+" Le capitalisme est la cause de guerres incessantes", " Pour ou contre le capitalisme ?", -1.0
+" Le capitalisme détériore les relations humaines", " Pour ou contre le capitalisme ?", -1.0
+" Le capitalisme accentue les inégalités", " Pour ou contre le capitalisme ?", -1.0
+" Le capitalisme est un système économique stable", " Pour ou contre le capitalisme ?", 1.0
+" Le capitalisme est incapable de satisfaire les besoins fondamentaux de l'humanité", " Pour ou contre le capitalisme ?", -1.0
+" Le capitalisme est amené à s'effondrer", " Pour ou contre le capitalisme ?", -1.0
+" Le capitalisme est le garant des libertés individuelles", " Pour ou contre le capitalisme ?", 1.0
+" Le capitalisme exploite et opprime les travailleurs", " Pour ou contre le capitalisme ?", -1.0
+" Le capitalisme appauvrit les différentes formes de culture", " Pour ou contre le capitalisme ?", -1.0
+" Il n'y a pas d'alternative au capitalisme", " Pour ou contre le capitalisme ?", 1.0
+"Le capitalisme désacralise les religions et le divin", " Le capitalisme appauvrit l'imaginaire et la spiritualité des individus", 1.0
+"Le capitalisme est capable de s'adapter et de se transformer en permanence", " Le capitalisme est un système économique stable", 1.0
+"Le capitalisme encourage le mensonge et la tromperie", " Le capitalisme est immoral", 1.0
+"Le travail salarié dégrade la santé des travailleurs", " Le capitalisme exploite et opprime les travailleurs", 1.0
+"Le capitalisme favorise une alimentation délétère", " Le capitalisme nuit gravement à la santé de la population", 1.0
+" Le capitalisme est le meilleur allié de la démocratie", " Le capitalisme est le garant des libertés individuelles", 1.0
+"Le capitalisme est le pire des systèmes à l'exception de tous les autres", " Il n'y a pas d'alternative au capitalisme", 1.0
+"Le développement capitaliste contribue à la destruction de la biosphère", " Le capitalisme perturbe et détruit les écosystèmes", 1.0
+" Forme de marché n'est pas synonyme de capitalisme", " On retrouve des formes de marché dans toutes les sociétés humaines", -1.0
+" Forme de marché n'est pas synonyme de capitalisme", " Le capitalisme a un fondement naturel", -1.0
+"Le capitalisme fait un commerce de la pornographie", " Le capitalisme est immoral", 1.0
+" Le capitalisme a permis une répartition des richesses inégalée", " Le capitalisme est un système économique efficace", 1.0
+"Le travail salarié asservit les individus", " Le capitalisme exploite et opprime les travailleurs", 1.0
+"En termes de réussite scolaire et professionnelle", " Le capitalisme accentue les inégalités", 1.0
+" L'efficacité est une notion subjective", " Le capitalisme est un système économique efficace", -1.0
+"En termes de richesse", " Le capitalisme accentue les inégalités", 1.0
+"Le capitalisme a permis un développement économique sans précédent", " Le capitalisme est un système économique efficace", 1.0
+"L'être humain est égoïste", " Le capitalisme a un fondement naturel", 1.0
+"Le capitalisme est responsable de l'augmentation des maladies mentales", " Le capitalisme nuit gravement à la santé de la population", 1.0
+"Le capitalisme détériore les liens sociaux", " Le capitalisme détériore les relations humaines", 1.0
+" Le capitalisme est capable de se réapproprier les critiques anticapitalistes", " Le capitalisme est un système économique stable", 1.0
+"Le capitalisme encourage et maintient le travail des enfants", " Le capitalisme exploite et opprime les travailleurs", 1.0
+"Le travail salarié aliène et déshumanise", " Le capitalisme exploite et opprime les travailleurs", 1.0
+"Des milliards de personnes sont mal logées", " Le capitalisme est incapable de satisfaire les besoins fondamentaux de l'humanité", 1.0
+" On retrouve des formes de marché dans toutes les sociétés humaines", " Le capitalisme a un fondement naturel", 1.0
+"Le capitalisme permet la marchandisation d'êtres humains", " Le capitalisme est immoral", 1.0
+"Avec le capitalisme se développent les libertés politiques", " Le capitalisme est le garant des libertés individuelles", 1.0
+"Le capitalisme a survécu à la menace communiste", " Le capitalisme est un système économique stable", 1.0
+"Le capitalisme repose sur l'illusion d'une croissance infinie", " Le capitalisme est amené à s'effondrer", 1.0
+" Le capitalisme est capable de surmonter la crise écologique", " Le capitalisme est un système économique stable", 1.0
+"Le capitalisme connait des crises économiques à répétition", " Le capitalisme est amené à s'effondrer", 1.0
+" Plus de 2 milliards de personnes n'ont pas accès à l'eau potable à leur domicile", " Le capitalisme est incapable de satisfaire les besoins fondamentaux de l'humanité", 1.0
+"Le capitalisme conduit à une perte du sens esthétique", " Le capitalisme appauvrit l'imaginaire et la spiritualité des individus", 1.0
+"Le capitalisme fait travailler les personnes dans des conditions indécentes", " Le capitalisme exploite et opprime les travailleurs", 1.0

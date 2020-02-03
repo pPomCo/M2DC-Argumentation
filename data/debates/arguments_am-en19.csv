@@ -1,0 +1,11 @@
+arg1, arg2, attack_support
+"am-en127 -> am-en76", "am-en76 -> am-en19", "Support"
+"am-en128 -> am-en76", "am-en76 -> am-en19", "Support"
+"am-en124 -> am-en73", "am-en73 -> am-en19", "Support"
+"am-en126 -> am-en76", "am-en76 -> am-en19", "Support"
+"am-en125 -> ¬am-en74", "am-en74 -> am-en19", "Attack"
+"am-en124 -> am-en73", "am-en73 -> am-en19", "Support"
+"am-en125 -> ¬am-en74", "am-en74 -> am-en19", "Attack"
+"am-en128 -> am-en76", "am-en76 -> am-en19", "Support"
+"am-en127 -> am-en76", "am-en76 -> am-en19", "Support"
+"am-en126 -> am-en76", "am-en76 -> am-en19", "Support"

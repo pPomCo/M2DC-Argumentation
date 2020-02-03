@@ -1,0 +1,40 @@
+premise, conclusion, weight
+" L'isolement des malades complète mais ne remplace pas la vaccination de masse", " Ce ne sont pas les vaccins mais l'isolement des malades qui a éradiqué la variole", -1.0
+"Lien entre le vaccin contre le papillomavirus et des maladies auto-immunes", " Liens entre certains vaccins et des pathologies lourdes", 1.0
+"Lien entre les sels d'aluminium et la myofasciite à macrophages", " Liens entre certains vaccins et des pathologies lourdes", 1.0
+"Lien entre le vaccin contre la grippe H1N1 et la narcolepsie", " Liens entre certains vaccins et des pathologies lourdes", 1.0
+" Aucune étude ne prouve de liens entre ces maladies et les vaccins", " Liens entre certains vaccins et des pathologies lourdes", -1.0
+"Lien entre le vaccin contre l'hépatite B et le lupus", " Liens entre certains vaccins et des pathologies lourdes", 1.0
+"Lien entre le vaccin contre la rougeole et la thrombopénie auto-immune", " Liens entre certains vaccins et des pathologies lourdes", 1.0
+"Lien entre le vaccin contre l'hépatite B et la sclérose en plaques", " Liens entre certains vaccins et des pathologies lourdes", 1.0
+"Pression contre les lanceurs d’alertes", " Le lobby pharmaceutique nous manipule", 1.0
+"Lien entre le ROR et l'autisme", " Liens entre certains vaccins et des pathologies lourdes", 1.0
+" Démontrer scientifiquement l'absence de danger de quoi que ce soit est impossible", " Un manque de preuves de l’innocuité des vaccins", -1.0
+"Financement d’études truquées", " Le lobby pharmaceutique nous manipule", 1.0
+" Ce ne sont pas les vaccins mais l'isolement des malades qui a éradiqué la variole", " Les vaccins ont éradiqué la variole", -1.0
+" La justice anglaise a innocenté Wakefield et son collègue et a même reconnu que ses accusateurs (l'équivalent du conseil de l'ordre anglais) ont été malhonnêtes", " Une rumeur reposant sur une fraude scientifique", -1.0
+"Certains pays nuancent ces recommandations", " Les autorités du monde entier recommandent la vaccination", -1.0
+" La rougeole, les oreillons et la rubéole sont potentiellement éradicables", " Les vaccins peuvent éradiquer définitivement certaines maladies", 1.0
+"Certains effets secondaires sont reconnus par les autorités", " Les vaccins sont dangereux", 1.0
+" Liens entre certains vaccins et des pathologies lourdes", " Les vaccins sont dangereux", 1.0
+"Trop de vaccins trop tôt", " Les vaccins sont dangereux", 1.0
+" Le lobby pharmaceutique nous manipule", " On nous manipule", 1.0
+" Une rumeur reposant sur une fraude scientifique", " Les bénéfices des vaccins en termes de santé sont bien plus importants que les risques", -1.0
+" Un manque de preuves de l’innocuité des vaccins", " Les vaccins sont dangereux", 1.0
+" Les vaccins ont éradiqué la variole", " Les vaccins protègent les personnes vaccinées contre de nombreuses maladies", 1.0
+" Les vaccins ont éradiqué la variole", " Les vaccins peuvent éradiquer définitivement certaines maladies", 1.0
+" Les vaccins sont en passe d'éradiquer la polio", " Les vaccins peuvent éradiquer définitivement certaines maladies", 1.0
+" Les autorités peuvent se tromper sur les vaccins", " Les autorités du monde entier recommandent la vaccination", -1.0
+"Les autorités nous manipulent", " On nous manipule", 1.0
+"Certains vaccins sont inefficaces", " Les vaccins protègent les personnes vaccinées contre de nombreuses maladies", -1.0
+" S'il existait une solution plus efficace que les vaccins, on l'utiliserait", " Il existe de meilleurs alternatives aux vaccins", -1.0
+"Les autorités servent les intérêts des puissants", " Les autorités du monde entier recommandent la vaccination", -1.0
+" La réduction du nombre d'épidémie est liée à l’amélioration des conditions d’hygiène, pas aux vaccins", " Les vaccins protègent les personnes vaccinées contre de nombreuses maladies", -1.0
+" Il existe de meilleurs alternatives aux vaccins", " Faut-il se faire vacciner ?", -1.0
+" Une bonne couverture vaccinale protège aussi les personnes non-vaccinées", " Faut-il se faire vacciner ?", 1.0
+" On nous manipule", " Faut-il se faire vacciner ?", -1.0
+" Les vaccins peuvent éradiquer définitivement certaines maladies", " Faut-il se faire vacciner ?", 1.0
+" Les bénéfices des vaccins en termes de santé sont bien plus importants que les risques", " Faut-il se faire vacciner ?", 1.0
+" Les vaccins protègent les personnes vaccinées contre de nombreuses maladies", " Faut-il se faire vacciner ?", 1.0
+" Les vaccins sont dangereux", " Faut-il se faire vacciner ?", -1.0
+" Les autorités du monde entier recommandent la vaccination", " Faut-il se faire vacciner ?", 1.0

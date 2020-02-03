@@ -1,0 +1,4 @@
+premise, conclusion, weight
+"¿Quién puede demostrar que no se trata de un progreso?", "A partir del nacimiento, vamos perdiendo terreno ante la amenaza de la muerte.", -1.0
+"¿Podríamos preguntarnos si gana terreno la muerte o pierde terreno la vida?", "A partir del nacimiento, vamos perdiendo terreno ante la amenaza de la muerte.", -0.5
+"A partir del nacimiento, vamos perdiendo terreno ante la amenaza de la muerte.", " Vivir es ir perdiendo terreno.", 1.0

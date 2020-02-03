@@ -1,0 +1,5 @@
+arg1, arg2, attack_support
+"am-ch532 -> ¬am-ch314", "am-ch314 -> am-ch27", "Attack"
+"am-ch532 -> ¬am-ch314", "am-ch314 -> am-ch27", "Attack"
+"am-ch314 -> am-ch27", "am-ch27 -> am-ch2", "Support"
+"am-ch314 -> am-ch27", "am-ch27 -> am-ch2", "Support"

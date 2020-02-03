@@ -1,0 +1,9 @@
+arg1, arg2, attack_support
+"am-en138 -> am-en96", "am-en96 -> ¬am-en34", "Support"
+"am-en137 -> ¬am-en95", "am-en95 -> ¬am-en33", "Attack"
+"am-en96 -> ¬am-en34", "am-en34 -> ¬am-en4", "Attack"
+"am-en138 -> am-en96", "am-en96 -> ¬am-en34", "Support"
+"am-en137 -> ¬am-en95", "am-en95 -> ¬am-en33", "Attack"
+"am-en95 -> ¬am-en33", "am-en33 -> am-en4", "Attack"
+"am-en96 -> ¬am-en34", "am-en34 -> ¬am-en4", "Attack"
+"am-en95 -> ¬am-en33", "am-en33 -> am-en4", "Attack"

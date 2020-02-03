@@ -1,0 +1,13 @@
+arg1, arg2, attack_support
+"am-ch698 -> ¬am-ch668", "am-ch668 -> ¬am-ch589", "Attack"
+"am-ch667 -> ¬am-ch590", "am-ch590 -> ¬am-ch399", "Attack"
+"am-ch668 -> ¬am-ch589", "am-ch589 -> am-ch399", "Attack"
+"am-ch698 -> ¬am-ch668", "am-ch668 -> ¬am-ch589", "Attack"
+"am-ch590 -> ¬am-ch399", "am-ch399 -> ¬am-ch105", "Attack"
+"am-ch667 -> ¬am-ch590", "am-ch590 -> ¬am-ch399", "Attack"
+"am-ch668 -> ¬am-ch589", "am-ch589 -> am-ch399", "Attack"
+"am-ch589 -> am-ch399", "am-ch399 -> ¬am-ch105", "Support"
+"am-ch399 -> ¬am-ch105", "am-ch105 -> am-ch7", "Attack"
+"am-ch590 -> ¬am-ch399", "am-ch399 -> ¬am-ch105", "Attack"
+"am-ch589 -> am-ch399", "am-ch399 -> ¬am-ch105", "Support"
+"am-ch399 -> ¬am-ch105", "am-ch105 -> am-ch7", "Attack"

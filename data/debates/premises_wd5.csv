@@ -1,0 +1,20 @@
+premise, conclusion, weight
+" Nous ne sommes pas conscients de toutes les données que Facebook récupère", " Les utilisateurs de Facebook consentent à donner leur données personnelles", -1.0
+" Il faut dès maintenant initier la migration vers des réseaux sociaux comme Diaspora*", " Les alternatives à Facebook sont utilisées par une minorité de personnes", -1.0
+" Beaucoup de sociétés commerciales autres que Facebook exploitent les données personnelles de leurs clients", " Facebook s'approprie les données personnelles de ses utilisateurs sans les rémunérer", -1.0
+" Les utilisateurs de Facebook consentent à donner leur données personnelles", " Facebook s'approprie les données personnelles de ses utilisateurs sans les rémunérer", -1.0
+" On ne peut pas rejeter le boycott en raison de l'existence de problèmes plus importants", " Il n'y a pas plus de raison de boycotter Facebook que les autres géants du web", -1.0
+"C'est un outil d'expression comme un autre.", " Facebook est un outil d'expression", -1.0
+" Les alternatives à Facebook sont utilisées par une minorité de personnes", " Il existe des alternatives libres à Facebook", -1.0
+" Facebook est le réseau social utilisé par la majorité des gens", " Il existe des alternatives libres à Facebook", -1.0
+" Facebook est le réseau social utilisé par la majorité des gens", " Faut-il boycotter Facebook ?", -1.0
+" Facebook a un effet délétère sur la vie sociale et le psychisme", " Faut-il boycotter Facebook ?", 1.0
+" Facebook est un outil d'expression", " Faut-il boycotter Facebook ?", -1.0
+" Facebook n'est pas fiable informatiquement", " Faut-il boycotter Facebook ?", 1.0
+" Facebook s'approprie les données personnelles de ses utilisateurs sans les rémunérer", " Faut-il boycotter Facebook ?", 1.0
+" Facebook exploite les faiblesses de ses utilisateurs", " Faut-il boycotter Facebook ?", 1.0
+" Facebook est un instrument de propagande", " Faut-il boycotter Facebook ?", 1.0
+" Il n'y a pas plus de raison de boycotter Facebook que les autres géants du web", " Faut-il boycotter Facebook ?", -1.0
+" Facebook est une entreprise toute-puissante", " Faut-il boycotter Facebook ?", 1.0
+" Il existe des alternatives libres à Facebook", " Faut-il boycotter Facebook ?", 1.0
+" Facebook permet de garder des liens avec notre entourage", " Faut-il boycotter Facebook ?", -1.0

@@ -1,0 +1,17 @@
+premise, conclusion, weight
+"La spiritualité produit des énoncés vagues et de l'indicible", " Une spiritualité rationnelle est-elle possible ?", -1.0
+"Les énoncés spirituels sont précis", " Une spiritualité rationnelle est-elle possible ?", 1.0
+"Les expériences spirituelles sont comparables", " Une spiritualité rationnelle est-elle possible ?", 1.0
+"La spiritualité est inégalitaire, contrairement à la raison", " Une spiritualité rationnelle est-elle possible ?", -1.0
+"La spiritualité est faite de sentiments", " Une spiritualité rationnelle est-elle possible ?", -1.0
+"Différents individus peuvent vérifier les mêmes affirmations spirituelles", " Une spiritualité rationnelle est-elle possible ?", 1.0
+"La spiritualité n'utilise ni la raison ni l'expérimentation", " Une spiritualité rationnelle est-elle possible ?", -1.0
+"Les affirmations de la spiritualité sont invérifiables", " Une spiritualité rationnelle est-elle possible ?", -1.0
+"La spiritualité dépend des civilisations", " Une spiritualité rationnelle est-elle possible ?", -1.0
+"La spiritualité se dote de modes de connaissance qui lui sont propres", " Une spiritualité rationnelle est-elle possible ?", 1.0
+"La spiritualité n'implique rien de reproductible", " Une spiritualité rationnelle est-elle possible ?", -1.0
+"Les énoncés de la spiritualité ne sont pas falsifiables", " Une spiritualité rationnelle est-elle possible ?", -1.0
+"La spiritualité utilise la raison et l'expérience", " Une spiritualité rationnelle est-elle possible ?", 1.0
+"La spiritualité ne dépend ni de la culture ni de la religion", " Une spiritualité rationnelle est-elle possible ?", 1.0
+"La spiritualité comporte des techniques répétables", " Une spiritualité rationnelle est-elle possible ?", 1.0
+"La spiritualité ne demande pas la foi", " Une spiritualité rationnelle est-elle possible ?", 1.0

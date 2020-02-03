@@ -1,0 +1,67 @@
+premise, conclusion, weight
+" D'après les définitions ci-dessus, le Front national est donc bien un parti nationaliste", " Le Front national est un parti patriote", -1.0
+" Le Front national n'est pas fasciste juste parce que ses dirigeants tiennent des propos racistes, xénophobes, antisémites ou homophobes", " Le Front national est un parti raciste, xénophobe, antisémite et homophobe", -1.0
+" Le Front national compte à sa fondation des Résistants dans ses rangs", " Le Front national tire son origine d'individus et groupes fascistes", -1.0
+" Le Front national n'est pas fasciste juste parce qu'il reprend le slogan 'Ni gauche, ni droite'", " Le slogan 'Ni gauche, ni droite' est typiquement fasciste", -1.0
+" Le Front national ne prône pas de théories racistes", " Le Front national est un parti raciste, xénophobe, antisémite et homophobe", -1.0
+"La formation interne a écarté tous les liens avec le fascisme", " L'étude du fascisme fait partie de la formation des militants du Front national", -1.0
+"Le FN n'a actuellement pas de milices armées", " Le Front national tire son origine d'individus et groupes fascistes", -1.0
+" Marine Le Pen a fait partie en 2007 d'un groupe parlementaire européen avec des néofascistes", " Les Le Pen entretiennent des liens avec des personnes considérées fascistes", 1.0
+" Le Front national est un parti nationaliste", " Le Front national est-il un parti fasciste ?", 1.0
+" L'étude du fascisme fait partie de la formation des militants du Front national", " Le Front national est-il un parti fasciste ?", 1.0
+" Le Front national n'a pas pour objectif de façonner un ordre nouveau", " Le Front national est-il un parti fasciste ?", -1.0
+" Le Front national est un parti intégré dans le jeu électoral", " Le Front national est-il un parti fasciste ?", -1.0
+" Le Front national est un parti national-populiste", " Le Front national est un parti raciste, xénophobe, antisémite et homophobe", -1.0
+" Le Front national est un parti national-populiste", " Les Le Pen entretiennent des liens avec des personnes considérées fascistes", -1.0
+" Le Front national est un parti national-populiste", " Le slogan 'Ni gauche, ni droite' est typiquement fasciste", -1.0
+" Le Front national est un parti national-populiste", " Le Front national est-il un parti fasciste ?", -1.0
+" Le Front national est un parti national-populiste", " Le Front national est un parti nationaliste", -1.0
+" Le Front national est un parti national-populiste", " Le Front national tire son origine d'individus et groupes fascistes", -1.0
+" La tendance fasciste du Front national est en voie de marginalisation", " Le Front national est-il un parti fasciste ?", -1.0
+" La tendance fasciste du Front national est en voie de marginalisation", " Les Le Pen entretiennent des liens avec des personnes considérées fascistes", -1.0
+" La tendance fasciste du Front national est en voie de marginalisation", " Le Front national tire son origine d'individus et groupes fascistes", -1.0
+" Le Front national n'a pas de milices armées", " Le Front national est-il un parti fasciste ?", -1.0
+" Le Front national se réclame de la démocratie", " Le Front national est-il un parti fasciste ?", -1.0
+" Le Front national a la base sociale traditionnelle du fascisme", " Le Front national est-il un parti fasciste ?", 1.0
+" Les Le Pen entretiennent des liens avec des personnes considérées fascistes", " Le Front national est-il un parti fasciste ?", 1.0
+" Le Front national tire son origine d'individus et groupes fascistes", " Le Front national est-il un parti fasciste ?", 1.0
+" Le slogan 'Ni gauche, ni droite' est typiquement fasciste", " Le Front national est-il un parti fasciste ?", 1.0
+"Le programme du FN a un volet sécuritaire via le respect de l'autorité policière et donne une place à l'armée très importante", " Le Front national est-il un parti fasciste ?", 1.0
+" Le Front national s'est dédiabolisé avec Marine Le Pen", " Le Front national est un parti raciste, xénophobe, antisémite et homophobe", -1.0
+" Le Front national s'est dédiabolisé avec Marine Le Pen", " Les Le Pen entretiennent des liens avec des personnes considérées fascistes", -1.0
+" Le Front national s'est dédiabolisé avec Marine Le Pen", " Le Front national est-il un parti fasciste ?", -1.0
+" Le Front national est un parti raciste, xénophobe, antisémite et homophobe", " Le Front national est-il un parti fasciste ?", 1.0
+" Le terme « populiste » ne renvoie qu'à une partie des idées du Front national", " Le Front national est un parti national-populiste", -1.0
+" La filiation d'Ordre nouveau au Front national n’est que chronologique", " Le Front national tire son origine d'individus et groupes fascistes", -1.0
+" L'usage du terme « populisme » sert à éviter de qualifier le Front national de raciste", " Le Front national est un parti national-populiste", -1.0
+" Le populisme ne s'installe généralement pas durablement dans le paysage politique", " Le Front national est un parti national-populiste", -1.0
+" Marine Le Pen entretient des relations avec d'anciens néonazis", " Les Le Pen entretiennent des liens avec des personnes considérées fascistes", 1.0
+" La dédiabolisation du Front national ne pourra être effective que lorsque le FN renoncera à son héritage fasciste", " Le Front national s'est dédiabolisé avec Marine Le Pen", -1.0
+" Les Le Pen participent à des évènements néonazis", " Les Le Pen entretiennent des liens avec des personnes considérées fascistes", 1.0
+" Le Front national joue le jeu électoral seulement pour acquérir une large audience", " Le Front national est un parti intégré dans le jeu électoral", -1.0
+"Le FN n'a pas intérêt à se réclamer du fascisme", " La tendance fasciste du Front national est en voie de marginalisation", -1.0
+" Hitler et Mussolini se sont présentés aux élections", " Le Front national est un parti intégré dans le jeu électoral", -1.0
+" Jean-Marie Le Pen entretient des relations avec d'anciens nazis et collaborationnistes", " Les Le Pen entretiennent des liens avec des personnes considérées fascistes", 1.0
+"La littérature fasciste circule toujours, de façon dissimulée", " La tendance fasciste du Front national est en voie de marginalisation", -1.0
+" L'usage du terme « populisme » sert à amalgamer extrême droite et gauche radicale", " Le Front national est un parti national-populiste", -1.0
+" Le Front national n'est pas fasciste juste parce que ses dirigeants entretiennent des relations avec des fascistes", " Les Le Pen entretiennent des liens avec des personnes considérées fascistes", -1.0
+" Le Front national a toujours des élus se revendiquant du fascisme", " Le Front national s'est dédiabolisé avec Marine Le Pen", -1.0
+" Marion-Maréchal Le Pen entretient des relations avec d'anciens néonazis", " Les Le Pen entretiennent des liens avec des personnes considérées fascistes", 1.0
+" Les relations entre les groupes fascistes et le Front national sont devenues moins visibles mais sont toujours présentes", " Le Front national s'est dédiabolisé avec Marine Le Pen", -1.0
+" Les thèmes fascistes du Front national sont toujours présents en « off »", " Le Front national s'est dédiabolisé avec Marine Le Pen", -1.0
+"Alain Soral, bien qu'ayant rompu avec le FN, est très influent auprès des jeunes militants frontistes", " La tendance fasciste du Front national est en voie de marginalisation", -1.0
+" Il y a une continuité entre la génération de la « dédiabolisation » du Front national et l'ancienne", " Le Front national s'est dédiabolisé avec Marine Le Pen", -1.0
+" Les propos racistes, antisémites et islamophobes sont toujours en vigueur chez les militants du Front national", " Le Front national s'est dédiabolisé avec Marine Le Pen", -1.0
+" Le Front national tend vers un régime autocratique tel que celui de Poutine", " Le Front national se réclame de la démocratie", -1.0
+"Le FN n'a actuellement pas pour objectif de façonner un ordre nouveau", " Le Front national tire son origine d'individus et groupes fascistes", -1.0
+"Le FN peut difficilement se passer des fascistes, car certains sont des cadres compétents", " La tendance fasciste du Front national est en voie de marginalisation", -1.0
+"Les militants exclus pour fascisme reviennent quand le scandale est oublié", " La tendance fasciste du Front national est en voie de marginalisation", -1.0
+" L'exclusion des militants du Front national présumés fascistes permet au FN de se dédouaner", " La tendance fasciste du Front national est en voie de marginalisation", -1.0
+" Le Front national garde une deuxième ligne fasciste", " Le Front national s'est dédiabolisé avec Marine Le Pen", -1.0
+" Le Front national pourrait être amené à prendre le pouvoir par la force dans un contexte de crise sociale aiguë", " Le Front national est un parti intégré dans le jeu électoral", -1.0
+" Le Front national pourrait avoir besoin de milices armées si la situation politique changeait", " Le Front national n'a pas de milices armées", -1.0
+" Le Front national n'est pas fasciste juste parce qu'il a la base sociale traditionnelle du fascisme", " Le Front national a la base sociale traditionnelle du fascisme", -1.0
+"Le FN n'a actuellement pas besoin de milices armées", " Le Front national n'a pas de milices armées", -1.0
+" Les propos racistes qui étaient auparavant considérés comme des dérapages sont aujourd'hui banalisés en raison de la droitisation de la vie politique", " Le Front national s'est dédiabolisé avec Marine Le Pen", -1.0
+" Le Front national est un parti patriote", " Le Front national est un parti nationaliste", -1.0
+" Le terme « populiste » n'est pas rigoureusement défini", " Le Front national est un parti national-populiste", -1.0
