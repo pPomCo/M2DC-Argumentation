@@ -35,6 +35,7 @@ j'espère que j'oublie rien d'important, sinon envoyez moi un mail<br/>
 - retransforme les premisses en text simple et met tout ça dans un DataFrame (il me semble que c'est la même chose que le dataframe de Pandas)
 - ecrit tout ça dans un fichier "PreparedData.csv" pour pouvoir le lire et en faire sa lecture afin de le lire dans le prochain programme
 	- changer le path sinon il s'écrira dans un endroit obscur de votre machine (tips : pareil pour quand il faudra le lire)
+
 <br/>
 ## Baseline.jl <br/>
 Très simple ici : <br/>
