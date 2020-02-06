@@ -5,25 +5,25 @@ les fonctions commentées seront utiles plus tard<br/>
 Download Julia 1.3 : https://julialang.org/downloads/<br/>
 <br/>
 # Un IDE a considérer pour Julia : Atom avec le package "Juno"<br/>
-Très pratique, permet d'executer instruction par instruction
-pour installer un package avec Atom : File -> Settings -> click -> onglet Package
-Sinon pour Arch Linux -> Jupyter
-(enfin après vous faites comme vous voulez c'est juste a considérer)
-
-# Pour installer des packages Julia
-Pkg.add("truc") -> pour installer le package "truc". A insérer directement dans le code (le package truc n'existe pas vraiment je crois)
-ou depuis l'interface Julia tapez -> "] add truc" (sans guillemets bien sûr)
-
-# Quelques différences Python -> Julia qui pourront vous aider
-import CSV ==> using CSV (même si import existe aussi en Julia)
-pour déclarer une fct ==> function truc(a, b, c) # et "end" à la fin des fonctions ET des IF/WHILE/FOR/ETC
-concaténation de string ==> * au lieu de +
-Les fonctions peuvent être suivies d'un point (".") pour dire d'appliquer la fct à tous les elements du vecteur
-Compilation "Just-in-time" donc la première éxecution d'un truc est plus lente que les suivantes
-faites des fonctions parce que les variables ont une portée locale et ne peuvent pas passer du main à un "for" par exemple
-j'espère que j'oublie rien d'important, sinon envoyez moi un mail
-
-# DataProcessing.jl
+Très pratique, permet d'executer instruction par instruction<br/>
+pour installer un package avec Atom : File -> Settings -> click -> onglet Package<br/>
+Sinon pour Arch Linux -> Jupyter<br/>
+(enfin après vous faites comme vous voulez c'est juste a considérer)<br/>
+<br/>
+# Pour installer des packages Julia<br/>
+Pkg.add("truc") -> pour installer le package "truc". A insérer directement dans le code (le package truc n'existe pas vraiment je crois)<br/>
+ou depuis l'interface Julia tapez -> "] add truc" (sans guillemets bien sûr)<br/>
+<br/>
+# Quelques différences Python -> Julia qui pourront vous aider<br/>
+import CSV ==> using CSV (même si import existe aussi en Julia)<br/>
+pour déclarer une fct ==> function truc(a, b, c) # et "end" à la fin des fonctions ET des IF/WHILE/FOR/ETC<br/>
+concaténation de string ==> * au lieu de +<br/>
+Les fonctions peuvent être suivies d'un point (".") pour dire d'appliquer la fct à tous les elements du vecteur<br/>
+Compilation "Just-in-time" donc la première éxecution d'un truc est plus lente que les suivantes<br/>
+faites des fonctions parce que les variables ont une portée locale et ne peuvent pas passer du main à un "for" par exemple<br/>
+j'espère que j'oublie rien d'important, sinon envoyez moi un mail<br/>
+<br/>
+# DataProcessing.jl<br/>
 - En gros le code charge les données de l'extraction de pipo (que je remet pour pas que vous cherchiez)
 	- les premisses sont dans un array et les poids dans un autre
 	- transforme toutes les premisses dans un type batard "StringDocument" necessaire pour le stemming plus loin
@@ -36,6 +36,6 @@ j'espère que j'oublie rien d'important, sinon envoyez moi un mail
 - retransforme les premisses en text simple et met tout ça dans un DataFrame (il me semble que c'est la même chose que le dataframe de Pandas)
 - ecrit tout ça dans un fichier "PreparedData.csv" pour pouvoir le lire et en faire sa lecture afin de le lire dans le prochain programme
 	- changer le path sinon il s'écrira dans un endroit obscur de votre machine (tips : pareil pour quand il faudra le lire)
-
-# Baseline.jl
-Coming soon
+<br/>
+# Baseline.jl<br/>
+Coming soon<br/>
