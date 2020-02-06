@@ -20,6 +20,7 @@ concaténation de string ==> * au lieu de +<br/>
 Les fonctions peuvent être suivies d'un point (".") pour dire d'appliquer la fct à tous les elements du vecteur<br/>
 Compilation "Just-in-time" donc la première éxecution d'un truc est plus lente que les suivantes<br/>
 faites des fonctions parce que les variables ont une portée locale et ne peuvent pas passer du main à un "for" par exemple<br/>
+Ah oui, les indices des tableaux commencent à 1 et non 0, pas d'inquiétude on s'y fait vite <br/>
 j'espère que j'oublie rien d'important, sinon envoyez moi un mail<br/>
 <br/>
 ## DataProcessing.jl <br/>
