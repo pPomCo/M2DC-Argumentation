@@ -1,6 +1,5 @@
 ## Prescriptum <br/>
 il se peut que certaines parties du code soit coder de manière pas opti du tous, si vous voulez critiquer ça merci d'en faire part d'une manière constructive (ok Huto ?)<br/>
-les fonctions commentées seront utiles plus tard<br/>
 <br/>
 Download Julia 1.3 : https://julialang.org/downloads/<br/>
 <br/>
@@ -38,4 +37,10 @@ j'espère que j'oublie rien d'important, sinon envoyez moi un mail<br/>
 	- changer le path sinon il s'écrira dans un endroit obscur de votre machine (tips : pareil pour quand il faudra le lire)
 <br/>
 ## Baseline.jl <br/>
-Coming soon<br/>
+Très simple ici : <br/>
+- Chargement des données
+- "Train"
+- Test
+- Mesures de pertinence
+<br/>
+Voilà ! Si vous avez besoin de plus amples explications sur un truc, envoyez moi un mail !<br/>
