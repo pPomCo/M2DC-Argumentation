@@ -1,10 +1,10 @@
-Prescriptum : 
-il se peut que certaines parties du code soit coder de manière pas opti du tous, si vous voulez critiquer ça merci d'en faire part d'une manière constructive (ok Huto ?)
-les fonctions commentées seront utiles plus tard
-
-Download Julia 1.3 : https://julialang.org/downloads/
-
-# Un IDE a considérer pour Julia : Atom avec le package "Juno"
+Prescriptum : <br/>
+il se peut que certaines parties du code soit coder de manière pas opti du tous, si vous voulez critiquer ça merci d'en faire part d'une manière constructive (ok Huto ?)<br/>
+les fonctions commentées seront utiles plus tard<br/>
+<br/>
+Download Julia 1.3 : https://julialang.org/downloads/<br/>
+<br/>
+# Un IDE a considérer pour Julia : Atom avec le package "Juno"<br/>
 Très pratique, permet d'executer instruction par instruction
 pour installer un package avec Atom : File -> Settings -> click -> onglet Package
 Sinon pour Arch Linux -> Jupyter
