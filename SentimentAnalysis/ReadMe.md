@@ -39,7 +39,7 @@ j'espère que j'oublie rien d'important, sinon envoyez moi un mail<br/>
 
 <br/>
 ## Baseline.jl <br/>
-Très simple ici : <br/>
+Très simple ici
 - Chargement des données
 - "Train"
 - Test
