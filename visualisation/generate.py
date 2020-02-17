@@ -30,8 +30,8 @@ def prepareGraph(nodes_df, edges_df, path):
     return None
 
 def main():
-    sources = ["wd", "kl", "am-fr"]
-    name_s = ["Wikidebat","Kialo","Arguman-Fr"]
+    sources = ["wd", "kl", "am-fr", "wd_args"]
+    name_s = ["Wikidebat","Kialo","Arguman-Fr", "Wididebats-args"]
     for source,name in zip(sources,name_s):
         # create path to store json
         path = "json/"+source
