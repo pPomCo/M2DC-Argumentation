@@ -6,6 +6,8 @@
 - Additionally to fit_simple, there is a fit_2inputs method for the sequences based models. (Similar for evaluation)
 - Lemmas_id sequences have been added to the preprocessing phase
 - New adaptators is created for sequences model.
+
+
 **To Do**
 - Even if exists the configuration file, there is no a complete integration with all the parameters option in the framework
 - It must be verified that the evaluation part is correct for the output given by the architectures.
