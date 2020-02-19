@@ -80,6 +80,12 @@ def preprocessed_argument_df(
                 #    lemma for lemma in lemmas if lemma.isalpha() 
                 #])])
 
+
+    # Add lemmas ID from Gensim Diciotionary
+    df_nodes['lemma_id'] = df_nodes['lemmas'].apply(
+            lambda lemmas: dictionary.doc2idx(lemmas, unknown_word_index=0)
+            )
+
     ### END OF NODE FEATURES
 
     # Get the columns of individual nodes. They need to be renamed

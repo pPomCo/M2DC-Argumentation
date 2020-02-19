@@ -36,6 +36,29 @@ def fit_simple(model,
     return model
 
 
+def fit_2inputs(model,
+        training_df_loaders,
+        validation_df_loaders,
+        parameters = None,
+    ):
+
+    # Whole training file, with default mapping
+    training_generator = map(
+            lambda batch: (batch['X'], batch['y']),
+            ml_gen.generator_DataFrame2numpy(
+                training_df_loaders,
+                ml_ad.sequences_DataFrame2numpy_mapping(parameters),
+                batch_size = None, epochs = 1,
+                default_transform = ml_ad.default_DataFrame2numpy_transform,
+            ))
+
+    X_train, y_train = next(training_generator)
+    del training_generator
+    model.fit([X_train['premise_seq'],X_train['conclusion_seq']] , y_train)
+
+    return model
+
+
 # Using pathlib to get all files matching suffix.*prefix in a directory.
 #preprocessed_arguments_dir_path = Path(preprocessed_arguments_dir)
 #

@@ -1,5 +1,15 @@
 # Machine Learning for argument pro/con classification
 
+
+**Update** 
+- Profile models added: There is a profile configuration for each model and params in the cfg folder.
+- Additionally to fit_simple, there is a fit_2inputs method for the sequences based models. (Similar for evaluation)
+- Lemmas_id sequences have been added to the preprocessing phase
+- New adaptators is created for sequences model.
+**To Do**
+- Even if exists the configuration file, there is no a complete integration with all the parameters option in the framework
+- It must be verified that the evaluation part is correct for the output given by the architectures.
+
 This directory contains code to preprocess arguments (which are pairs of text labeled with the type of relation (pro & con)) using NLP techniques, train machine learning models on arguments and evaluate the quality of said models.
 
 ## User guide

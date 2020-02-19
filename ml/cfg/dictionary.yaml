@@ -1,4 +1,10 @@
 dictionary:
-    vocabulary_size: 1000
+    vocabulary_size: 50
     min_frequency_absolute: 5
     max_frequency_relative: 0.5
+
+model:
+    # if you are using embeddings based model adjust the vocabulary size
+    profile: "cocarascu_default"
+    #profile: "random_forest_default"
+    

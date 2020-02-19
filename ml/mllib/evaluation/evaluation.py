@@ -44,6 +44,41 @@ def evaluate_simple(
     print("Accuracy:", accuracy_score(y, y_prediction))
 
 
+def evaluate_2inputs(
+        model, 
+        training_df_loaders, validation_df_loaders,
+        parameters):
+
+    generator = lambda df_loaders: map(
+            lambda batch: (batch['X'], batch['y']),
+            ml_gen.generator_DataFrame2numpy(
+                df_loaders,
+                ml_ad.sequences_DataFrame2numpy_mapping(parameters),
+                batch_size = None, epochs = 1,
+                default_transform = ml_ad.default_DataFrame2numpy_transform,
+            )
+        )
+
+
+    print("Training metrics:")
+    X, y = next(generator(training_df_loaders))
+    y_prediction = model.predict([X['premise_seq'],X['conclusion_seq']]) > 0.5
+    y_prediction = [[0] if p[0] else [1] for p in y_prediction ]
+
+    print("Confusion matrix:")
+    print("Accuracy:", accuracy_score(y, y_prediction))
+    print()
+
+
+    print("Validation metrics:")
+    X, y = next(generator(validation_df_loaders))
+    y_prediction = model.predict([X['premise_seq'],X['conclusion_seq']]) > 0.5
+    y_prediction = [[0] if p[0] else [1] for p in y_prediction ]
+
+    print("Confusion matrix:")
+    print(confusion_matrix(y, y_prediction))
+    print("Accuracy:", accuracy_score(y, y_prediction))
+
 
 if __name__ == '__main__':
     model = pkl.load(open(sys.argv[1], 'rb'))

@@ -2,6 +2,8 @@ import numpy as np
 import pandas as pd
 import gensim
 
+from keras.preprocessing.sequence import pad_sequences
+
 # Mapping for most models: X is the concatenation of all features, 
 # y the concatenation of all targets. 
 # The column renaming is done for demonstration purposes.
@@ -36,6 +38,38 @@ def default_DataFrame2numpy_mapping(parameters, merge_X=True, merge_y=True):
     }
 
 
+def sequences_DataFrame2numpy_mapping(parameters, merge_X=True, merge_y=True):
+
+    padding_doc = lambda x: keras_padding_text(
+            x, maxlen=50 ) #later we can read this param from config file (emb size)
+
+    return {
+            'X':{
+                    'columns': {
+                            'premise_lemma_id' : {
+                                    'function': padding_doc,
+                                    'name': 'premise_seq'
+                                    } ,
+                            'conclusion_lemma_id' : {
+                                    'function': padding_doc,
+                                    'name': 'conclusion_seq'
+                                    } 
+                            },
+                    'parameters': {
+                            'merge': False
+                            },
+                    
+                    },
+            'y' : {
+                    'columns': {
+                            'pro': {},
+                            },
+                    'parameters': {
+                            'merge': merge_y,
+                            }
+                    }
+            }
+
 def default_DataFrame2numpy_transform(column):
     """
         Default function to use for DataFrame columns.
@@ -56,4 +90,13 @@ def gensim_sparse_DataFrame2numpy(column, length=1000):
             signature='()->(n)')
 
     return vectorized_sparse2full(column.values)
+
+def keras_padding_text(column, maxlen=50):
+    """
+    Add 0s at the end of the vector representation of each document so
+    premise and conclusion have the same length
+    """
+    #return np.vectorize( pad_sequences(column.values, maxlen=maxlen), 
+    #        signature='()->(n)')
+    return pad_sequences(column.values, maxlen=maxlen) 
 

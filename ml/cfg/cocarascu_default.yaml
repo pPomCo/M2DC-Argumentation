@@ -1,0 +1,15 @@
+profile:
+    model: "cocarascu"
+    embedded_size: 100
+    vocab_size: 50
+    maxlen: 50
+    train_mbedding: False
+    embedding_matrix: null
+    n_lstm: 32
+    acti_lstm: "relu"
+    lstm: "bi"
+    dropout_rate: 0.2
+    merge: "concat"
+    n_nn: 32
+    n_classif: 2
+    lrate: 0.001

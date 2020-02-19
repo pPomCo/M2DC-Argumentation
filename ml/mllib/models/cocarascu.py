@@ -25,7 +25,7 @@ def getOptionsCocarascu():
     default_options["dropout_rate"] = 0.2
     default_options["merge"] = "concat"
     default_options["n_nn"] = 32
-    default_options["n_classif"] = 3
+    default_options["n_classif"] = 2#2, change to 1 because of input shape (and also sparse_cateorical_crossentropy)
     default_options["lrate"] = 0.001
 
     return default_options
@@ -121,7 +121,8 @@ def CocarascuModel(options=None):
     model = Model(inputs=[x.input, y.input], outputs=z)
     
     adam = Adam(lr=options["lrate"])
-    model.compile(optimizer=adam, loss="categorical_crossentropy", metrics=["accuracy"])
+    #model.compile(optimizer=adam, loss="categorical_crossentropy", metrics=["accuracy"])
+    model.compile(optimizer=adam, loss="sparse_categorical_crossentropy", metrics=["accuracy"])
     
     print(model.summary())
     return model
