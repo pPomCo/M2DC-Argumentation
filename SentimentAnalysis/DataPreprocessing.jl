@@ -75,11 +75,10 @@ end
 
 Premises = []
 Weights = []
-for i in 0:25
-    tmp = CSV.read(ARGS[1])
-    push!(Premises, tmp.premise)
-    push!(Weights, collect(Iterators.flatten(tmp.weight)))
-end
+tmp = CSV.read(ARGS[1])
+push!(Premises, tmp.premise)
+push!(Weights, collect(Iterators.flatten(tmp.weight)))
+
 
 Premises = collect(Iterators.flatten(Premises))
 Weights = collect(Iterators.flatten(Weights))
