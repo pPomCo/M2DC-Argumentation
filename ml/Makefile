@@ -86,6 +86,7 @@ $(TEXT_PREPROCESSED_VALIDATION_NODES): $(SRC_DIR)/preprocess_nodes.py \
 	@echo
 
 include $(SRC_DIR)/Dictionary/Makefile
+
 #$(DICTIONARY): \
 #		$(TEXT_PREPROCESSED_TRAINING_NODES) \
 #		$(RAW_TRAINING_ARGUMENTS) \
